@@ -1,0 +1,1411 @@
+,Unnamed: 0,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,Toss_Win_Flag,Game_Win_Flag,Bat_First_Flag
+0,19.0,Australia,lost,5 wickets,7.0,won,1st,South Africa,Brisbane,15 Jan 2006,16.0,19,0.0,0,0.842105263158,,1,0,1
+1,20.0,Australia,won,59 runs,,won,1st,South Africa,Melbourne (Docklands),20 Jan 2006,16.0,20,0.0,1,0.8,0.0,1,1,1
+2,24.0,Australia,won,80 runs,,won,1st,South Africa,Melbourne (Docklands),3 Feb 2006,19.0,24,1.0,2,0.791666666667,0.5,1,1,1
+3,25.0,Australia,won,57 runs,,won,1st,South Africa,Sydney,5 Feb 2006,20.0,25,2.0,3,0.8,0.666666666667,1,1,1
+4,29.0,Australia,lost,6 wickets,21.0,won,1st,South Africa,Centurion,26 Feb 2006,23.0,29,3.0,4,0.793103448276,0.75,1,0,1
+5,30.0,Australia,lost,196 runs,,lost,2nd,South Africa,Cape Town,3 Mar 2006,23.0,30,3.0,5,0.766666666667,0.6,0,0,0
+6,31.0,Australia,won,24 runs,,lost,1st,South Africa,Port Elizabeth,5 Mar 2006,23.0,31,3.0,6,0.741935483871,0.5,0,1,1
+7,32.0,Australia,won,1 wickets,5.0,lost,2nd,South Africa,Durban,10 Mar 2006,24.0,32,4.0,7,0.75,0.571428571429,0,1,0
+8,33.0,Australia,lost,1 wickets,1.0,won,1st,South Africa,Johannesburg,12 Mar 2006,25.0,33,5.0,8,0.757575757576,0.625,1,0,1
+9,52.0,Australia,won,83 runs,,lost,1st,South Africa,Basseterre,24 Mar 2007,38.0,52,5.0,9,0.730769230769,0.555555555556,0,1,1
+10,57.0,Australia,won,7 wickets,111.0,lost,2nd,South Africa,Gros Islet,25 Apr 2007,43.0,57,6.0,10,0.754385964912,0.6,0,1,0
+11,84.0,Australia,lost,3 wickets,3.0,won,1st,South Africa,Melbourne,16 Jan 2009,64.0,84,7.0,11,0.761904761905,0.636363636364,1,0,1
+12,85.0,Australia,won,5 runs,,lost,1st,South Africa,Hobart,18 Jan 2009,64.0,85,7.0,12,0.752941176471,0.583333333333,0,1,1
+13,86.0,Australia,lost,3 wickets,21.0,won,1st,South Africa,Sydney,23 Jan 2009,65.0,86,8.0,13,0.755813953488,0.615384615385,1,0,1
+14,87.0,Australia,lost,8 wickets,71.0,won,1st,South Africa,Adelaide,26 Jan 2009,65.0,87,8.0,14,0.747126436782,0.571428571429,1,0,1
+15,88.0,Australia,lost,39 runs,,lost,2nd,South Africa,Perth,30 Jan 2009,65.0,88,8.0,15,0.738636363636,0.533333333333,0,0,0
+16,93.0,Australia,won,141 runs,,won,1st,South Africa,Durban,3 Apr 2009,67.0,93,8.0,16,0.720430107527,0.5,1,1,1
+17,94.0,Australia,lost,7 wickets,142.0,won,1st,South Africa,Centurion,5 Apr 2009,68.0,94,9.0,17,0.723404255319,0.529411764706,1,0,1
+18,95.0,Australia,lost,25 runs,,lost,2nd,South Africa,Cape Town,9 Apr 2009,68.0,95,9.0,18,0.715789473684,0.5,0,0,0
+19,96.0,Australia,lost,61 runs,,won,2nd,South Africa,Port Elizabeth,13 Apr 2009,68.0,96,9.0,19,0.708333333333,0.473684210526,1,0,0
+20,97.0,Australia,won,47 runs,,lost,1st,South Africa,Johannesburg,17 Apr 2009,68.0,97,9.0,20,0.701030927835,0.45,0,1,1
+21,141.0,Australia,won,93 runs,,lost,1st,South Africa,Centurion,19 Oct 2011,99.0,141,10.0,21,0.702127659574,0.47619047619,0,1,1
+22,142.0,Australia,lost,80 runs,,lost,2nd,South Africa,Port Elizabeth,23 Oct 2011,100.0,142,11.0,22,0.704225352113,0.5,0,0,0
+23,143.0,Australia,won,3 wickets,15.0,lost,2nd,South Africa,Durban,28 Oct 2011,100.0,143,11.0,23,0.699300699301,0.478260869565,0,1,0
+24,177.0,Australia,lost,7 wickets,20.0,lost,1st,South Africa,Harare,27 Aug 2014,120.0,177,12.0,24,0.677966101695,0.5,0,0,1
+25,178.0,Australia,won,62 runs,,lost,1st,South Africa,Harare,2 Sep 2014,120.0,178,12.0,25,0.674157303371,0.48,0,1,1
+26,179.0,Australia,lost,6 wickets,55.0,lost,1st,South Africa,Harare,6 Sep 2014,121.0,179,13.0,26,0.675977653631,0.5,0,0,1
+27,183.0,Australia,won,32 runs,,lost,1st,South Africa,Perth,14 Nov 2014,124.0,183,13.0,27,0.677595628415,0.481481481481,0,1,1
+28,184.0,Australia,lost,3 wickets,134.0,won,1st,South Africa,Perth,16 Nov 2014,125.0,184,14.0,28,0.679347826087,0.5,1,0,1
+29,185.0,Australia,won,73 runs,,won,1st,South Africa,Canberra,19 Nov 2014,125.0,185,14.0,29,0.675675675676,0.48275862069,1,1,1
+30,186.0,Australia,won,3 wickets,6.0,lost,2nd,South Africa,Melbourne,21 Nov 2014,126.0,186,15.0,30,0.677419354839,0.5,0,1,0
+31,187.0,Australia,won,2 wickets,5.0,lost,2nd,South Africa,Sydney,23 Nov 2014,127.0,187,16.0,31,0.679144385027,0.516129032258,0,1,0
+32,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+33,0.0,Australia,won,116 runs,,won,1st,West Indies,Melbourne,14 Jan 2005,0.0,0,0.0,0,,,1,1,1
+34,3.0,Australia,won,73 runs,,won,1st,West Indies,Adelaide,26 Jan 2005,3.0,3,1.0,1,1.0,1.0,1,1,1
+35,37.0,Australia,won,78 runs,,won,1st,West Indies,Kuala Lumpur,12 Sep 2006,28.0,37,2.0,2,0.756756756757,1.0,1,1,1
+36,38.0,Australia,lost,3 wickets,16.0,won,1st,West Indies,Kuala Lumpur,18 Sep 2006,29.0,38,3.0,3,0.763157894737,1.0,1,0,1
+37,40.0,Australia,won,127 runs,,won,1st,West Indies,Kuala Lumpur,24 Sep 2006,30.0,40,3.0,4,0.75,0.75,1,1,1
+38,41.0,Australia,lost,10 runs,,lost,2nd,West Indies,Mumbai (BS),18 Oct 2006,31.0,41,4.0,5,0.756097560976,0.8,0,0,0
+39,44.0,Australia,won,8 wickets,41.0,lost,2nd,West Indies,Mumbai (BS),5 Nov 2006,33.0,44,4.0,6,0.75,0.666666666667,0,1,0
+40,53.0,Australia,won,103 runs,,lost,1st,West Indies,North Sound,27 Mar 2007,39.0,53,5.0,7,0.735849056604,0.714285714286,0,1,1
+41,76.0,Australia,won,84 runs,,lost,1st,West Indies,Kingstown,24 Jun 2008,56.0,76,6.0,8,0.736842105263,0.75,0,1,1
+42,77.0,Australia,won,63 runs,,won,1st,West Indies,St George's,27 Jun 2008,57.0,77,7.0,9,0.74025974026,0.777777777778,1,1,1
+43,78.0,Australia,won,7 wickets,57.0,won,2nd,West Indies,St George's,29 Jun 2008,58.0,78,8.0,10,0.74358974359,0.8,1,1,0
+44,79.0,Australia,won,1 runs,,lost,1st,West Indies,Basseterre,4 Jul 2008,59.0,79,9.0,11,0.746835443038,0.818181818182,0,1,1
+45,80.0,Australia,won,169 runs,,won,1st,West Indies,Basseterre,6 Jul 2008,60.0,80,10.0,12,0.75,0.833333333333,1,1,1
+46,103.0,Australia,won,50 runs,,lost,1st,West Indies,Johannesburg,26 Sep 2009,72.0,103,11.0,13,0.699029126214,0.846153846154,0,1,1
+47,117.0,Australia,won,113 runs,,lost,1st,West Indies,Melbourne,7 Feb 2010,84.0,117,12.0,14,0.717948717949,0.857142857143,0,1,1
+48,118.0,Australia,won,8 wickets,141.0,lost,2nd,West Indies,Adelaide,9 Feb 2010,85.0,118,13.0,15,0.720338983051,0.866666666667,0,1,0
+49,119.0,Australia,won,50 runs,,lost,1st,West Indies,Brisbane,14 Feb 2010,86.0,119,14.0,16,0.72268907563,0.875,0,1,1
+50,120.0,Australia,won,125 runs,,won,1st,West Indies,Melbourne,19 Feb 2010,87.0,120,15.0,17,0.725,0.882352941176,1,1,1
+51,155.0,Australia,won,64 runs,,won,1st,West Indies,Kingstown,16 Mar 2012,107.0,155,16.0,18,0.690322580645,0.888888888889,1,1,1
+52,156.0,Australia,lost,5 wickets,10.0,lost,1st,West Indies,Kingstown,18 Mar 2012,108.0,156,17.0,19,0.692307692308,0.894736842105,0,0,1
+53,157.0,Australia,lost,42 runs,,won,2nd,West Indies,Gros Islet,23 Mar 2012,108.0,157,17.0,20,0.687898089172,0.85,1,0,0
+54,158.0,Australia,won,30 runs,,lost,1st,West Indies,Gros Islet,25 Mar 2012,108.0,158,17.0,21,0.683544303797,0.809523809524,0,1,1
+55,166.0,Australia,won,9 wickets,244.0,lost,2nd,West Indies,Perth,1 Feb 2013,113.0,166,18.0,22,0.680722891566,0.818181818182,0,1,0
+56,167.0,Australia,won,54 runs,,lost,1st,West Indies,Perth,3 Feb 2013,114.0,167,19.0,23,0.682634730539,0.826086956522,0,1,1
+57,168.0,Australia,won,39 runs,,won,1st,West Indies,Canberra,6 Feb 2013,115.0,168,20.0,24,0.684523809524,0.833333333333,1,1,1
+58,169.0,Australia,won,5 wickets,31.0,lost,2nd,West Indies,Sydney,8 Feb 2013,116.0,169,21.0,25,0.686390532544,0.84,0,1,0
+59,170.0,Australia,won,17 runs,,lost,1st,West Indies,Melbourne,10 Feb 2013,117.0,170,22.0,26,0.688235294118,0.846153846154,0,1,1
+60,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+61,39.0,Australia,won,18 runs,,won,1st,India,Kuala Lumpur,22 Sep 2006,29.0,39,0.0,0,0.74358974359,,1,1,1
+62,42.0,Australia,won,6 wickets,26.0,lost,2nd,India,Mohali,29 Oct 2006,31.0,42,1.0,1,0.738095238095,1.0,0,1,0
+63,59.0,Australia,won,84 runs,,lost,1st,India,Kochi,2 Oct 2007,45.0,59,2.0,2,0.762711864407,1.0,0,1,1
+64,60.0,Australia,won,47 runs,,won,1st,India,Hyderabad (Deccan),5 Oct 2007,46.0,60,3.0,3,0.766666666667,1.0,1,1,1
+65,61.0,Australia,lost,8 runs,,lost,2nd,India,Chandigarh,8 Oct 2007,47.0,61,4.0,4,0.770491803279,1.0,0,0,0
+66,62.0,Australia,won,9 wickets,145.0,lost,2nd,India,Vadodara,11 Oct 2007,47.0,62,4.0,5,0.758064516129,0.8,0,1,0
+67,63.0,Australia,won,18 runs,,won,1st,India,Nagpur,14 Oct 2007,48.0,63,5.0,6,0.761904761905,0.833333333333,1,1,1
+68,64.0,Australia,lost,2 wickets,24.0,won,1st,India,Mumbai,17 Oct 2007,49.0,64,6.0,7,0.765625,0.857142857143,1,0,1
+69,68.0,Australia,lost,5 wickets,25.0,won,1st,India,Melbourne,10 Feb 2008,52.0,68,6.0,8,0.764705882353,0.75,1,0,1
+70,70.0,Australia,won,50 runs,,won,1st,India,Adelaide,17 Feb 2008,53.0,70,6.0,9,0.757142857143,0.666666666667,1,1,1
+71,72.0,Australia,won,18 runs,,won,1st,India,Sydney,24 Feb 2008,55.0,72,7.0,10,0.763888888889,0.7,1,1,1
+72,74.0,Australia,lost,6 wickets,25.0,won,1st,India,Sydney,2 Mar 2008,56.0,74,8.0,11,0.756756756757,0.727272727273,1,0,1
+73,75.0,Australia,lost,9 runs,,lost,2nd,India,Brisbane,4 Mar 2008,56.0,75,8.0,12,0.746666666667,0.666666666667,0,0,0
+74,106.0,Australia,won,4 runs,,won,1st,India,Vadodara,25 Oct 2009,75.0,106,8.0,13,0.707547169811,0.615384615385,1,1,1
+75,107.0,Australia,lost,99 runs,,won,2nd,India,Nagpur,28 Oct 2009,76.0,107,9.0,14,0.710280373832,0.642857142857,1,0,0
+76,108.0,Australia,lost,6 wickets,10.0,won,1st,India,Delhi,31 Oct 2009,76.0,108,9.0,15,0.703703703704,0.6,1,0,1
+77,109.0,Australia,won,24 runs,,lost,1st,India,Mohali,2 Nov 2009,76.0,109,9.0,16,0.697247706422,0.5625,0,1,1
+78,110.0,Australia,won,3 runs,,won,1st,India,Hyderabad (Deccan),5 Nov 2009,77.0,110,10.0,17,0.7,0.588235294118,1,1,1
+79,111.0,Australia,won,6 wickets,49.0,lost,2nd,India,Guwahati,8 Nov 2009,78.0,111,11.0,18,0.702702702703,0.611111111111,0,1,0
+80,126.0,Australia,lost,5 wickets,7.0,lost,1st,India,Visakhapatnam,20 Oct 2010,91.0,126,12.0,19,0.722222222222,0.631578947368,0,0,1
+81,132.0,Australia,lost,5 wickets,14.0,won,1st,India,Ahmedabad,24 Mar 2011,93.0,132,12.0,20,0.704545454545,0.6,1,0,1
+82,144.0,Australia,won,65 runs,,lost,1st,India,Melbourne,5 Feb 2012,101.0,144,12.0,21,0.701388888889,0.571428571429,0,1,1
+83,146.0,Australia,lost,4 wickets,2.0,won,1st,India,Adelaide,12 Feb 2012,103.0,146,13.0,22,0.705479452055,0.590909090909,1,0,1
+84,148.0,Australia,won,110 runs,,won,1st,India,Brisbane,19 Feb 2012,103.0,148,13.0,23,0.695945945946,0.565217391304,1,1,1
+85,150.0,Australia,won,87 runs,,won,1st,India,Sydney,26 Feb 2012,104.0,150,14.0,24,0.693333333333,0.583333333333,1,1,1
+86,172.0,Australia,won,72 runs,,won,1st,India,Pune,13 Oct 2013,118.0,172,15.0,25,0.686046511628,0.6,1,1,1
+87,173.0,Australia,lost,9 wickets,39.0,won,1st,India,Jaipur,16 Oct 2013,119.0,173,16.0,26,0.687861271676,0.615384615385,1,0,1
+88,174.0,Australia,won,4 wickets,3.0,won,2nd,India,Mohali,19 Oct 2013,119.0,174,16.0,27,0.683908045977,0.592592592593,1,1,0
+89,175.0,Australia,lost,6 wickets,3.0,lost,1st,India,Nagpur,30 Oct 2013,120.0,175,17.0,28,0.685714285714,0.607142857143,0,0,1
+90,176.0,Australia,lost,57 runs,,won,2nd,India,Bangalore,2 Nov 2013,120.0,176,17.0,29,0.681818181818,0.586206896552,1,0,0
+91,188.0,Australia,won,4 wickets,6.0,lost,2nd,India,Melbourne,18 Jan 2015,128.0,188,17.0,30,0.68085106383,0.566666666667,0,1,0
+92,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+93,18.0,Australia,won,116 runs,,lost,1st,Sri Lanka,Melbourne (Docklands),13 Jan 2006,15.0,18,0.0,0,0.833333333333,,0,1,1
+94,21.0,Australia,lost,51 runs,,lost,2nd,Sri Lanka,Sydney,22 Jan 2006,17.0,21,1.0,1,0.809523809524,1.0,0,0,0
+95,22.0,Australia,won,5 wickets,9.0,lost,2nd,Sri Lanka,Adelaide,26 Jan 2006,17.0,22,1.0,2,0.772727272727,0.5,0,1,0
+96,23.0,Australia,won,6 wickets,54.0,lost,2nd,Sri Lanka,Perth,29 Jan 2006,18.0,23,2.0,3,0.782608695652,0.666666666667,0,1,0
+97,26.0,Australia,lost,22 runs,,lost,2nd,Sri Lanka,Adelaide,10 Feb 2006,21.0,26,3.0,4,0.807692307692,0.75,0,0,0
+98,27.0,Australia,won,167 runs,,won,1st,Sri Lanka,Sydney,12 Feb 2006,21.0,27,3.0,5,0.777777777778,0.6,1,1,1
+99,28.0,Australia,won,9 wickets,27.0,lost,2nd,Sri Lanka,Brisbane,14 Feb 2006,22.0,28,4.0,6,0.785714285714,0.666666666667,0,1,0
+100,55.0,Australia,won,7 wickets,44.0,lost,2nd,Sri Lanka,St George's,16 Apr 2007,41.0,55,5.0,7,0.745454545455,0.714285714286,0,1,0
+101,58.0,Australia,won,53 runs,,won,1st,Sri Lanka,Bridgetown,28 Apr 2007,44.0,58,6.0,8,0.758620689655,0.75,1,1,1
+102,67.0,Australia,won,128 runs,,won,1st,Sri Lanka,Sydney,8 Feb 2008,51.0,67,7.0,9,0.761194029851,0.777777777778,1,1,1
+103,69.0,Australia,won,63 runs,,won,1st,Sri Lanka,Perth,15 Feb 2008,52.0,69,8.0,10,0.753623188406,0.8,1,1,1
+104,71.0,Australia,won,24 runs,,lost,1st,Sri Lanka,Melbourne,22 Feb 2008,54.0,71,9.0,11,0.760563380282,0.818181818182,0,1,1
+105,73.0,Australia,lost,13 runs,,lost,2nd,Sri Lanka,Melbourne,29 Feb 2008,56.0,73,10.0,12,0.767123287671,0.833333333333,0,0,0
+106,127.0,Australia,lost,1 wickets,34.0,won,1st,Sri Lanka,Melbourne,3 Nov 2010,91.0,127,10.0,13,0.716535433071,0.769230769231,1,0,1
+107,128.0,Australia,lost,29 runs,,lost,2nd,Sri Lanka,Sydney,5 Nov 2010,91.0,128,10.0,14,0.7109375,0.714285714286,0,0,0
+108,129.0,Australia,won,8 wickets,170.0,lost,2nd,Sri Lanka,Brisbane,7 Nov 2010,91.0,129,10.0,15,0.705426356589,0.666666666667,0,1,0
+109,136.0,Australia,won,7 wickets,71.0,lost,2nd,Sri Lanka,Pallekele,10 Aug 2011,96.0,136,11.0,16,0.705882352941,0.6875,0,1,0
+110,137.0,Australia,won,8 wickets,70.0,lost,2nd,Sri Lanka,Hambantota,14 Aug 2011,97.0,137,12.0,17,0.70802919708,0.705882352941,0,1,0
+111,138.0,Australia,lost,78 runs,,won,2nd,Sri Lanka,Hambantota,16 Aug 2011,98.0,138,13.0,18,0.710144927536,0.722222222222,1,0,0
+112,139.0,Australia,won,5 wickets,132.0,lost,2nd,Sri Lanka,Colombo (RPS),20 Aug 2011,98.0,139,13.0,19,0.705035971223,0.684210526316,0,1,0
+113,140.0,Australia,lost,4 wickets,18.0,lost,1st,Sri Lanka,Colombo (RPS),22 Aug 2011,99.0,140,14.0,20,0.707142857143,0.7,0,0,1
+114,145.0,Australia,won,5 runs,,lost,1st,Sri Lanka,Perth,10 Feb 2012,102.0,145,14.0,21,0.703448275862,0.666666666667,0,1,1
+115,147.0,Australia,lost,8 wickets,101.0,won,1st,Sri Lanka,Sydney,17 Feb 2012,103.0,147,15.0,22,0.700680272109,0.681818181818,1,0,1
+116,149.0,Australia,lost,3 wickets,4.0,won,1st,Sri Lanka,Hobart,24 Feb 2012,104.0,149,15.0,23,0.697986577181,0.652173913043,1,0,1
+117,151.0,Australia,lost,9 runs,,lost,2nd,Sri Lanka,Melbourne,2 Mar 2012,105.0,151,15.0,24,0.695364238411,0.625,0,0,0
+118,152.0,Australia,won,15 runs,,won,1st,Sri Lanka,Brisbane,4 Mar 2012,105.0,152,15.0,25,0.690789473684,0.6,1,1,1
+119,153.0,Australia,lost,8 wickets,34.0,won,1st,Sri Lanka,Adelaide,6 Mar 2012,106.0,153,16.0,26,0.692810457516,0.615384615385,1,0,1
+120,154.0,Australia,won,16 runs,,lost,1st,Sri Lanka,Adelaide,8 Mar 2012,106.0,154,16.0,27,0.688311688312,0.592592592593,0,1,1
+121,162.0,Australia,won,107 runs,,won,1st,Sri Lanka,Melbourne,11 Jan 2013,111.0,162,17.0,28,0.685185185185,0.607142857143,1,1,1
+122,163.0,Australia,lost,8 wickets,59.0,lost,1st,Sri Lanka,Adelaide,13 Jan 2013,112.0,163,18.0,29,0.687116564417,0.620689655172,0,0,1
+123,164.0,Australia,lost,4 wickets,180.0,won,1st,Sri Lanka,Brisbane,18 Jan 2013,112.0,164,18.0,30,0.682926829268,0.6,1,0,1
+124,165.0,Australia,won,32 runs,,lost,1st,Sri Lanka,Hobart,23 Jan 2013,112.0,165,18.0,31,0.678787878788,0.58064516129,0,1,1
+125,171.0,Australia,lost,20 runs,,won,2nd,Sri Lanka,The Oval,17 Jun 2013,118.0,171,19.0,32,0.690058479532,0.59375,1,0,0
+126,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+127,1.0,Australia,won,4 wickets,12.0,lost,2nd,Pakistan,Hobart,16 Jan 2005,1.0,1,0.0,0,1.0,,0,1,0
+128,2.0,Australia,won,9 wickets,82.0,won,2nd,Pakistan,Sydney,23 Jan 2005,2.0,2,1.0,1,1.0,1.0,1,1,0
+129,4.0,Australia,lost,3 wickets,16.0,won,1st,Pakistan,Perth,30 Jan 2005,4.0,4,2.0,2,1.0,1.0,1,0,1
+130,5.0,Australia,won,18 runs,,won,1st,Pakistan,Melbourne,4 Feb 2005,4.0,5,2.0,3,0.8,0.666666666667,1,1,1
+131,6.0,Australia,won,31 runs,,won,1st,Pakistan,Sydney,6 Feb 2005,5.0,6,3.0,4,0.833333333333,0.75,1,1,1
+132,98.0,Australia,lost,4 wickets,35.0,won,1st,Pakistan,Dubai (DSC),22 Apr 2009,69.0,98,4.0,5,0.704081632653,0.8,1,0,1
+133,99.0,Australia,won,6 wickets,29.0,lost,2nd,Pakistan,Dubai (DSC),24 Apr 2009,69.0,99,4.0,6,0.69696969697,0.666666666667,0,1,0
+134,100.0,Australia,won,27 runs,,won,1st,Pakistan,Abu Dhabi,27 Apr 2009,70.0,100,5.0,7,0.7,0.714285714286,1,1,1
+135,101.0,Australia,won,8 wickets,34.0,lost,2nd,Pakistan,Abu Dhabi,1 May 2009,71.0,101,6.0,8,0.70297029703,0.75,0,1,0
+136,102.0,Australia,lost,7 wickets,18.0,won,1st,Pakistan,Abu Dhabi,3 May 2009,72.0,102,7.0,9,0.705882352941,0.777777777778,1,0,1
+137,104.0,Australia,won,2 wickets,0.0,won,2nd,Pakistan,Centurion,30 Sep 2009,73.0,104,7.0,10,0.701923076923,0.7,1,1,0
+138,112.0,Australia,won,5 wickets,9.0,lost,2nd,Pakistan,Brisbane,22 Jan 2010,79.0,112,8.0,11,0.705357142857,0.727272727273,0,1,0
+139,113.0,Australia,won,140 runs,,lost,1st,Pakistan,Sydney,24 Jan 2010,80.0,113,9.0,12,0.70796460177,0.75,0,1,1
+140,114.0,Australia,won,40 runs,,won,1st,Pakistan,Adelaide,26 Jan 2010,81.0,114,10.0,13,0.710526315789,0.769230769231,1,1,1
+141,115.0,Australia,won,135 runs,,won,1st,Pakistan,Perth,29 Jan 2010,82.0,115,11.0,14,0.713043478261,0.785714285714,1,1,1
+142,116.0,Australia,won,2 wickets,4.0,lost,2nd,Pakistan,Perth,31 Jan 2010,83.0,116,12.0,15,0.715517241379,0.8,0,1,0
+143,131.0,Australia,lost,4 wickets,54.0,won,1st,Pakistan,Colombo (RPS),19 Mar 2011,93.0,131,13.0,16,0.709923664122,0.8125,1,0,1
+144,159.0,Australia,won,4 wickets,10.0,lost,2nd,Pakistan,Sharjah,28 Aug 2012,109.0,159,13.0,17,0.685534591195,0.764705882353,0,1,0
+145,160.0,Australia,lost,7 wickets,38.0,won,1st,Pakistan,Abu Dhabi,31 Aug 2012,110.0,160,14.0,18,0.6875,0.777777777778,1,0,1
+146,161.0,Australia,won,3 wickets,18.0,won,2nd,Pakistan,Sharjah,3 Sep 2012,110.0,161,14.0,19,0.683229813665,0.736842105263,1,1,0
+147,180.0,Australia,won,93 runs,,won,1st,Pakistan,Sharjah,7 Oct 2014,121.0,180,15.0,20,0.672222222222,0.75,1,1,1
+148,181.0,Australia,won,5 wickets,40.0,lost,2nd,Pakistan,Dubai (DSC),10 Oct 2014,122.0,181,16.0,21,0.674033149171,0.761904761905,0,1,0
+149,182.0,Australia,won,1 runs,,won,1st,Pakistan,Abu Dhabi,12 Oct 2014,123.0,182,17.0,22,0.675824175824,0.772727272727,1,1,1
+150,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+151,7.0,Australia,won,10 runs,,won,1st,New Zealand,Wellington,19 Feb 2005,6.0,7,0.0,0,0.857142857143,,1,1,1
+152,8.0,Australia,won,106 runs,,lost,1st,New Zealand,Christchurch,22 Feb 2005,7.0,8,1.0,1,0.875,1.0,0,1,1
+153,9.0,Australia,won,86 runs,,won,1st,New Zealand,Auckland,26 Feb 2005,8.0,9,2.0,2,0.888888888889,1.0,1,1,1
+154,10.0,Australia,won,7 wickets,94.0,won,2nd,New Zealand,Wellington,1 Mar 2005,9.0,10,3.0,3,0.9,1.0,1,1,0
+155,11.0,Australia,won,122 runs,,lost,1st,New Zealand,Napier,5 Mar 2005,10.0,11,4.0,4,0.909090909091,1.0,0,1,1
+156,15.0,Australia,won,147 runs,,lost,1st,New Zealand,Auckland,3 Dec 2005,13.0,15,5.0,5,0.866666666667,1.0,0,1,1
+157,16.0,Australia,won,2 runs,,won,1st,New Zealand,Wellington,7 Dec 2005,14.0,16,6.0,6,0.875,1.0,1,1,1
+158,17.0,Australia,lost,2 wickets,6.0,lost,1st,New Zealand,Christchurch,10 Dec 2005,15.0,17,7.0,7,0.882352941176,1.0,0,0,1
+159,43.0,Australia,won,34 runs,,lost,1st,New Zealand,Mohali,1 Nov 2006,32.0,43,7.0,8,0.744186046512,0.875,0,1,1
+160,45.0,Australia,won,105 runs,,won,1st,New Zealand,Hobart,14 Jan 2007,34.0,45,8.0,9,0.755555555556,0.888888888889,1,1,1
+161,46.0,Australia,won,2 wickets,8.0,lost,2nd,New Zealand,Sydney,21 Jan 2007,35.0,46,9.0,10,0.760869565217,0.9,0,1,0
+162,47.0,Australia,won,8 runs,,won,1st,New Zealand,Perth,28 Jan 2007,36.0,47,10.0,11,0.765957446809,0.909090909091,1,1,1
+163,48.0,Australia,won,5 wickets,10.0,lost,2nd,New Zealand,Melbourne,4 Feb 2007,37.0,48,11.0,12,0.770833333333,0.916666666667,0,1,0
+164,49.0,Australia,lost,10 wickets,138.0,lost,1st,New Zealand,Wellington,16 Feb 2007,38.0,49,12.0,13,0.775510204082,0.923076923077,0,0,1
+165,50.0,Australia,lost,5 wickets,8.0,lost,1st,New Zealand,Auckland,18 Feb 2007,38.0,50,12.0,14,0.76,0.857142857143,0,0,1
+166,51.0,Australia,lost,1 wickets,3.0,won,1st,New Zealand,Hamilton,20 Feb 2007,38.0,51,12.0,15,0.745098039216,0.8,1,0,1
+167,56.0,Australia,won,215 runs,,won,1st,New Zealand,St George's,20 Apr 2007,42.0,56,12.0,16,0.75,0.75,1,1,1
+168,65.0,Australia,won,7 wickets,45.0,lost,2nd,New Zealand,Adelaide,14 Dec 2007,49.0,65,13.0,17,0.753846153846,0.764705882353,0,1,0
+169,66.0,Australia,won,114 runs,,lost,1st,New Zealand,Hobart,20 Dec 2007,50.0,66,14.0,18,0.757575757576,0.777777777778,0,1,1
+170,89.0,Australia,lost,2 wickets,0.0,won,1st,New Zealand,Perth,1 Feb 2009,65.0,89,15.0,19,0.730337078652,0.789473684211,1,0,1
+171,90.0,Australia,lost,6 wickets,7.0,lost,1st,New Zealand,Melbourne,6 Feb 2009,65.0,90,15.0,20,0.722222222222,0.75,0,0,1
+172,91.0,Australia,won,32 runs,,lost,1st,New Zealand,Sydney,8 Feb 2009,65.0,91,15.0,21,0.714285714286,0.714285714286,0,1,1
+173,92.0,Australia,won,6 wickets,10.0,lost,2nd,New Zealand,Adelaide,10 Feb 2009,66.0,92,16.0,22,0.717391304348,0.727272727273,0,1,0
+174,105.0,Australia,won,6 wickets,28.0,lost,2nd,New Zealand,Centurion,5 Oct 2009,74.0,105,17.0,23,0.704761904762,0.739130434783,0,1,0
+175,121.0,Australia,lost,2 wickets,4.0,won,1st,New Zealand,Napier,3 Mar 2010,88.0,121,18.0,24,0.727272727273,0.75,1,0,1
+176,122.0,Australia,won,12 runs,,won,1st,New Zealand,Auckland,6 Mar 2010,88.0,122,18.0,25,0.72131147541,0.72,1,1,1
+177,123.0,Australia,won,6 wickets,16.0,won,2nd,New Zealand,Hamilton,9 Mar 2010,89.0,123,19.0,26,0.723577235772,0.730769230769,1,1,0
+178,124.0,Australia,won,6 wickets,17.0,won,2nd,New Zealand,Auckland,11 Mar 2010,90.0,124,20.0,27,0.725806451613,0.740740740741,1,1,0
+179,125.0,Australia,lost,51 runs,,won,2nd,New Zealand,Wellington,13 Mar 2010,91.0,125,21.0,28,0.728,0.75,1,0,0
+180,130.0,Australia,won,7 wickets,96.0,won,2nd,New Zealand,Nagpur,25 Feb 2011,92.0,130,21.0,29,0.707692307692,0.724137931034,1,1,0
+181,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+182,12.0,Australia,lost,5 wickets,4.0,won,1st,Bangladesh,Cardiff,18 Jun 2005,11.0,12,0.0,0,0.916666666667,,1,0,1
+183,13.0,Australia,won,10 wickets,186.0,won,2nd,Bangladesh,Manchester,25 Jun 2005,11.0,13,0.0,1,0.846153846154,0.0,1,1,0
+184,14.0,Australia,won,6 wickets,11.0,won,2nd,Bangladesh,Canterbury,30 Jun 2005,12.0,14,1.0,2,0.857142857143,0.5,1,1,0
+185,34.0,Australia,won,4 wickets,36.0,lost,2nd,Bangladesh,Chittagong,23 Apr 2006,25.0,34,2.0,3,0.735294117647,0.666666666667,0,1,0
+186,35.0,Australia,won,67 runs,,won,1st,Bangladesh,Fatullah,26 Apr 2006,26.0,35,3.0,4,0.742857142857,0.75,1,1,1
+187,36.0,Australia,won,9 wickets,164.0,lost,2nd,Bangladesh,Fatullah,28 Apr 2006,27.0,36,4.0,5,0.75,0.8,0,1,0
+188,54.0,Australia,won,10 wickets,49.0,won,2nd,Bangladesh,North Sound,31 Mar 2007,40.0,54,5.0,6,0.740740740741,0.833333333333,1,1,0
+189,81.0,Australia,won,180 runs,,lost,1st,Bangladesh,Darwin,30 Aug 2008,61.0,81,6.0,7,0.753086419753,0.857142857143,0,1,1
+190,82.0,Australia,won,8 wickets,164.0,lost,2nd,Bangladesh,Darwin,3 Sep 2008,62.0,82,7.0,8,0.756097560976,0.875,0,1,0
+191,83.0,Australia,won,73 runs,,won,1st,Bangladesh,Darwin,6 Sep 2008,63.0,83,8.0,9,0.759036144578,0.888888888889,1,1,1
+192,133.0,Australia,won,60 runs,,lost,1st,Bangladesh,Dhaka,9 Apr 2011,93.0,133,9.0,10,0.699248120301,0.9,0,1,1
+193,134.0,Australia,won,9 wickets,144.0,lost,2nd,Bangladesh,Dhaka,11 Apr 2011,94.0,134,10.0,11,0.701492537313,0.909090909091,0,1,0
+194,135.0,Australia,won,66 runs,,won,1st,Bangladesh,Dhaka,13 Apr 2011,95.0,135,11.0,12,0.703703703704,0.916666666667,1,1,1
+195,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+196,202.0,South Africa,won,5 wickets,7.0,lost,2nd,Australia,Brisbane,15 Jan 2006,11.0,13,0.0,0,0.846153846154,,0,1,0
+197,204.0,South Africa,lost,59 runs,,lost,2nd,Australia,Melbourne (Docklands),20 Jan 2006,12.0,15,1.0,1,0.8,1.0,0,0,0
+198,207.0,South Africa,lost,80 runs,,lost,2nd,Australia,Melbourne (Docklands),3 Feb 2006,14.0,18,1.0,2,0.777777777778,0.5,0,0,0
+199,208.0,South Africa,lost,57 runs,,lost,2nd,Australia,Sydney,5 Feb 2006,14.0,19,1.0,3,0.736842105263,0.333333333333,0,0,0
+200,210.0,South Africa,won,6 wickets,21.0,lost,2nd,Australia,Centurion,26 Feb 2006,14.0,21,1.0,4,0.666666666667,0.25,0,1,0
+201,211.0,South Africa,won,196 runs,,won,1st,Australia,Cape Town,3 Mar 2006,15.0,22,2.0,5,0.681818181818,0.4,1,1,1
+202,212.0,South Africa,lost,24 runs,,won,2nd,Australia,Port Elizabeth,5 Mar 2006,16.0,23,3.0,6,0.695652173913,0.5,1,0,0
+203,213.0,South Africa,lost,1 wickets,5.0,won,1st,Australia,Durban,10 Mar 2006,16.0,24,3.0,7,0.666666666667,0.428571428571,1,0,1
+204,214.0,South Africa,won,1 wickets,1.0,lost,2nd,Australia,Johannesburg,12 Mar 2006,16.0,25,3.0,8,0.64,0.375,0,1,0
+205,227.0,South Africa,lost,83 runs,,won,2nd,Australia,Basseterre,24 Mar 2007,26.0,38,4.0,9,0.684210526316,0.444444444444,1,0,0
+206,232.0,South Africa,lost,7 wickets,111.0,won,1st,Australia,Gros Islet,25 Apr 2007,28.0,43,4.0,10,0.651162790698,0.4,1,0,1
+207,254.0,South Africa,won,3 wickets,3.0,lost,2nd,Australia,Melbourne,16 Jan 2009,44.0,65,4.0,11,0.676923076923,0.363636363636,0,1,0
+208,255.0,South Africa,lost,5 runs,,won,2nd,Australia,Hobart,18 Jan 2009,45.0,66,5.0,12,0.681818181818,0.416666666667,1,0,0
+209,256.0,South Africa,won,3 wickets,21.0,lost,2nd,Australia,Sydney,23 Jan 2009,45.0,67,5.0,13,0.671641791045,0.384615384615,0,1,0
+210,257.0,South Africa,won,8 wickets,71.0,lost,2nd,Australia,Adelaide,26 Jan 2009,46.0,68,6.0,14,0.676470588235,0.428571428571,0,1,0
+211,258.0,South Africa,won,39 runs,,won,1st,Australia,Perth,30 Jan 2009,47.0,69,7.0,15,0.68115942029,0.466666666667,1,1,1
+212,259.0,South Africa,lost,141 runs,,lost,2nd,Australia,Durban,3 Apr 2009,48.0,70,8.0,16,0.685714285714,0.5,0,0,0
+213,260.0,South Africa,won,7 wickets,142.0,lost,2nd,Australia,Centurion,5 Apr 2009,48.0,71,8.0,17,0.676056338028,0.470588235294,0,1,0
+214,261.0,South Africa,won,25 runs,,won,1st,Australia,Cape Town,9 Apr 2009,49.0,72,9.0,18,0.680555555556,0.5,1,1,1
+215,262.0,South Africa,won,61 runs,,lost,1st,Australia,Port Elizabeth,13 Apr 2009,50.0,73,10.0,19,0.684931506849,0.526315789474,0,1,1
+216,263.0,South Africa,lost,47 runs,,won,2nd,Australia,Johannesburg,17 Apr 2009,51.0,74,11.0,20,0.689189189189,0.55,1,0,0
+217,288.0,South Africa,lost,93 runs,,won,2nd,Australia,Centurion,19 Oct 2011,67.0,99,11.0,21,0.676767676768,0.52380952381,1,0,0
+218,289.0,South Africa,won,80 runs,,won,1st,Australia,Port Elizabeth,23 Oct 2011,67.0,100,11.0,22,0.67,0.5,1,1,1
+219,290.0,South Africa,lost,3 wickets,15.0,won,1st,Australia,Durban,28 Oct 2011,68.0,101,12.0,23,0.673267326733,0.521739130435,1,0,1
+220,327.0,South Africa,won,7 wickets,20.0,won,2nd,Australia,Harare,27 Aug 2014,89.0,138,12.0,24,0.644927536232,0.5,1,1,0
+221,328.0,South Africa,lost,62 runs,,won,2nd,Australia,Harare,2 Sep 2014,90.0,139,13.0,25,0.647482014388,0.52,1,0,0
+222,329.0,South Africa,won,6 wickets,55.0,won,2nd,Australia,Harare,6 Sep 2014,90.0,140,13.0,26,0.642857142857,0.5,1,1,0
+223,332.0,South Africa,lost,32 runs,,won,2nd,Australia,Perth,14 Nov 2014,93.0,143,14.0,27,0.65034965035,0.518518518519,1,0,0
+224,333.0,South Africa,won,3 wickets,134.0,lost,2nd,Australia,Perth,16 Nov 2014,93.0,144,14.0,28,0.645833333333,0.5,0,1,0
+225,334.0,South Africa,lost,73 runs,,lost,2nd,Australia,Canberra,19 Nov 2014,94.0,145,15.0,29,0.648275862069,0.51724137931,0,0,0
+226,335.0,South Africa,lost,3 wickets,6.0,won,1st,Australia,Melbourne,21 Nov 2014,94.0,146,15.0,30,0.643835616438,0.5,1,0,1
+227,336.0,South Africa,lost,2 wickets,5.0,won,1st,Australia,Sydney,23 Nov 2014,94.0,147,15.0,31,0.639455782313,0.483870967742,1,0,1
+228,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+229,189.0,South Africa,won,8 wickets,30.0,lost,2nd,West Indies,Kingston,7 May 2005,0.0,0,0.0,0,,,0,1,0
+230,190.0,South Africa,won,8 wickets,38.0,won,2nd,West Indies,Kingston,8 May 2005,1.0,1,1.0,1,1.0,1.0,1,1,0
+231,191.0,South Africa,won,1 runs,,lost,1st,West Indies,Bridgetown,11 May 2005,2.0,2,2.0,2,1.0,1.0,0,1,1
+232,192.0,South Africa,won,6 wickets,19.0,won,2nd,West Indies,Port of Spain,14 May 2005,3.0,3,3.0,3,1.0,1.0,1,1,0
+233,193.0,South Africa,won,7 wickets,5.0,won,2nd,West Indies,Port of Spain,15 May 2005,4.0,4,4.0,4,1.0,1.0,1,1,0
+234,218.0,South Africa,lost,6 wickets,36.0,won,1st,West Indies,Jaipur,2 Nov 2006,19.0,29,5.0,5,0.655172413793,1.0,1,0,1
+235,230.0,South Africa,won,67 runs,,lost,1st,West Indies,St George's,10 Apr 2007,27.0,41,5.0,6,0.658536585366,0.833333333333,0,1,1
+236,244.0,South Africa,won,6 wickets,12.0,won,2nd,West Indies,Centurion,20 Jan 2008,34.0,55,6.0,7,0.618181818182,0.857142857143,1,1,0
+237,245.0,South Africa,won,86 runs,,won,1st,West Indies,Cape Town,25 Jan 2008,35.0,56,7.0,8,0.625,0.875,1,1,1
+238,246.0,South Africa,won,7 wickets,8.0,lost,2nd,West Indies,Port Elizabeth,27 Jan 2008,36.0,57,8.0,9,0.631578947368,0.888888888889,0,1,0
+239,247.0,South Africa,won,5 wickets,13.0,lost,2nd,West Indies,Durban,1 Feb 2008,37.0,58,9.0,10,0.637931034483,0.9,0,1,0
+240,248.0,South Africa,won,8 wickets,13.0,won,2nd,West Indies,Johannesburg,3 Feb 2008,38.0,59,10.0,11,0.64406779661,0.909090909091,1,1,0
+241,269.0,South Africa,won,66 runs,,lost,1st,West Indies,North Sound,22 May 2010,53.0,80,11.0,12,0.6625,0.916666666667,0,1,1
+242,270.0,South Africa,won,17 runs,,won,1st,West Indies,North Sound,24 May 2010,54.0,81,12.0,13,0.666666666667,0.923076923077,1,1,1
+243,271.0,South Africa,won,67 runs,,won,1st,West Indies,Roseau,28 May 2010,55.0,82,13.0,14,0.670731707317,0.928571428571,1,1,1
+244,272.0,South Africa,won,7 wickets,0.0,lost,2nd,West Indies,Roseau,30 May 2010,56.0,83,14.0,15,0.674698795181,0.933333333333,0,1,0
+245,273.0,South Africa,won,1 wickets,2.0,lost,2nd,West Indies,Port of Spain,3 Jun 2010,57.0,84,15.0,16,0.678571428571,0.9375,0,1,0
+246,284.0,South Africa,won,7 wickets,43.0,won,2nd,West Indies,Delhi,24 Feb 2011,64.0,95,16.0,17,0.673684210526,0.941176470588,1,1,0
+247,337.0,South Africa,won,61 runs,,won,1st,West Indies,Durban,16 Jan 2015,94.0,148,17.0,18,0.635135135135,0.944444444444,1,1,1
+248,338.0,South Africa,won,148 runs,,lost,1st,West Indies,Johannesburg,18 Jan 2015,95.0,149,18.0,19,0.637583892617,0.947368421053,0,1,1
+249,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+250,198.0,South Africa,won,5 wickets,7.0,won,2nd,India,Hyderabad (Deccan),16 Nov 2005,9.0,9,0.0,0,1.0,,1,1,0
+251,199.0,South Africa,lost,6 wickets,86.0,lost,1st,India,Bangalore,19 Nov 2005,10.0,10,1.0,1,1.0,1.0,0,0,1
+252,200.0,South Africa,won,10 wickets,85.0,won,2nd,India,Kolkata,25 Nov 2005,10.0,11,1.0,2,0.909090909091,0.5,1,1,0
+253,201.0,South Africa,lost,5 wickets,15.0,lost,1st,India,Mumbai,28 Nov 2005,11.0,12,2.0,3,0.916666666667,0.666666666667,0,0,1
+254,219.0,South Africa,won,157 runs,,won,1st,India,Durban,22 Nov 2006,19.0,30,2.0,4,0.633333333333,0.5,1,1,1
+255,220.0,South Africa,won,106 runs,,won,1st,India,Cape Town,26 Nov 2006,20.0,31,3.0,5,0.645161290323,0.6,1,1,1
+256,221.0,South Africa,won,80 runs,,won,1st,India,Port Elizabeth,29 Nov 2006,21.0,32,4.0,6,0.65625,0.666666666667,1,1,1
+257,222.0,South Africa,won,9 wickets,112.0,won,2nd,India,Centurion,3 Dec 2006,22.0,33,5.0,7,0.666666666667,0.714285714286,1,1,0
+258,233.0,South Africa,won,4 wickets,3.0,won,2nd,India,Belfast,26 Jun 2007,28.0,44,6.0,8,0.636363636364,0.75,1,1,0
+259,234.0,South Africa,lost,6 wickets,5.0,lost,1st,India,Belfast,29 Jun 2007,29.0,45,7.0,9,0.644444444444,0.777777777778,0,0,1
+260,235.0,South Africa,lost,6 wickets,4.0,lost,1st,India,Belfast,1 Jul 2007,29.0,46,7.0,10,0.630434782609,0.7,0,0,1
+261,266.0,South Africa,lost,1 runs,,won,2nd,India,Jaipur,21 Feb 2010,52.0,77,7.0,11,0.675324675325,0.636363636364,1,0,0
+262,267.0,South Africa,lost,153 runs,,lost,2nd,India,Gwalior,24 Feb 2010,52.0,78,7.0,12,0.666666666667,0.583333333333,0,0,0
+263,268.0,South Africa,won,90 runs,,won,1st,India,Ahmedabad,27 Feb 2010,52.0,79,7.0,13,0.658227848101,0.538461538462,1,1,1
+264,279.0,South Africa,won,135 runs,,won,1st,India,Durban,12 Jan 2011,61.0,90,8.0,14,0.677777777778,0.571428571429,1,1,1
+265,280.0,South Africa,lost,1 runs,,lost,2nd,India,Johannesburg,15 Jan 2011,62.0,91,9.0,15,0.681318681319,0.6,0,0,0
+266,281.0,South Africa,lost,2 wickets,10.0,won,1st,India,Cape Town,18 Jan 2011,62.0,92,9.0,16,0.673913043478,0.5625,1,0,1
+267,282.0,South Africa,won,48 runs,,won,1st,India,Port Elizabeth,21 Jan 2011,62.0,93,9.0,17,0.666666666667,0.529411764706,1,1,1
+268,283.0,South Africa,won,33 runs,,lost,1st,India,Centurion,23 Jan 2011,63.0,94,10.0,18,0.670212765957,0.555555555556,0,1,1
+269,285.0,South Africa,won,3 wickets,2.0,lost,2nd,India,Nagpur,12 Mar 2011,65.0,96,11.0,19,0.677083333333,0.578947368421,0,1,0
+270,307.0,South Africa,lost,26 runs,,won,2nd,India,Cardiff,6 Jun 2013,78.0,118,12.0,20,0.661016949153,0.6,1,0,0
+271,322.0,South Africa,won,141 runs,,lost,1st,India,Johannesburg,5 Dec 2013,85.0,133,12.0,21,0.639097744361,0.571428571429,0,1,1
+272,323.0,South Africa,won,134 runs,,lost,1st,India,Durban,8 Dec 2013,86.0,134,13.0,22,0.641791044776,0.590909090909,0,1,1
+273,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+274,203.0,South Africa,lost,94 runs,,won,2nd,Sri Lanka,Brisbane,17 Jan 2006,12.0,14,0.0,0,0.857142857143,,1,0,0
+275,205.0,South Africa,won,9 runs,,won,1st,Sri Lanka,Adelaide,24 Jan 2006,12.0,16,0.0,1,0.75,0.0,1,1,1
+276,206.0,South Africa,won,5 wickets,29.0,lost,2nd,Sri Lanka,Perth,31 Jan 2006,13.0,17,1.0,2,0.764705882353,0.5,0,1,0
+277,209.0,South Africa,lost,76 runs,,lost,2nd,Sri Lanka,Hobart,7 Feb 2006,14.0,20,2.0,3,0.7,0.666666666667,0,0,0
+278,216.0,South Africa,won,78 runs,,lost,1st,Sri Lanka,Ahmedabad,24 Oct 2006,17.0,27,2.0,4,0.62962962963,0.5,0,1,1
+279,228.0,South Africa,won,1 wickets,10.0,lost,2nd,Sri Lanka,Providence,28 Mar 2007,26.0,39,3.0,5,0.666666666667,0.6,0,1,0
+280,264.0,South Africa,lost,55 runs,,won,2nd,Sri Lanka,Centurion,22 Sep 2009,51.0,75,4.0,6,0.68,0.666666666667,1,0,0
+281,291.0,South Africa,won,258 runs,,won,1st,Sri Lanka,Paarl,11 Jan 2012,68.0,102,4.0,7,0.666666666667,0.571428571429,1,1,1
+282,292.0,South Africa,won,5 wickets,8.0,won,2nd,Sri Lanka,East London,14 Jan 2012,69.0,103,5.0,8,0.669902912621,0.625,1,1,0
+283,293.0,South Africa,won,4 runs,,lost,2nd,Sri Lanka,Bloemfontein,17 Jan 2012,70.0,104,6.0,9,0.673076923077,0.666666666667,0,1,0
+284,294.0,South Africa,lost,5 wickets,8.0,won,1st,Sri Lanka,Kimberley,20 Jan 2012,71.0,105,7.0,10,0.67619047619,0.7,1,0,1
+285,295.0,South Africa,lost,2 wickets,1.0,lost,1st,Sri Lanka,Johannesburg,22 Jan 2012,71.0,106,7.0,11,0.669811320755,0.636363636364,0,0,1
+286,309.0,South Africa,lost,180 runs,,won,2nd,Sri Lanka,Colombo (RPS),20 Jul 2013,79.0,120,7.0,12,0.658333333333,0.583333333333,1,0,0
+287,310.0,South Africa,lost,17 runs,,lost,2nd,Sri Lanka,Colombo (RPS),23 Jul 2013,79.0,121,7.0,13,0.652892561983,0.538461538462,0,0,0
+288,311.0,South Africa,won,56 runs,,won,1st,Sri Lanka,Pallekele,26 Jul 2013,79.0,122,7.0,14,0.647540983607,0.5,1,1,1
+289,312.0,South Africa,lost,8 wickets,36.0,won,1st,Sri Lanka,Pallekele,28 Jul 2013,80.0,123,8.0,15,0.650406504065,0.533333333333,1,0,1
+290,313.0,South Africa,lost,128 runs,,lost,2nd,Sri Lanka,Colombo (RPS),31 Jul 2013,80.0,124,8.0,16,0.645161290323,0.5,0,0,0
+291,324.0,South Africa,won,75 runs,,won,1st,Sri Lanka,Colombo (RPS),6 Jul 2014,87.0,135,8.0,17,0.644444444444,0.470588235294,1,1,1
+292,325.0,South Africa,lost,87 runs,,lost,2nd,Sri Lanka,Pallekele,9 Jul 2014,88.0,136,9.0,18,0.647058823529,0.5,0,0,0
+293,326.0,South Africa,won,82 runs,,won,1st,Sri Lanka,Hambantota,12 Jul 2014,88.0,137,9.0,19,0.642335766423,0.473684210526,1,1,1
+294,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+295,217.0,South Africa,won,124 runs,,won,1st,Pakistan,Mohali,27 Oct 2006,18.0,28,0.0,0,0.642857142857,,1,1,1
+296,223.0,South Africa,won,164 runs,,lost,1st,Pakistan,Centurion,4 Feb 2007,23.0,34,1.0,1,0.676470588235,1.0,0,1,1
+297,224.0,South Africa,lost,141 runs,,lost,2nd,Pakistan,Durban,7 Feb 2007,24.0,35,2.0,2,0.685714285714,1.0,0,0,0
+298,225.0,South Africa,won,10 wickets,216.0,won,2nd,Pakistan,Cape Town,11 Feb 2007,24.0,36,2.0,3,0.666666666667,0.666666666667,1,1,0
+299,226.0,South Africa,won,9 wickets,130.0,lost,2nd,Pakistan,Johannesburg,14 Feb 2007,25.0,37,3.0,4,0.675675675676,0.75,0,1,0
+300,236.0,South Africa,won,45 runs,,won,1st,Pakistan,Lahore,18 Oct 2007,29.0,47,4.0,5,0.617021276596,0.8,1,1,1
+301,237.0,South Africa,lost,25 runs,,lost,2nd,Pakistan,Lahore,20 Oct 2007,30.0,48,5.0,6,0.625,0.833333333333,0,0,0
+302,238.0,South Africa,lost,6 wickets,11.0,won,1st,Pakistan,Faisalabad,23 Oct 2007,30.0,49,5.0,7,0.612244897959,0.714285714286,1,0,1
+303,239.0,South Africa,won,7 wickets,74.0,lost,2nd,Pakistan,Multan,26 Oct 2007,30.0,50,5.0,8,0.6,0.625,0,1,0
+304,240.0,South Africa,won,14 runs,,won,1st,Pakistan,Lahore,29 Oct 2007,31.0,51,6.0,9,0.607843137255,0.666666666667,1,1,1
+305,274.0,South Africa,won,8 wickets,63.0,lost,2nd,Pakistan,Abu Dhabi,29 Oct 2010,58.0,85,7.0,10,0.682352941176,0.7,0,1,0
+306,275.0,South Africa,lost,1 wickets,1.0,won,1st,Pakistan,Abu Dhabi,31 Oct 2010,59.0,86,8.0,11,0.686046511628,0.727272727273,1,0,1
+307,276.0,South Africa,won,2 runs,,lost,1st,Pakistan,Dubai (DSC),2 Nov 2010,59.0,87,8.0,12,0.67816091954,0.666666666667,0,1,1
+308,277.0,South Africa,lost,1 wickets,1.0,won,1st,Pakistan,Dubai (DSC),5 Nov 2010,60.0,88,9.0,13,0.681818181818,0.692307692308,1,0,1
+309,278.0,South Africa,won,57 runs,,won,1st,Pakistan,Dubai (DSC),8 Nov 2010,60.0,89,9.0,14,0.674157303371,0.642857142857,1,1,1
+310,302.0,South Africa,won,125 runs,,lost,1st,Pakistan,Bloemfontein,10 Mar 2013,75.0,113,10.0,15,0.663716814159,0.666666666667,0,1,1
+311,303.0,South Africa,lost,6 wickets,28.0,won,1st,Pakistan,Centurion,15 Mar 2013,76.0,114,11.0,16,0.666666666667,0.6875,1,0,1
+312,304.0,South Africa,won,34 runs,,lost,1st,Pakistan,Johannesburg,17 Mar 2013,76.0,115,11.0,17,0.660869565217,0.647058823529,0,1,1
+313,305.0,South Africa,lost,3 wickets,8.0,won,1st,Pakistan,Durban,21 Mar 2013,77.0,116,12.0,18,0.663793103448,0.666666666667,1,0,1
+314,306.0,South Africa,won,6 wickets,36.0,lost,2nd,Pakistan,Benoni,24 Mar 2013,77.0,117,12.0,19,0.65811965812,0.631578947368,0,1,0
+315,308.0,South Africa,won,67 runs,,won,1st,Pakistan,Birmingham,10 Jun 2013,78.0,119,13.0,20,0.655462184874,0.65,1,1,1
+316,314.0,South Africa,won,1 runs,,won,1st,Pakistan,Sharjah,30 Oct 2013,80.0,125,14.0,21,0.64,0.666666666667,1,1,1
+317,315.0,South Africa,lost,66 runs,,lost,2nd,Pakistan,Dubai (DSC),1 Nov 2013,81.0,126,15.0,22,0.642857142857,0.681818181818,0,0,0
+318,316.0,South Africa,won,68 runs,,won,1st,Pakistan,Abu Dhabi,6 Nov 2013,81.0,127,15.0,23,0.637795275591,0.652173913043,1,1,1
+319,317.0,South Africa,won,28 runs,,won,1st,Pakistan,Abu Dhabi,8 Nov 2013,82.0,128,16.0,24,0.640625,0.666666666667,1,1,1
+320,318.0,South Africa,won,117 runs,,won,1st,Pakistan,Sharjah,11 Nov 2013,83.0,129,17.0,25,0.643410852713,0.68,1,1,1
+321,319.0,South Africa,lost,23 runs,,lost,2nd,Pakistan,Cape Town,24 Nov 2013,84.0,130,18.0,26,0.646153846154,0.692307692308,0,0,0
+322,320.0,South Africa,lost,1 runs,,won,2nd,Pakistan,Port Elizabeth,27 Nov 2013,84.0,131,18.0,27,0.641221374046,0.666666666667,1,0,0
+323,321.0,South Africa,won,4 wickets,68.0,won,2nd,Pakistan,Centurion,30 Nov 2013,84.0,132,18.0,28,0.636363636364,0.642857142857,1,1,0
+324,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+325,194.0,South Africa,won,2 wickets,3.0,lost,2nd,New Zealand,Bloemfontein,23 Oct 2005,5.0,5,0.0,0,1.0,,0,1,0
+326,195.0,South Africa,won,19 runs,,won,1st,New Zealand,Cape Town,28 Oct 2005,6.0,6,1.0,1,1.0,1.0,1,1,1
+327,196.0,South Africa,won,4 wickets,4.0,won,2nd,New Zealand,Port Elizabeth,30 Oct 2005,7.0,7,2.0,2,1.0,1.0,1,1,0
+328,197.0,South Africa,won,5 wickets,11.0,won,2nd,New Zealand,Centurion,6 Nov 2005,8.0,8,3.0,3,1.0,1.0,1,1,0
+329,215.0,South Africa,lost,87 runs,,won,2nd,New Zealand,Mumbai (BS),16 Oct 2006,17.0,26,4.0,4,0.653846153846,1.0,1,0,0
+330,231.0,South Africa,lost,5 wickets,10.0,lost,1st,New Zealand,St George's,14 Apr 2007,28.0,42,4.0,5,0.666666666667,0.8,0,0,1
+331,241.0,South Africa,won,2 wickets,0.0,won,2nd,New Zealand,Durban,25 Nov 2007,32.0,52,4.0,6,0.615384615385,0.666666666667,1,1,0
+332,242.0,South Africa,lost,7 wickets,68.0,won,1st,New Zealand,Port Elizabeth,30 Nov 2007,33.0,53,5.0,7,0.622641509434,0.714285714286,1,0,1
+333,243.0,South Africa,won,5 wickets,28.0,lost,2nd,New Zealand,Cape Town,2 Dec 2007,33.0,54,5.0,8,0.611111111111,0.625,0,1,0
+334,265.0,South Africa,won,5 wickets,53.0,won,2nd,New Zealand,Centurion,24 Sep 2009,51.0,76,6.0,9,0.671052631579,0.666666666667,1,1,0
+335,287.0,South Africa,lost,49 runs,,lost,2nd,New Zealand,Dhaka,25 Mar 2011,67.0,98,7.0,10,0.683673469388,0.7,0,0,0
+336,296.0,South Africa,won,6 wickets,28.0,lost,2nd,New Zealand,Wellington,25 Feb 2012,71.0,107,7.0,11,0.663551401869,0.636363636364,0,1,0
+337,297.0,South Africa,won,6 wickets,70.0,won,2nd,New Zealand,Napier,29 Feb 2012,72.0,108,8.0,12,0.666666666667,0.666666666667,1,1,0
+338,298.0,South Africa,won,5 wickets,40.0,won,2nd,New Zealand,Auckland,3 Mar 2012,73.0,109,9.0,13,0.669724770642,0.692307692308,1,1,0
+339,299.0,South Africa,lost,1 wickets,26.0,lost,1st,New Zealand,Paarl,19 Jan 2013,74.0,110,10.0,14,0.672727272727,0.714285714286,0,0,1
+340,300.0,South Africa,lost,27 runs,,won,2nd,New Zealand,Kimberley,22 Jan 2013,74.0,111,10.0,15,0.666666666667,0.666666666667,1,0,0
+341,301.0,South Africa,won,1 wickets,0.0,lost,2nd,New Zealand,Potchefstroom,25 Jan 2013,74.0,112,10.0,16,0.660714285714,0.625,0,1,0
+342,330.0,South Africa,won,6 wickets,11.0,won,2nd,New Zealand,Mount Maunganui,21 Oct 2014,91.0,141,11.0,17,0.645390070922,0.647058823529,1,1,0
+343,331.0,South Africa,won,72 runs,,lost,1st,New Zealand,Mount Maunganui,24 Oct 2014,92.0,142,12.0,18,0.647887323944,0.666666666667,0,1,1
+344,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+345,229.0,South Africa,lost,67 runs,,won,2nd,Bangladesh,Providence,7 Apr 2007,27.0,40,0.0,0,0.675,,1,0,0
+346,249.0,South Africa,won,9 wickets,79.0,lost,2nd,Bangladesh,Chittagong,9 Mar 2008,39.0,60,0.0,1,0.65,0.0,0,1,0
+347,250.0,South Africa,won,7 wickets,11.0,lost,2nd,Bangladesh,Dhaka,12 Mar 2008,40.0,61,1.0,2,0.655737704918,0.5,0,1,0
+348,251.0,South Africa,won,7 wickets,94.0,lost,2nd,Bangladesh,Dhaka,14 Mar 2008,41.0,62,2.0,3,0.661290322581,0.666666666667,0,1,0
+349,252.0,South Africa,won,61 runs,,won,1st,Bangladesh,Potchefstroom,7 Nov 2008,42.0,63,3.0,4,0.666666666667,0.75,1,1,1
+350,253.0,South Africa,won,128 runs,,lost,1st,Bangladesh,Benoni,9 Nov 2008,43.0,64,4.0,5,0.671875,0.8,0,1,1
+351,286.0,South Africa,won,206 runs,,won,1st,Bangladesh,Dhaka,19 Mar 2011,66.0,97,5.0,6,0.680412371134,0.833333333333,1,1,1
+352,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+353,835.0,West Indies,lost,116 runs,,lost,2nd,Australia,Melbourne,14 Jan 2005,0.0,0,0.0,0,,,0,0,0
+354,837.0,West Indies,lost,73 runs,,lost,2nd,Australia,Adelaide,26 Jan 2005,0.0,2,0.0,1,0.0,0.0,0,0,0
+355,862.0,West Indies,lost,78 runs,,lost,2nd,Australia,Kuala Lumpur,12 Sep 2006,7.0,27,0.0,2,0.259259259259,0.0,0,0,0
+356,864.0,West Indies,won,3 wickets,16.0,lost,2nd,Australia,Kuala Lumpur,18 Sep 2006,8.0,29,0.0,3,0.275862068966,0.0,0,1,0
+357,866.0,West Indies,lost,127 runs,,lost,2nd,Australia,Kuala Lumpur,24 Sep 2006,9.0,31,1.0,4,0.290322580645,0.25,0,0,0
+358,869.0,West Indies,won,10 runs,,won,1st,Australia,Mumbai (BS),18 Oct 2006,10.0,34,1.0,5,0.294117647059,0.2,1,1,1
+359,872.0,West Indies,lost,8 wickets,41.0,won,1st,Australia,Mumbai (BS),5 Nov 2006,13.0,37,2.0,6,0.351351351351,0.333333333333,1,0,1
+360,882.0,West Indies,lost,103 runs,,won,2nd,Australia,North Sound,27 Mar 2007,16.0,47,2.0,7,0.340425531915,0.285714285714,1,0,0
+361,894.0,West Indies,lost,84 runs,,won,2nd,Australia,Kingstown,24 Jun 2008,19.0,59,2.0,8,0.322033898305,0.25,1,0,0
+362,895.0,West Indies,lost,63 runs,,lost,2nd,Australia,St George's,27 Jun 2008,19.0,60,2.0,9,0.316666666667,0.222222222222,0,0,0
+363,896.0,West Indies,lost,7 wickets,57.0,lost,1st,Australia,St George's,29 Jun 2008,19.0,61,2.0,10,0.311475409836,0.2,0,0,1
+364,897.0,West Indies,lost,1 runs,,won,2nd,Australia,Basseterre,4 Jul 2008,19.0,62,2.0,11,0.306451612903,0.181818181818,1,0,0
+365,898.0,West Indies,lost,169 runs,,lost,2nd,Australia,Basseterre,6 Jul 2008,19.0,63,2.0,12,0.301587301587,0.166666666667,0,0,0
+366,912.0,West Indies,lost,50 runs,,won,2nd,Australia,Johannesburg,26 Sep 2009,21.0,77,2.0,13,0.272727272727,0.153846153846,1,0,0
+367,914.0,West Indies,lost,113 runs,,won,2nd,Australia,Melbourne,7 Feb 2010,21.0,79,2.0,14,0.26582278481,0.142857142857,1,0,0
+368,915.0,West Indies,lost,8 wickets,141.0,won,1st,Australia,Adelaide,9 Feb 2010,21.0,80,2.0,15,0.2625,0.133333333333,1,0,1
+369,916.0,West Indies,lost,50 runs,,won,2nd,Australia,Brisbane,14 Feb 2010,21.0,81,2.0,16,0.259259259259,0.125,1,0,0
+370,917.0,West Indies,lost,125 runs,,lost,2nd,Australia,Melbourne,19 Feb 2010,21.0,82,2.0,17,0.256097560976,0.117647058824,0,0,0
+371,947.0,West Indies,lost,64 runs,,lost,2nd,Australia,Kingstown,16 Mar 2012,29.0,112,2.0,18,0.258928571429,0.111111111111,0,0,0
+372,948.0,West Indies,won,5 wickets,10.0,won,2nd,Australia,Kingstown,18 Mar 2012,29.0,113,2.0,19,0.256637168142,0.105263157895,1,1,0
+373,949.0,West Indies,won,42 runs,,lost,1st,Australia,Gros Islet,23 Mar 2012,30.0,114,3.0,20,0.263157894737,0.15,0,1,1
+374,950.0,West Indies,lost,30 runs,,won,2nd,Australia,Gros Islet,25 Mar 2012,31.0,115,4.0,21,0.269565217391,0.190476190476,1,0,0
+375,961.0,West Indies,lost,9 wickets,244.0,won,1st,Australia,Perth,1 Feb 2013,37.0,126,4.0,22,0.293650793651,0.181818181818,1,0,1
+376,962.0,West Indies,lost,54 runs,,won,2nd,Australia,Perth,3 Feb 2013,37.0,127,4.0,23,0.291338582677,0.173913043478,1,0,0
+377,963.0,West Indies,lost,39 runs,,lost,2nd,Australia,Canberra,6 Feb 2013,37.0,128,4.0,24,0.2890625,0.166666666667,0,0,0
+378,964.0,West Indies,lost,5 wickets,31.0,won,1st,Australia,Sydney,8 Feb 2013,37.0,129,4.0,25,0.286821705426,0.16,1,0,1
+379,965.0,West Indies,lost,17 runs,,won,2nd,Australia,Melbourne,10 Feb 2013,37.0,130,4.0,26,0.284615384615,0.153846153846,1,0,0
+380,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+381,840.0,West Indies,lost,8 wickets,30.0,won,1st,South Africa,Kingston,7 May 2005,1.0,5,0.0,0,0.2,,1,0,1
+382,841.0,West Indies,lost,8 wickets,38.0,lost,1st,South Africa,Kingston,8 May 2005,1.0,6,0.0,1,0.166666666667,0.0,0,0,1
+383,842.0,West Indies,lost,1 runs,,won,2nd,South Africa,Bridgetown,11 May 2005,1.0,7,0.0,2,0.142857142857,0.0,1,0,0
+384,843.0,West Indies,lost,6 wickets,19.0,lost,1st,South Africa,Port of Spain,14 May 2005,1.0,8,0.0,3,0.125,0.0,0,0,1
+385,844.0,West Indies,lost,7 wickets,5.0,lost,1st,South Africa,Port of Spain,15 May 2005,1.0,9,0.0,4,0.111111111111,0.0,0,0,1
+386,871.0,West Indies,won,6 wickets,36.0,lost,2nd,South Africa,Jaipur,2 Nov 2006,12.0,36,0.0,5,0.333333333333,0.0,0,1,0
+387,885.0,West Indies,lost,67 runs,,won,2nd,South Africa,St George's,10 Apr 2007,16.0,50,1.0,6,0.32,0.166666666667,1,0,0
+388,887.0,West Indies,lost,6 wickets,12.0,lost,1st,South Africa,Centurion,20 Jan 2008,17.0,52,1.0,7,0.326923076923,0.142857142857,0,0,1
+389,888.0,West Indies,lost,86 runs,,lost,2nd,South Africa,Cape Town,25 Jan 2008,17.0,53,1.0,8,0.320754716981,0.125,0,0,0
+390,889.0,West Indies,lost,7 wickets,8.0,won,1st,South Africa,Port Elizabeth,27 Jan 2008,17.0,54,1.0,9,0.314814814815,0.111111111111,1,0,1
+391,890.0,West Indies,lost,5 wickets,13.0,won,1st,South Africa,Durban,1 Feb 2008,17.0,55,1.0,10,0.309090909091,0.1,1,0,1
+392,891.0,West Indies,lost,8 wickets,13.0,lost,1st,South Africa,Johannesburg,3 Feb 2008,17.0,56,1.0,11,0.303571428571,0.0909090909091,0,0,1
+393,918.0,West Indies,lost,66 runs,,won,2nd,South Africa,North Sound,22 May 2010,21.0,83,1.0,12,0.253012048193,0.0833333333333,1,0,0
+394,919.0,West Indies,lost,17 runs,,lost,2nd,South Africa,North Sound,24 May 2010,21.0,84,1.0,13,0.25,0.0769230769231,0,0,0
+395,920.0,West Indies,lost,67 runs,,lost,2nd,South Africa,Roseau,28 May 2010,21.0,85,1.0,14,0.247058823529,0.0714285714286,0,0,0
+396,921.0,West Indies,lost,7 wickets,0.0,won,1st,South Africa,Roseau,30 May 2010,21.0,86,1.0,15,0.244186046512,0.0666666666667,1,0,1
+397,922.0,West Indies,lost,1 wickets,2.0,won,1st,South Africa,Port of Spain,3 Jun 2010,21.0,87,1.0,16,0.241379310345,0.0625,1,0,1
+398,925.0,West Indies,lost,7 wickets,43.0,lost,1st,South Africa,Delhi,24 Feb 2011,21.0,90,1.0,17,0.233333333333,0.0588235294118,0,0,1
+399,989.0,West Indies,lost,61 runs,,lost,2nd,South Africa,Durban,16 Jan 2015,48.0,154,1.0,18,0.311688311688,0.0555555555556,0,0,0
+400,990.0,West Indies,lost,148 runs,,won,2nd,South Africa,Johannesburg,18 Jan 2015,48.0,155,1.0,19,0.309677419355,0.0526315789474,1,0,0
+401,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+402,848.0,West Indies,lost,6 wickets,84.0,won,1st,India,Dambulla,31 Jul 2005,1.0,13,0.0,0,0.0769230769231,,1,0,1
+403,851.0,West Indies,lost,7 runs,,lost,2nd,India,Colombo (RPS),7 Aug 2005,2.0,16,0.0,1,0.125,0.0,0,0,0
+404,857.0,West Indies,lost,5 wickets,1.0,lost,1st,India,Kingston,18 May 2006,3.0,22,0.0,2,0.136363636364,0.0,0,0,1
+405,858.0,West Indies,won,1 runs,,lost,1st,India,Kingston,20 May 2006,3.0,23,0.0,3,0.130434782609,0.0,0,1,1
+406,859.0,West Indies,won,4 wickets,1.0,lost,2nd,India,Basseterre,23 May 2006,4.0,24,1.0,4,0.166666666667,0.25,0,1,0
+407,860.0,West Indies,won,6 wickets,36.0,won,2nd,India,Port of Spain,26 May 2006,5.0,25,2.0,5,0.2,0.4,1,1,0
+408,861.0,West Indies,won,19 runs,,lost,1st,India,Port of Spain,28 May 2006,6.0,26,3.0,6,0.230769230769,0.5,0,1,1
+409,863.0,West Indies,won,29 runs,,lost,2nd,India,Kuala Lumpur,14 Sep 2006,7.0,28,4.0,7,0.25,0.571428571429,0,1,0
+410,865.0,West Indies,lost,16 runs,,lost,2nd,India,Kuala Lumpur,20 Sep 2006,9.0,30,5.0,8,0.3,0.625,0,0,0
+411,870.0,West Indies,won,3 wickets,2.0,won,2nd,India,Ahmedabad,26 Oct 2006,11.0,35,5.0,9,0.314285714286,0.555555555556,1,1,0
+412,877.0,West Indies,lost,14 runs,,won,2nd,India,Nagpur,21 Jan 2007,14.0,42,6.0,10,0.333333333333,0.6,1,0,0
+413,878.0,West Indies,lost,20 runs,,lost,2nd,India,Cuttack,24 Jan 2007,14.0,43,6.0,11,0.325581395349,0.545454545455,0,0,0
+414,879.0,West Indies,won,3 wickets,38.0,won,2nd,India,Chennai,27 Jan 2007,14.0,44,6.0,12,0.318181818182,0.5,1,1,0
+415,880.0,West Indies,lost,160 runs,,won,2nd,India,Vadodara,31 Jan 2007,15.0,45,7.0,13,0.333333333333,0.538461538462,1,0,0
+416,905.0,West Indies,lost,20 runs,,lost,2nd,India,Kingston,26 Jun 2009,20.0,70,7.0,14,0.285714285714,0.5,0,0,0
+417,906.0,West Indies,won,8 wickets,95.0,lost,2nd,India,Kingston,28 Jun 2009,20.0,71,7.0,15,0.281690140845,0.466666666667,0,1,0
+418,907.0,West Indies,lost,6 wickets,1.0,lost,1st,India,Gros Islet,3 Jul 2009,21.0,72,8.0,16,0.291666666667,0.5,0,0,1
+419,913.0,West Indies,lost,7 wickets,107.0,lost,1st,India,Johannesburg,30 Sep 2009,21.0,78,8.0,17,0.269230769231,0.470588235294,0,0,1
+420,927.0,West Indies,lost,80 runs,,lost,2nd,India,Chennai,20 Mar 2011,22.0,92,8.0,18,0.239130434783,0.444444444444,0,0,0
+421,934.0,West Indies,lost,4 wickets,31.0,won,1st,India,Port of Spain,6 Jun 2011,24.0,99,8.0,19,0.242424242424,0.421052631579,1,0,1
+422,935.0,West Indies,lost,7 wickets,20.0,lost,1st,India,Port of Spain,8 Jun 2011,24.0,100,8.0,20,0.24,0.4,0,0,1
+423,936.0,West Indies,lost,3 wickets,22.0,lost,1st,India,North Sound,11 Jun 2011,24.0,101,8.0,21,0.237623762376,0.380952380952,0,0,1
+424,937.0,West Indies,won,103 runs,,lost,1st,India,North Sound,13 Jun 2011,24.0,102,8.0,22,0.235294117647,0.363636363636,0,1,1
+425,938.0,West Indies,won,7 wickets,8.0,won,2nd,India,Kingston,16 Jun 2011,25.0,103,9.0,23,0.242718446602,0.391304347826,1,1,0
+426,942.0,West Indies,lost,1 wickets,7.0,lost,1st,India,Cuttack,29 Nov 2011,28.0,107,10.0,24,0.261682242991,0.416666666667,0,0,1
+427,943.0,West Indies,lost,5 wickets,11.0,lost,1st,India,Visakhapatnam,2 Dec 2011,28.0,108,10.0,25,0.259259259259,0.4,0,0,1
+428,944.0,West Indies,won,16 runs,,lost,1st,India,Ahmedabad,5 Dec 2011,28.0,109,10.0,26,0.256880733945,0.384615384615,0,1,1
+429,945.0,West Indies,lost,153 runs,,lost,2nd,India,Indore,8 Dec 2011,29.0,110,11.0,27,0.263636363636,0.407407407407,0,0,0
+430,946.0,West Indies,lost,34 runs,,lost,2nd,India,Chennai,11 Dec 2011,29.0,111,11.0,28,0.261261261261,0.392857142857,0,0,0
+431,967.0,West Indies,lost,8 wickets,65.0,lost,1st,India,The Oval,11 Jun 2013,38.0,132,11.0,29,0.287878787879,0.379310344828,0,0,1
+432,969.0,West Indies,won,1 wickets,14.0,won,2nd,India,Kingston,30 Jun 2013,39.0,134,11.0,30,0.291044776119,0.366666666667,1,1,0
+433,970.0,West Indies,lost,102 runs,,won,2nd,India,Port of Spain,5 Jul 2013,40.0,135,12.0,31,0.296296296296,0.387096774194,1,0,0
+434,976.0,West Indies,lost,6 wickets,88.0,won,1st,India,Kochi,21 Nov 2013,41.0,141,12.0,32,0.290780141844,0.375,1,0,1
+435,977.0,West Indies,won,2 wickets,3.0,won,2nd,India,Visakhapatnam,24 Nov 2013,41.0,142,12.0,33,0.288732394366,0.363636363636,1,1,0
+436,978.0,West Indies,lost,5 wickets,23.0,lost,1st,India,Kanpur,27 Nov 2013,42.0,143,13.0,34,0.293706293706,0.382352941176,0,0,1
+437,986.0,West Indies,won,124 runs,,lost,1st,India,Kochi,8 Oct 2014,47.0,151,13.0,35,0.311258278146,0.371428571429,0,1,1
+438,987.0,West Indies,lost,48 runs,,lost,2nd,India,Delhi,11 Oct 2014,48.0,152,14.0,36,0.315789473684,0.388888888889,0,0,0
+439,988.0,West Indies,lost,59 runs,,won,2nd,India,Dharamsala,17 Oct 2014,48.0,153,14.0,37,0.313725490196,0.378378378378,1,0,0
+440,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+441,849.0,West Indies,lost,50 runs,,lost,2nd,Sri Lanka,Dambulla,2 Aug 2005,1.0,14,0.0,0,0.0714285714286,,0,0,0
+442,850.0,West Indies,won,33 runs,,won,1st,Sri Lanka,Colombo (RPS),6 Aug 2005,1.0,15,0.0,1,0.0666666666667,0.0,1,1,1
+443,868.0,West Indies,lost,9 wickets,220.0,won,1st,Sri Lanka,Mumbai (BS),14 Oct 2006,10.0,33,1.0,2,0.30303030303,0.5,1,0,1
+444,884.0,West Indies,lost,113 runs,,won,2nd,Sri Lanka,Providence,1 Apr 2007,16.0,49,1.0,3,0.326530612245,0.333333333333,1,0,0
+445,892.0,West Indies,won,1 wickets,0.0,won,2nd,Sri Lanka,Port of Spain,10 Apr 2008,17.0,57,1.0,4,0.298245614035,0.25,1,1,0
+446,893.0,West Indies,won,7 wickets,27.0,won,2nd,Sri Lanka,Port of Spain,12 Apr 2008,18.0,58,2.0,5,0.310344827586,0.4,1,1,0
+447,923.0,West Indies,lost,8 wickets,27.0,lost,1st,Sri Lanka,Colombo (SSC),3 Feb 2011,21.0,88,3.0,6,0.238636363636,0.5,0,0,1
+448,924.0,West Indies,lost,26 runs,,won,2nd,Sri Lanka,Colombo (SSC),6 Feb 2011,21.0,89,3.0,7,0.23595505618,0.428571428571,1,0,0
+449,968.0,West Indies,won,6 wickets,73.0,won,2nd,Sri Lanka,Kingston,28 Jun 2013,38.0,133,3.0,8,0.285714285714,0.375,1,1,0
+450,971.0,West Indies,lost,39 runs,,won,2nd,Sri Lanka,Port of Spain,7 Jul 2013,40.0,136,4.0,9,0.294117647059,0.444444444444,1,0,0
+451,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+452,836.0,West Indies,lost,6 wickets,18.0,lost,1st,Pakistan,Brisbane,19 Jan 2005,0.0,1,0.0,0,0.0,,0,0,1
+453,838.0,West Indies,won,58 runs,,lost,1st,Pakistan,Adelaide,28 Jan 2005,0.0,3,0.0,1,0.0,0.0,0,1,1
+454,839.0,West Indies,lost,30 runs,,won,2nd,Pakistan,Perth,1 Feb 2005,1.0,4,1.0,2,0.25,0.5,1,0,0
+455,845.0,West Indies,lost,59 runs,,won,2nd,Pakistan,Kingstown,18 May 2005,1.0,10,1.0,3,0.1,0.333333333333,1,0,0
+456,846.0,West Indies,lost,40 runs,,lost,2nd,Pakistan,Gros Islet,21 May 2005,1.0,11,1.0,4,0.0909090909091,0.25,0,0,0
+457,847.0,West Indies,lost,22 runs,,won,2nd,Pakistan,Gros Islet,22 May 2005,1.0,12,1.0,5,0.0833333333333,0.2,1,0,0
+458,873.0,West Indies,lost,2 wickets,10.0,lost,1st,Pakistan,Faisalabad,7 Dec 2006,13.0,38,1.0,6,0.342105263158,0.166666666667,0,0,1
+459,874.0,West Indies,lost,7 wickets,8.0,lost,1st,Pakistan,Lahore,10 Dec 2006,13.0,39,1.0,7,0.333333333333,0.142857142857,0,0,1
+460,875.0,West Indies,won,7 wickets,91.0,lost,2nd,Pakistan,Multan,13 Dec 2006,13.0,40,1.0,8,0.325,0.125,0,1,0
+461,876.0,West Indies,lost,7 wickets,19.0,lost,1st,Pakistan,Karachi,16 Dec 2006,14.0,41,2.0,9,0.341463414634,0.222222222222,0,0,1
+462,881.0,West Indies,won,54 runs,,lost,1st,Pakistan,Kingston,13 Mar 2007,15.0,46,2.0,10,0.326086956522,0.2,0,1,1
+463,899.0,West Indies,lost,4 wickets,1.0,won,1st,Pakistan,Abu Dhabi,12 Nov 2008,19.0,64,3.0,11,0.296875,0.272727272727,1,0,1
+464,900.0,West Indies,lost,24 runs,,lost,2nd,Pakistan,Abu Dhabi,14 Nov 2008,19.0,65,3.0,12,0.292307692308,0.25,0,0,0
+465,901.0,West Indies,lost,31 runs,,lost,2nd,Pakistan,Abu Dhabi,16 Nov 2008,19.0,66,3.0,13,0.287878787879,0.230769230769,0,0,0
+466,911.0,West Indies,lost,5 wickets,117.0,won,1st,Pakistan,Johannesburg,23 Sep 2009,21.0,76,3.0,14,0.276315789474,0.214285714286,1,0,1
+467,928.0,West Indies,lost,10 wickets,175.0,won,1st,Pakistan,Dhaka,23 Mar 2011,22.0,93,3.0,15,0.236559139785,0.2,1,0,1
+468,929.0,West Indies,lost,8 wickets,51.0,won,1st,Pakistan,Gros Islet,23 Apr 2011,22.0,94,3.0,16,0.234042553191,0.1875,1,0,1
+469,930.0,West Indies,lost,7 wickets,12.0,lost,1st,Pakistan,Gros Islet,25 Apr 2011,22.0,95,3.0,17,0.231578947368,0.176470588235,0,0,1
+470,931.0,West Indies,lost,3 wickets,29.0,lost,1st,Pakistan,Bridgetown,28 Apr 2011,22.0,96,3.0,18,0.229166666667,0.166666666667,0,0,1
+471,932.0,West Indies,won,1 runs,,won,2nd,Pakistan,Bridgetown,2 May 2011,22.0,97,3.0,19,0.226804123711,0.157894736842,1,1,0
+472,933.0,West Indies,won,10 wickets,159.0,lost,2nd,Pakistan,Providence,5 May 2011,23.0,98,4.0,20,0.234693877551,0.2,0,1,0
+473,966.0,West Indies,won,2 wickets,56.0,won,2nd,Pakistan,The Oval,7 Jun 2013,37.0,131,5.0,21,0.282442748092,0.238095238095,1,1,0
+474,972.0,West Indies,lost,126 runs,,won,2nd,Pakistan,Providence,14 Jul 2013,40.0,137,6.0,22,0.29197080292,0.272727272727,1,0,0
+475,973.0,West Indies,won,37 runs,,lost,1st,Pakistan,Providence,16 Jul 2013,40.0,138,6.0,23,0.289855072464,0.260869565217,0,1,1
+476,974.0,West Indies,lost,6 wickets,6.0,lost,1st,Pakistan,Gros Islet,21 Jul 2013,41.0,139,7.0,24,0.294964028777,0.291666666667,0,0,1
+477,975.0,West Indies,lost,4 wickets,1.0,lost,1st,Pakistan,Gros Islet,24 Jul 2013,41.0,140,7.0,25,0.292857142857,0.28,0,0,1
+478,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+479,852.0,West Indies,lost,81 runs,,lost,2nd,New Zealand,Wellington,18 Feb 2006,2.0,17,0.0,0,0.117647058824,,0,0,0
+480,853.0,West Indies,lost,3 wickets,48.0,lost,1st,New Zealand,Queenstown,22 Feb 2006,2.0,18,0.0,1,0.111111111111,0.0,0,0,1
+481,854.0,West Indies,lost,21 runs,,lost,2nd,New Zealand,Christchurch,25 Feb 2006,2.0,19,0.0,2,0.105263157895,0.0,0,0,0
+482,855.0,West Indies,lost,91 runs,,won,2nd,New Zealand,Napier,1 Mar 2006,2.0,20,0.0,3,0.1,0.0,1,0,0
+483,856.0,West Indies,won,3 wickets,2.0,lost,2nd,New Zealand,Auckland,4 Mar 2006,2.0,21,0.0,4,0.0952380952381,0.0,0,1,0
+484,883.0,West Indies,lost,7 wickets,64.0,lost,1st,New Zealand,North Sound,29 Mar 2007,16.0,48,1.0,5,0.333333333333,0.2,0,0,1
+485,902.0,West Indies,won,5 wickets,1.0,won,2nd,New Zealand,Christchurch,3 Jan 2009,19.0,67,1.0,6,0.283582089552,0.166666666667,1,1,0
+486,903.0,West Indies,lost,7 wickets,177.0,lost,1st,New Zealand,Wellington,7 Jan 2009,20.0,68,2.0,7,0.294117647059,0.285714285714,0,0,1
+487,904.0,West Indies,lost,9 runs,,lost,1st,New Zealand,Napier,13 Jan 2009,20.0,69,2.0,8,0.289855072464,0.25,0,0,1
+488,951.0,West Indies,won,9 wickets,52.0,won,2nd,New Zealand,Kingston,5 Jul 2012,31.0,116,2.0,9,0.26724137931,0.222222222222,1,1,0
+489,952.0,West Indies,won,55 runs,,lost,1st,New Zealand,Kingston,7 Jul 2012,32.0,117,3.0,10,0.273504273504,0.3,0,1,1
+490,953.0,West Indies,lost,88 runs,,won,2nd,New Zealand,Basseterre,11 Jul 2012,33.0,118,4.0,11,0.279661016949,0.363636363636,1,0,0
+491,954.0,West Indies,won,24 runs,,won,1st,New Zealand,Basseterre,14 Jul 2012,33.0,119,4.0,12,0.27731092437,0.333333333333,1,1,1
+492,955.0,West Indies,won,20 runs,,won,1st,New Zealand,Basseterre,16 Jul 2012,34.0,120,5.0,13,0.283333333333,0.384615384615,1,1,1
+493,979.0,West Indies,won,2 wickets,135.0,won,2nd,New Zealand,Auckland,26 Dec 2013,42.0,144,6.0,14,0.291666666667,0.428571428571,1,1,0
+494,980.0,West Indies,lost,159 runs,,won,2nd,New Zealand,Queenstown,1 Jan 2014,43.0,145,7.0,15,0.296551724138,0.466666666667,1,0,0
+495,981.0,West Indies,lost,58 runs,,lost,2nd,New Zealand,Nelson,4 Jan 2014,43.0,146,7.0,16,0.294520547945,0.4375,0,0,0
+496,982.0,West Indies,won,203 runs,,lost,1st,New Zealand,Hamilton,8 Jan 2014,43.0,147,7.0,17,0.292517006803,0.411764705882,0,1,1
+497,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+498,867.0,West Indies,won,10 wickets,80.0,lost,2nd,Bangladesh,Jaipur,11 Oct 2006,9.0,32,0.0,0,0.28125,,0,1,0
+499,886.0,West Indies,won,99 runs,,lost,1st,Bangladesh,Bridgetown,19 Apr 2007,16.0,51,1.0,1,0.313725490196,1.0,0,1,1
+500,908.0,West Indies,lost,52 runs,,won,2nd,Bangladesh,Roseau,26 Jul 2009,21.0,73,2.0,2,0.287671232877,1.0,1,0,0
+501,909.0,West Indies,lost,3 wickets,6.0,won,1st,Bangladesh,Roseau,28 Jul 2009,21.0,74,2.0,3,0.283783783784,0.666666666667,1,0,1
+502,910.0,West Indies,lost,3 wickets,7.0,won,1st,Bangladesh,Basseterre,31 Jul 2009,21.0,75,2.0,4,0.28,0.5,1,0,1
+503,926.0,West Indies,won,9 wickets,226.0,lost,2nd,Bangladesh,Dhaka,4 Mar 2011,21.0,91,2.0,5,0.230769230769,0.4,0,1,0
+504,939.0,West Indies,won,40 runs,,lost,1st,Bangladesh,Dhaka,13 Oct 2011,26.0,104,3.0,6,0.25,0.5,0,1,1
+505,940.0,West Indies,won,8 wickets,44.0,lost,2nd,Bangladesh,Dhaka,15 Oct 2011,27.0,105,4.0,7,0.257142857143,0.571428571429,0,1,0
+506,941.0,West Indies,lost,8 wickets,180.0,lost,1st,Bangladesh,Chittagong,18 Oct 2011,28.0,106,5.0,8,0.264150943396,0.625,0,0,1
+507,956.0,West Indies,lost,7 wickets,58.0,won,1st,Bangladesh,Khulna,30 Nov 2012,35.0,121,5.0,9,0.289256198347,0.555555555556,1,0,1
+508,957.0,West Indies,lost,160 runs,,won,2nd,Bangladesh,Khulna,2 Dec 2012,35.0,122,5.0,10,0.286885245902,0.5,1,0,0
+509,958.0,West Indies,won,4 wickets,18.0,won,2nd,Bangladesh,Dhaka,5 Dec 2012,35.0,123,5.0,11,0.284552845528,0.454545454545,1,1,0
+510,959.0,West Indies,won,75 runs,,lost,1st,Bangladesh,Dhaka,7 Dec 2012,36.0,124,6.0,12,0.290322580645,0.5,0,1,1
+511,960.0,West Indies,lost,2 wickets,36.0,lost,1st,Bangladesh,Dhaka,8 Dec 2012,37.0,125,7.0,13,0.296,0.538461538462,0,0,1
+512,983.0,West Indies,won,3 wickets,62.0,won,2nd,Bangladesh,St George's,20 Aug 2014,44.0,148,7.0,14,0.297297297297,0.5,1,1,0
+513,984.0,West Indies,won,177 runs,,lost,1st,Bangladesh,St George's,22 Aug 2014,45.0,149,8.0,15,0.302013422819,0.533333333333,0,1,1
+514,985.0,West Indies,won,91 runs,,won,1st,Bangladesh,Basseterre,25 Aug 2014,46.0,150,9.0,16,0.306666666667,0.5625,1,1,1
+515,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+516,1174.0,India,lost,18 runs,,lost,2nd,Australia,Kuala Lumpur,22 Sep 2006,20.0,39,0.0,0,0.512820512821,,0,0,0
+517,1176.0,India,lost,6 wickets,26.0,won,1st,Australia,Mohali,29 Oct 2006,20.0,41,0.0,1,0.487804878049,0.0,1,0,1
+518,1195.0,India,lost,84 runs,,won,2nd,Australia,Kochi,2 Oct 2007,29.0,60,0.0,2,0.483333333333,0.0,1,0,0
+519,1196.0,India,lost,47 runs,,lost,2nd,Australia,Hyderabad (Deccan),5 Oct 2007,29.0,61,0.0,3,0.475409836066,0.0,0,0,0
+520,1197.0,India,won,8 runs,,won,1st,Australia,Chandigarh,8 Oct 2007,29.0,62,0.0,4,0.467741935484,0.0,1,1,1
+521,1198.0,India,lost,9 wickets,145.0,won,1st,Australia,Vadodara,11 Oct 2007,30.0,63,1.0,5,0.47619047619,0.2,1,0,1
+522,1199.0,India,lost,18 runs,,lost,2nd,Australia,Nagpur,14 Oct 2007,30.0,64,1.0,6,0.46875,0.166666666667,0,0,0
+523,1200.0,India,won,2 wickets,24.0,lost,2nd,Australia,Mumbai,17 Oct 2007,30.0,65,1.0,7,0.461538461538,0.142857142857,0,1,0
+524,1206.0,India,won,5 wickets,25.0,lost,2nd,Australia,Melbourne,10 Feb 2008,34.0,71,2.0,8,0.478873239437,0.25,0,1,0
+525,1208.0,India,lost,50 runs,,lost,2nd,Australia,Adelaide,17 Feb 2008,35.0,73,3.0,9,0.479452054795,0.333333333333,0,0,0
+526,1210.0,India,lost,18 runs,,lost,2nd,Australia,Sydney,24 Feb 2008,36.0,75,3.0,10,0.48,0.3,0,0,0
+527,1212.0,India,won,6 wickets,25.0,lost,2nd,Australia,Sydney,2 Mar 2008,37.0,77,3.0,11,0.480519480519,0.272727272727,0,1,0
+528,1213.0,India,won,9 runs,,won,1st,Australia,Brisbane,4 Mar 2008,38.0,78,4.0,12,0.487179487179,0.333333333333,1,1,1
+529,1244.0,India,lost,4 runs,,lost,2nd,Australia,Vadodara,25 Oct 2009,59.0,109,5.0,13,0.54128440367,0.384615384615,0,0,0
+530,1245.0,India,won,99 runs,,lost,1st,Australia,Nagpur,28 Oct 2009,59.0,110,5.0,14,0.536363636364,0.357142857143,0,1,1
+531,1246.0,India,won,6 wickets,10.0,lost,2nd,Australia,Delhi,31 Oct 2009,60.0,111,6.0,15,0.540540540541,0.4,0,1,0
+532,1247.0,India,lost,24 runs,,won,2nd,Australia,Mohali,2 Nov 2009,61.0,112,7.0,16,0.544642857143,0.4375,1,0,0
+533,1248.0,India,lost,3 runs,,lost,2nd,Australia,Hyderabad (Deccan),5 Nov 2009,61.0,113,7.0,17,0.53982300885,0.411764705882,0,0,0
+534,1249.0,India,lost,6 wickets,49.0,won,1st,Australia,Guwahati,8 Nov 2009,61.0,114,7.0,18,0.535087719298,0.388888888889,1,0,1
+535,1273.0,India,won,5 wickets,7.0,won,2nd,Australia,Visakhapatnam,20 Oct 2010,75.0,138,7.0,19,0.54347826087,0.368421052632,1,1,0
+536,1287.0,India,won,5 wickets,14.0,lost,2nd,Australia,Ahmedabad,24 Mar 2011,85.0,152,8.0,20,0.559210526316,0.4,0,1,0
+537,1300.0,India,lost,65 runs,,won,2nd,Australia,Melbourne,5 Feb 2012,95.0,165,9.0,21,0.575757575758,0.428571428571,1,0,0
+538,1302.0,India,won,4 wickets,2.0,lost,2nd,Australia,Adelaide,12 Feb 2012,96.0,167,9.0,22,0.574850299401,0.409090909091,0,1,0
+539,1303.0,India,lost,110 runs,,lost,2nd,Australia,Brisbane,19 Feb 2012,97.0,168,10.0,23,0.577380952381,0.434782608696,0,0,0
+540,1305.0,India,lost,87 runs,,lost,2nd,Australia,Sydney,26 Feb 2012,97.0,170,10.0,24,0.570588235294,0.416666666667,0,0,0
+541,1327.0,India,lost,72 runs,,lost,2nd,Australia,Pune,13 Oct 2013,112.0,192,10.0,25,0.583333333333,0.4,0,0,0
+542,1328.0,India,won,9 wickets,39.0,lost,2nd,Australia,Jaipur,16 Oct 2013,112.0,193,10.0,26,0.580310880829,0.384615384615,0,1,0
+543,1329.0,India,lost,4 wickets,3.0,lost,1st,Australia,Mohali,19 Oct 2013,113.0,194,11.0,27,0.582474226804,0.407407407407,0,0,1
+544,1330.0,India,won,6 wickets,3.0,won,2nd,Australia,Nagpur,30 Oct 2013,113.0,195,11.0,28,0.579487179487,0.392857142857,1,1,0
+545,1331.0,India,won,57 runs,,lost,1st,Australia,Bangalore,2 Nov 2013,114.0,196,12.0,29,0.581632653061,0.413793103448,0,1,1
+546,1354.0,India,lost,4 wickets,6.0,won,1st,Australia,Melbourne,18 Jan 2015,127.0,219,13.0,30,0.579908675799,0.433333333333,1,0,1
+547,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+548,1156.0,India,lost,5 wickets,7.0,lost,1st,South Africa,Hyderabad (Deccan),16 Nov 2005,11.0,21,0.0,0,0.52380952381,,0,0,1
+549,1157.0,India,won,6 wickets,86.0,won,2nd,South Africa,Bangalore,19 Nov 2005,11.0,22,0.0,1,0.5,0.0,1,1,0
+550,1158.0,India,lost,10 wickets,85.0,lost,1st,South Africa,Kolkata,25 Nov 2005,12.0,23,1.0,2,0.521739130435,0.5,0,0,1
+551,1159.0,India,won,5 wickets,15.0,won,2nd,South Africa,Mumbai,28 Nov 2005,12.0,24,1.0,3,0.5,0.333333333333,1,1,0
+552,1177.0,India,lost,157 runs,,lost,2nd,South Africa,Durban,22 Nov 2006,20.0,42,2.0,4,0.47619047619,0.5,0,0,0
+553,1178.0,India,lost,106 runs,,lost,2nd,South Africa,Cape Town,26 Nov 2006,20.0,43,2.0,5,0.46511627907,0.4,0,0,0
+554,1179.0,India,lost,80 runs,,lost,2nd,South Africa,Port Elizabeth,29 Nov 2006,20.0,44,2.0,6,0.454545454545,0.333333333333,0,0,0
+555,1180.0,India,lost,9 wickets,112.0,lost,1st,South Africa,Centurion,3 Dec 2006,20.0,45,2.0,7,0.444444444444,0.285714285714,0,0,1
+556,1192.0,India,lost,4 wickets,3.0,lost,1st,South Africa,Belfast,26 Jun 2007,27.0,57,2.0,8,0.473684210526,0.25,0,0,1
+557,1193.0,India,won,6 wickets,5.0,won,2nd,South Africa,Belfast,29 Jun 2007,27.0,58,2.0,9,0.465517241379,0.222222222222,1,1,0
+558,1194.0,India,won,6 wickets,4.0,won,2nd,South Africa,Belfast,1 Jul 2007,28.0,59,3.0,10,0.474576271186,0.3,1,1,0
+559,1259.0,India,won,1 runs,,lost,1st,South Africa,Jaipur,21 Feb 2010,67.0,124,4.0,11,0.540322580645,0.363636363636,0,1,1
+560,1260.0,India,won,153 runs,,won,1st,South Africa,Gwalior,24 Feb 2010,68.0,125,5.0,12,0.544,0.416666666667,1,1,1
+561,1261.0,India,lost,90 runs,,lost,2nd,South Africa,Ahmedabad,27 Feb 2010,69.0,126,6.0,13,0.547619047619,0.461538461538,0,0,0
+562,1279.0,India,lost,135 runs,,lost,2nd,South Africa,Durban,12 Jan 2011,81.0,144,6.0,14,0.5625,0.428571428571,0,0,0
+563,1280.0,India,won,1 runs,,won,1st,South Africa,Johannesburg,15 Jan 2011,81.0,145,6.0,15,0.558620689655,0.4,1,1,1
+564,1281.0,India,won,2 wickets,10.0,lost,2nd,South Africa,Cape Town,18 Jan 2011,82.0,146,7.0,16,0.561643835616,0.4375,0,1,0
+565,1282.0,India,lost,48 runs,,lost,2nd,South Africa,Port Elizabeth,21 Jan 2011,83.0,147,8.0,17,0.56462585034,0.470588235294,0,0,0
+566,1283.0,India,lost,33 runs,,won,2nd,South Africa,Centurion,23 Jan 2011,83.0,148,8.0,18,0.560810810811,0.444444444444,1,0,0
+567,1285.0,India,lost,3 wickets,2.0,won,1st,South Africa,Nagpur,12 Mar 2011,84.0,150,8.0,19,0.56,0.421052631579,1,0,1
+568,1318.0,India,won,26 runs,,lost,1st,South Africa,Cardiff,6 Jun 2013,105.0,183,8.0,20,0.573770491803,0.4,0,1,1
+569,1335.0,India,lost,141 runs,,won,2nd,South Africa,Johannesburg,5 Dec 2013,117.0,200,9.0,21,0.585,0.428571428571,1,0,0
+570,1336.0,India,lost,134 runs,,won,2nd,South Africa,Durban,8 Dec 2013,117.0,201,9.0,22,0.582089552239,0.409090909091,1,0,0
+571,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+572,1142.0,India,won,6 wickets,84.0,lost,2nd,West Indies,Dambulla,31 Jul 2005,2.0,7,0.0,0,0.285714285714,,0,1,0
+573,1144.0,India,won,7 runs,,won,1st,West Indies,Colombo (RPS),7 Aug 2005,3.0,9,1.0,1,0.333333333333,1.0,1,1,1
+574,1167.0,India,won,5 wickets,1.0,won,2nd,West Indies,Kingston,18 May 2006,18.0,32,2.0,2,0.5625,1.0,1,1,0
+575,1168.0,India,lost,1 runs,,won,2nd,West Indies,Kingston,20 May 2006,19.0,33,3.0,3,0.575757575758,1.0,1,0,0
+576,1169.0,India,lost,4 wickets,1.0,won,1st,West Indies,Basseterre,23 May 2006,19.0,34,3.0,4,0.558823529412,0.75,1,0,1
+577,1170.0,India,lost,6 wickets,36.0,lost,1st,West Indies,Port of Spain,26 May 2006,19.0,35,3.0,5,0.542857142857,0.6,0,0,1
+578,1171.0,India,lost,19 runs,,won,2nd,West Indies,Port of Spain,28 May 2006,19.0,36,3.0,6,0.527777777778,0.5,1,0,0
+579,1172.0,India,lost,29 runs,,won,1st,West Indies,Kuala Lumpur,14 Sep 2006,19.0,37,3.0,7,0.513513513514,0.428571428571,1,0,1
+580,1173.0,India,won,16 runs,,won,1st,West Indies,Kuala Lumpur,20 Sep 2006,19.0,38,3.0,8,0.5,0.375,1,1,1
+581,1175.0,India,lost,3 wickets,2.0,lost,1st,West Indies,Ahmedabad,26 Oct 2006,20.0,40,4.0,9,0.5,0.444444444444,0,0,1
+582,1181.0,India,won,14 runs,,lost,1st,West Indies,Nagpur,21 Jan 2007,20.0,46,4.0,10,0.434782608696,0.4,0,1,1
+583,1182.0,India,won,20 runs,,won,1st,West Indies,Cuttack,24 Jan 2007,21.0,47,5.0,11,0.446808510638,0.454545454545,1,1,1
+584,1183.0,India,lost,3 wickets,38.0,lost,1st,West Indies,Chennai,27 Jan 2007,22.0,48,6.0,12,0.458333333333,0.5,0,0,1
+585,1184.0,India,won,160 runs,,lost,1st,West Indies,Vadodara,31 Jan 2007,22.0,49,6.0,13,0.448979591837,0.461538461538,0,1,1
+586,1236.0,India,won,20 runs,,won,1st,West Indies,Kingston,26 Jun 2009,54.0,101,7.0,14,0.534653465347,0.5,1,1,1
+587,1237.0,India,lost,8 wickets,95.0,won,1st,West Indies,Kingston,28 Jun 2009,55.0,102,8.0,15,0.539215686275,0.533333333333,1,0,1
+588,1238.0,India,won,6 wickets,1.0,won,2nd,West Indies,Gros Islet,3 Jul 2009,55.0,103,8.0,16,0.533980582524,0.5,1,1,0
+589,1243.0,India,won,7 wickets,107.0,won,2nd,West Indies,Johannesburg,30 Sep 2009,58.0,108,9.0,17,0.537037037037,0.529411764706,1,1,0
+590,1286.0,India,won,80 runs,,won,1st,West Indies,Chennai,20 Mar 2011,84.0,151,10.0,18,0.556291390728,0.555555555556,1,1,1
+591,1290.0,India,won,4 wickets,31.0,lost,2nd,West Indies,Port of Spain,6 Jun 2011,88.0,155,11.0,19,0.567741935484,0.578947368421,0,1,0
+592,1291.0,India,won,7 wickets,20.0,won,2nd,West Indies,Port of Spain,8 Jun 2011,89.0,156,12.0,20,0.570512820513,0.6,1,1,0
+593,1292.0,India,won,3 wickets,22.0,won,2nd,West Indies,North Sound,11 Jun 2011,90.0,157,13.0,21,0.573248407643,0.619047619048,1,1,0
+594,1293.0,India,lost,103 runs,,won,2nd,West Indies,North Sound,13 Jun 2011,91.0,158,14.0,22,0.575949367089,0.636363636364,1,0,0
+595,1294.0,India,lost,7 wickets,8.0,lost,1st,West Indies,Kingston,16 Jun 2011,91.0,159,14.0,23,0.572327044025,0.608695652174,0,0,1
+596,1295.0,India,won,1 wickets,7.0,won,2nd,West Indies,Cuttack,29 Nov 2011,91.0,160,14.0,24,0.56875,0.583333333333,1,1,0
+597,1296.0,India,won,5 wickets,11.0,won,2nd,West Indies,Visakhapatnam,2 Dec 2011,92.0,161,15.0,25,0.571428571429,0.6,1,1,0
+598,1297.0,India,lost,16 runs,,won,2nd,West Indies,Ahmedabad,5 Dec 2011,93.0,162,16.0,26,0.574074074074,0.615384615385,1,0,0
+599,1298.0,India,won,153 runs,,won,1st,West Indies,Indore,8 Dec 2011,93.0,163,16.0,27,0.570552147239,0.592592592593,1,1,1
+600,1299.0,India,won,34 runs,,won,1st,West Indies,Chennai,11 Dec 2011,94.0,164,17.0,28,0.573170731707,0.607142857143,1,1,1
+601,1319.0,India,won,8 wickets,65.0,won,2nd,West Indies,The Oval,11 Jun 2013,106.0,184,18.0,29,0.576086956522,0.620689655172,1,1,0
+602,1322.0,India,lost,1 wickets,14.0,lost,1st,West Indies,Kingston,30 Jun 2013,109.0,187,19.0,30,0.582887700535,0.633333333333,0,0,1
+603,1324.0,India,won,102 runs,,lost,1st,West Indies,Port of Spain,5 Jul 2013,109.0,189,19.0,31,0.57671957672,0.612903225806,0,1,1
+604,1332.0,India,won,6 wickets,88.0,lost,2nd,West Indies,Kochi,21 Nov 2013,115.0,197,20.0,32,0.583756345178,0.625,0,1,0
+605,1333.0,India,lost,2 wickets,3.0,lost,1st,West Indies,Visakhapatnam,24 Nov 2013,116.0,198,21.0,33,0.585858585859,0.636363636364,0,0,1
+606,1334.0,India,won,5 wickets,23.0,won,2nd,West Indies,Kanpur,27 Nov 2013,116.0,199,21.0,34,0.582914572864,0.617647058824,1,1,0
+607,1346.0,India,lost,124 runs,,won,2nd,West Indies,Kochi,8 Oct 2014,120.0,211,22.0,35,0.568720379147,0.628571428571,1,0,0
+608,1347.0,India,won,48 runs,,won,1st,West Indies,Delhi,11 Oct 2014,120.0,212,22.0,36,0.566037735849,0.611111111111,1,1,1
+609,1348.0,India,won,59 runs,,lost,1st,West Indies,Dharamsala,17 Oct 2014,121.0,213,23.0,37,0.568075117371,0.621621621622,0,1,1
+610,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+611,1141.0,India,lost,3 wickets,10.0,won,1st,Sri Lanka,Dambulla,30 Jul 2005,2.0,6,0.0,0,0.333333333333,,1,0,1
+612,1143.0,India,lost,4 wickets,12.0,won,1st,Sri Lanka,Dambulla,3 Aug 2005,3.0,8,0.0,1,0.375,0.0,1,0,1
+613,1145.0,India,lost,18 runs,,lost,2nd,Sri Lanka,Colombo (RPS),9 Aug 2005,4.0,10,0.0,2,0.4,0.0,0,0,0
+614,1149.0,India,won,152 runs,,won,1st,Sri Lanka,Nagpur,25 Oct 2005,5.0,14,0.0,3,0.357142857143,0.0,1,1,1
+615,1150.0,India,won,8 wickets,178.0,won,2nd,Sri Lanka,Mohali,28 Oct 2005,6.0,15,1.0,4,0.4,0.25,1,1,0
+616,1151.0,India,won,6 wickets,23.0,lost,2nd,Sri Lanka,Jaipur,31 Oct 2005,7.0,16,2.0,5,0.4375,0.4,0,1,0
+617,1152.0,India,won,4 wickets,26.0,won,2nd,Sri Lanka,Pune,3 Nov 2005,8.0,17,3.0,6,0.470588235294,0.5,1,1,0
+618,1153.0,India,lost,5 wickets,14.0,lost,1st,Sri Lanka,Ahmedabad,6 Nov 2005,9.0,18,4.0,7,0.5,0.571428571429,0,0,1
+619,1154.0,India,won,7 wickets,91.0,won,2nd,Sri Lanka,Rajkot,9 Nov 2005,9.0,19,4.0,8,0.473684210526,0.5,1,1,0
+620,1155.0,India,won,5 wickets,63.0,lost,2nd,Sri Lanka,Vadodara,12 Nov 2005,10.0,20,5.0,9,0.5,0.555555555556,0,1,0
+621,1185.0,India,lost,5 runs,,won,2nd,Sri Lanka,Rajkot,11 Feb 2007,23.0,50,6.0,10,0.46,0.6,1,0,0
+622,1186.0,India,won,5 wickets,21.0,lost,2nd,Sri Lanka,Margao,14 Feb 2007,23.0,51,6.0,11,0.450980392157,0.545454545455,0,1,0
+623,1187.0,India,won,7 wickets,36.0,won,2nd,Sri Lanka,Visakhapatnam,17 Feb 2007,24.0,52,7.0,12,0.461538461538,0.583333333333,1,1,0
+624,1189.0,India,lost,69 runs,,won,2nd,Sri Lanka,Port of Spain,23 Mar 2007,25.0,54,8.0,13,0.462962962963,0.615384615385,1,0,0
+625,1207.0,India,lost,8 wickets,12.0,lost,1st,Sri Lanka,Canberra,12 Feb 2008,35.0,72,8.0,14,0.486111111111,0.571428571429,0,0,1
+626,1209.0,India,won,2 wickets,5.0,lost,2nd,Sri Lanka,Adelaide,19 Feb 2008,35.0,74,8.0,15,0.472972972973,0.533333333333,0,1,0
+627,1211.0,India,won,7 wickets,106.0,won,2nd,Sri Lanka,Hobart,26 Feb 2008,36.0,76,9.0,16,0.473684210526,0.5625,1,1,0
+628,1220.0,India,won,6 wickets,19.0,lost,2nd,Sri Lanka,Karachi,3 Jul 2008,43.0,85,10.0,17,0.505882352941,0.588235294118,0,1,0
+629,1221.0,India,lost,100 runs,,won,2nd,Sri Lanka,Karachi,6 Jul 2008,44.0,86,11.0,18,0.511627906977,0.611111111111,1,0,0
+630,1222.0,India,lost,8 wickets,91.0,won,1st,Sri Lanka,Dambulla,18 Aug 2008,44.0,87,11.0,19,0.505747126437,0.578947368421,1,0,1
+631,1223.0,India,won,3 wickets,62.0,won,2nd,Sri Lanka,Dambulla,20 Aug 2008,44.0,88,11.0,20,0.5,0.55,1,1,0
+632,1224.0,India,won,33 runs,,won,1st,Sri Lanka,Colombo (RPS),24 Aug 2008,45.0,89,12.0,21,0.505617977528,0.571428571429,1,1,1
+633,1225.0,India,won,46 runs,,won,1st,Sri Lanka,Colombo (RPS),27 Aug 2008,46.0,90,13.0,22,0.511111111111,0.590909090909,1,1,1
+634,1226.0,India,lost,112 runs,,lost,2nd,Sri Lanka,Colombo (RPS),29 Aug 2008,47.0,91,14.0,23,0.516483516484,0.608695652174,0,0,0
+635,1227.0,India,won,6 wickets,11.0,won,2nd,Sri Lanka,Dambulla,28 Jan 2009,47.0,92,14.0,24,0.510869565217,0.583333333333,1,1,0
+636,1228.0,India,won,15 runs,,won,1st,Sri Lanka,Colombo (RPS),31 Jan 2009,48.0,93,15.0,25,0.516129032258,0.6,1,1,1
+637,1229.0,India,won,147 runs,,won,1st,Sri Lanka,Colombo (RPS),3 Feb 2009,49.0,94,16.0,26,0.521276595745,0.615384615385,1,1,1
+638,1230.0,India,won,67 runs,,won,1st,Sri Lanka,Colombo (RPS),5 Feb 2009,50.0,95,17.0,27,0.526315789474,0.62962962963,1,1,1
+639,1231.0,India,lost,68 runs,,lost,2nd,Sri Lanka,Colombo (RPS),8 Feb 2009,51.0,96,18.0,28,0.53125,0.642857142857,0,0,0
+640,1240.0,India,lost,139 runs,,lost,2nd,Sri Lanka,Colombo (RPS),12 Sep 2009,57.0,105,18.0,29,0.542857142857,0.620689655172,0,0,0
+641,1241.0,India,won,46 runs,,won,1st,Sri Lanka,Colombo (RPS),14 Sep 2009,57.0,106,18.0,30,0.537735849057,0.6,1,1,1
+642,1250.0,India,won,3 runs,,lost,1st,Sri Lanka,Rajkot,15 Dec 2009,61.0,115,19.0,31,0.530434782609,0.612903225806,0,1,1
+643,1251.0,India,lost,3 wickets,5.0,won,1st,Sri Lanka,Nagpur,18 Dec 2009,62.0,116,20.0,32,0.534482758621,0.625,1,0,1
+644,1252.0,India,won,7 wickets,45.0,lost,2nd,Sri Lanka,Cuttack,21 Dec 2009,62.0,117,20.0,33,0.529914529915,0.606060606061,0,1,0
+645,1253.0,India,won,7 wickets,11.0,lost,2nd,Sri Lanka,Kolkata,24 Dec 2009,63.0,118,21.0,34,0.533898305085,0.617647058824,0,1,0
+646,1254.0,India,lost,5 wickets,12.0,lost,1st,Sri Lanka,Dhaka,5 Jan 2010,64.0,119,22.0,35,0.53781512605,0.628571428571,0,0,1
+647,1256.0,India,won,8 wickets,104.0,lost,2nd,Sri Lanka,Dhaka,10 Jan 2010,65.0,121,22.0,36,0.537190082645,0.611111111111,0,1,0
+648,1258.0,India,lost,4 wickets,9.0,lost,1st,Sri Lanka,Dhaka,13 Jan 2010,67.0,123,23.0,37,0.544715447154,0.621621621622,0,0,1
+649,1262.0,India,won,7 wickets,39.0,won,2nd,Sri Lanka,Bulawayo,30 May 2010,69.0,127,23.0,38,0.543307086614,0.605263157895,1,1,0
+650,1263.0,India,lost,6 wickets,10.0,lost,1st,Sri Lanka,Harare,5 Jun 2010,70.0,128,24.0,39,0.546875,0.615384615385,0,0,1
+651,1266.0,India,lost,7 wickets,75.0,lost,1st,Sri Lanka,Dambulla,22 Jun 2010,72.0,131,24.0,40,0.549618320611,0.6,0,0,1
+652,1267.0,India,won,81 runs,,won,1st,Sri Lanka,Dambulla,24 Jun 2010,72.0,132,24.0,41,0.545454545455,0.585365853659,1,1,1
+653,1269.0,India,won,6 wickets,93.0,lost,2nd,Sri Lanka,Dambulla,16 Aug 2010,73.0,134,25.0,42,0.544776119403,0.595238095238,0,1,0
+654,1270.0,India,lost,8 wickets,209.0,won,1st,Sri Lanka,Dambulla,22 Aug 2010,74.0,135,26.0,43,0.548148148148,0.604651162791,1,0,1
+655,1272.0,India,lost,74 runs,,lost,2nd,Sri Lanka,Dambulla,28 Aug 2010,75.0,137,26.0,44,0.547445255474,0.590909090909,0,0,0
+656,1289.0,India,won,6 wickets,10.0,lost,2nd,Sri Lanka,Mumbai,2 Apr 2011,87.0,154,26.0,45,0.564935064935,0.577777777778,0,1,0
+657,1301.0,India,won,4 wickets,20.0,lost,2nd,Sri Lanka,Perth,8 Feb 2012,95.0,166,27.0,46,0.572289156627,0.586956521739,0,1,0
+658,1304.0,India,lost,51 runs,,lost,2nd,Sri Lanka,Brisbane,21 Feb 2012,97.0,169,28.0,47,0.573964497041,0.595744680851,0,0,0
+659,1306.0,India,won,7 wickets,80.0,won,2nd,Sri Lanka,Hobart,28 Feb 2012,97.0,171,28.0,48,0.567251461988,0.583333333333,1,1,0
+660,1307.0,India,won,50 runs,,lost,1st,Sri Lanka,Dhaka,13 Mar 2012,98.0,172,29.0,49,0.56976744186,0.591836734694,0,1,1
+661,1310.0,India,won,21 runs,,won,1st,Sri Lanka,Hambantota,21 Jul 2012,100.0,175,30.0,50,0.571428571429,0.6,1,1,1
+662,1311.0,India,lost,9 wickets,181.0,won,1st,Sri Lanka,Hambantota,24 Jul 2012,101.0,176,31.0,51,0.573863636364,0.607843137255,1,0,1
+663,1312.0,India,won,5 wickets,2.0,lost,2nd,Sri Lanka,Colombo (RPS),28 Jul 2012,101.0,177,31.0,52,0.570621468927,0.596153846154,0,1,0
+664,1313.0,India,won,6 wickets,46.0,lost,2nd,Sri Lanka,Colombo (RPS),31 Jul 2012,102.0,178,32.0,53,0.573033707865,0.603773584906,0,1,0
+665,1314.0,India,won,20 runs,,won,1st,Sri Lanka,Pallekele,4 Aug 2012,103.0,179,33.0,54,0.575418994413,0.611111111111,1,1,1
+666,1321.0,India,won,8 wickets,90.0,won,2nd,Sri Lanka,Cardiff,20 Jun 2013,108.0,186,34.0,55,0.58064516129,0.618181818182,1,1,0
+667,1323.0,India,lost,161 runs,,won,2nd,Sri Lanka,Kingston,2 Jul 2013,109.0,188,35.0,56,0.579787234043,0.625,1,0,0
+668,1325.0,India,won,81 runs,,lost,1st,Sri Lanka,Port of Spain,9 Jul 2013,110.0,190,35.0,57,0.578947368421,0.614035087719,0,1,1
+669,1326.0,India,won,1 wickets,2.0,won,2nd,Sri Lanka,Port of Spain,11 Jul 2013,111.0,191,36.0,58,0.581151832461,0.620689655172,1,1,0
+670,1342.0,India,lost,2 wickets,4.0,lost,1st,Sri Lanka,Fatullah,28 Feb 2014,118.0,207,37.0,59,0.570048309179,0.627118644068,0,0,1
+671,1349.0,India,won,169 runs,,lost,1st,Sri Lanka,Cuttack,2 Nov 2014,122.0,214,37.0,60,0.570093457944,0.616666666667,0,1,1
+672,1350.0,India,won,6 wickets,33.0,lost,2nd,Sri Lanka,Ahmedabad,6 Nov 2014,123.0,215,38.0,61,0.572093023256,0.622950819672,0,1,0
+673,1351.0,India,won,6 wickets,35.0,lost,2nd,Sri Lanka,Hyderabad (Deccan),9 Nov 2014,124.0,216,39.0,62,0.574074074074,0.629032258065,0,1,0
+674,1352.0,India,won,153 runs,,won,1st,Sri Lanka,Kolkata,13 Nov 2014,125.0,217,40.0,63,0.576036866359,0.634920634921,1,1,1
+675,1353.0,India,won,3 wickets,8.0,lost,2nd,Sri Lanka,Ranchi,16 Nov 2014,126.0,218,41.0,64,0.577981651376,0.640625,0,1,0
+676,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+677,1135.0,India,won,87 runs,,won,1st,Pakistan,Kochi,2 Apr 2005,0.0,0,0.0,0,,,1,1,1
+678,1136.0,India,won,58 runs,,won,1st,Pakistan,Visakhapatnam,5 Apr 2005,1.0,1,1.0,1,1.0,1.0,1,1,1
+679,1137.0,India,lost,106 runs,,lost,2nd,Pakistan,Jamshedpur,9 Apr 2005,2.0,2,2.0,2,1.0,1.0,0,0,0
+680,1138.0,India,lost,3 wickets,0.0,won,1st,Pakistan,Ahmedabad,12 Apr 2005,2.0,3,2.0,3,0.666666666667,0.666666666667,1,0,1
+681,1139.0,India,lost,5 wickets,47.0,won,1st,Pakistan,Kanpur,15 Apr 2005,2.0,4,2.0,4,0.5,0.5,1,0,1
+682,1140.0,India,lost,159 runs,,lost,2nd,Pakistan,Delhi,17 Apr 2005,2.0,5,2.0,5,0.4,0.4,0,0,0
+683,1160.0,India,lost,7 runs,,lost,1st,Pakistan,Peshawar,6 Feb 2006,13.0,25,2.0,6,0.52,0.333333333333,0,0,1
+684,1161.0,India,won,7 wickets,41.0,lost,2nd,Pakistan,Rawalpindi,11 Feb 2006,13.0,26,2.0,7,0.5,0.285714285714,0,1,0
+685,1162.0,India,won,5 wickets,14.0,won,2nd,Pakistan,Lahore,13 Feb 2006,14.0,27,3.0,8,0.518518518519,0.375,1,1,0
+686,1163.0,India,won,5 wickets,105.0,won,2nd,Pakistan,Multan,16 Feb 2006,15.0,28,4.0,9,0.535714285714,0.444444444444,1,1,0
+687,1164.0,India,won,8 wickets,19.0,won,2nd,Pakistan,Karachi,19 Feb 2006,16.0,29,5.0,10,0.551724137931,0.5,1,1,0
+688,1165.0,India,lost,6 wickets,9.0,won,1st,Pakistan,Abu Dhabi,18 Apr 2006,17.0,30,6.0,11,0.566666666667,0.545454545455,1,0,1
+689,1166.0,India,won,51 runs,,won,1st,Pakistan,Abu Dhabi,19 Apr 2006,17.0,31,6.0,12,0.548387096774,0.5,1,1,1
+690,1201.0,India,won,5 wickets,18.0,lost,2nd,Pakistan,Guwahati,5 Nov 2007,31.0,66,7.0,13,0.469696969697,0.538461538462,0,1,0
+691,1202.0,India,lost,4 wickets,1.0,won,1st,Pakistan,Mohali,8 Nov 2007,32.0,67,8.0,14,0.477611940299,0.571428571429,1,0,1
+692,1203.0,India,won,46 runs,,lost,1st,Pakistan,Kanpur,11 Nov 2007,32.0,68,8.0,15,0.470588235294,0.533333333333,0,1,1
+693,1204.0,India,won,6 wickets,21.0,lost,2nd,Pakistan,Gwalior,15 Nov 2007,33.0,69,9.0,16,0.478260869565,0.5625,0,1,0
+694,1205.0,India,lost,31 runs,,won,2nd,Pakistan,Jaipur,18 Nov 2007,34.0,70,10.0,17,0.485714285714,0.588235294118,1,0,0
+695,1214.0,India,won,140 runs,,won,1st,Pakistan,Dhaka,10 Jun 2008,39.0,79,10.0,18,0.493670886076,0.555555555556,1,1,1
+696,1216.0,India,lost,25 runs,,lost,2nd,Pakistan,Dhaka,14 Jun 2008,41.0,81,11.0,19,0.506172839506,0.578947368421,0,0,0
+697,1217.0,India,won,6 wickets,47.0,lost,2nd,Pakistan,Karachi,26 Jun 2008,41.0,82,11.0,20,0.5,0.55,0,1,0
+698,1219.0,India,lost,8 wickets,27.0,won,1st,Pakistan,Karachi,2 Jul 2008,43.0,84,12.0,21,0.511904761905,0.571428571429,1,0,1
+699,1242.0,India,lost,54 runs,,lost,2nd,Pakistan,Centurion,26 Sep 2009,58.0,107,12.0,22,0.542056074766,0.545454545455,0,0,0
+700,1265.0,India,won,3 wickets,1.0,lost,2nd,Pakistan,Dambulla,19 Jun 2010,71.0,130,12.0,23,0.546153846154,0.521739130435,0,1,0
+701,1288.0,India,won,29 runs,,won,1st,Pakistan,Mohali,30 Mar 2011,86.0,153,13.0,24,0.562091503268,0.541666666667,1,1,1
+702,1309.0,India,won,6 wickets,13.0,lost,2nd,Pakistan,Dhaka,18 Mar 2012,99.0,174,14.0,25,0.568965517241,0.56,0,1,0
+703,1315.0,India,lost,6 wickets,11.0,lost,1st,Pakistan,Chennai,30 Dec 2012,104.0,180,15.0,26,0.577777777778,0.576923076923,0,0,1
+704,1316.0,India,lost,85 runs,,won,2nd,Pakistan,Kolkata,3 Jan 2013,104.0,181,15.0,27,0.574585635359,0.555555555556,1,0,0
+705,1317.0,India,won,10 runs,,won,1st,Pakistan,Delhi,6 Jan 2013,104.0,182,15.0,28,0.571428571429,0.535714285714,1,1,1
+706,1320.0,India,won,8 wickets,17.0,won,2nd,Pakistan,Birmingham,15 Jun 2013,107.0,185,16.0,29,0.578378378378,0.551724137931,1,1,0
+707,1343.0,India,lost,1 wickets,2.0,lost,1st,Pakistan,Dhaka,2 Mar 2014,118.0,208,17.0,30,0.567307692308,0.566666666667,0,0,1
+708,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+709,1146.0,India,lost,51 runs,,lost,2nd,New Zealand,Bulawayo,26 Aug 2005,4.0,11,0.0,0,0.363636363636,,0,0,0
+710,1147.0,India,won,6 wickets,15.0,lost,2nd,New Zealand,Harare,2 Sep 2005,4.0,12,0.0,1,0.333333333333,0.0,0,1,0
+711,1148.0,India,lost,6 wickets,11.0,won,1st,New Zealand,Harare,6 Sep 2005,5.0,13,1.0,2,0.384615384615,0.5,1,0,1
+712,1232.0,India,won,53 runs,,won,1st,New Zealand,Napier,3 Mar 2009,51.0,97,1.0,3,0.525773195876,0.333333333333,1,1,1
+713,1233.0,India,won,58 runs,,lost,1st,New Zealand,Christchurch,8 Mar 2009,52.0,98,2.0,4,0.530612244898,0.5,0,1,1
+714,1234.0,India,won,84 runs,,lost,2nd,New Zealand,Hamilton,11 Mar 2009,53.0,99,3.0,5,0.535353535354,0.6,0,1,0
+715,1235.0,India,lost,8 wickets,118.0,won,1st,New Zealand,Auckland,14 Mar 2009,54.0,100,4.0,6,0.54,0.666666666667,1,0,1
+716,1239.0,India,won,6 wickets,57.0,lost,2nd,New Zealand,Colombo (RPS),11 Sep 2009,56.0,104,4.0,7,0.538461538462,0.571428571429,0,1,0
+717,1268.0,India,lost,200 runs,,lost,2nd,New Zealand,Dambulla,10 Aug 2010,73.0,133,5.0,8,0.548872180451,0.625,0,0,0
+718,1271.0,India,won,105 runs,,won,1st,New Zealand,Dambulla,25 Aug 2010,74.0,136,5.0,9,0.544117647059,0.555555555556,1,1,1
+719,1274.0,India,won,40 runs,,lost,1st,New Zealand,Guwahati,28 Nov 2010,76.0,139,6.0,10,0.546762589928,0.6,0,1,1
+720,1275.0,India,won,8 wickets,42.0,won,2nd,New Zealand,Jaipur,1 Dec 2010,77.0,140,7.0,11,0.55,0.636363636364,1,1,0
+721,1276.0,India,won,9 wickets,63.0,won,2nd,New Zealand,Vadodara,4 Dec 2010,78.0,141,8.0,12,0.553191489362,0.666666666667,1,1,0
+722,1277.0,India,won,5 wickets,7.0,won,2nd,New Zealand,Bangalore,7 Dec 2010,79.0,142,9.0,13,0.556338028169,0.692307692308,1,1,0
+723,1278.0,India,won,8 wickets,173.0,lost,2nd,New Zealand,Chennai,10 Dec 2010,80.0,143,10.0,14,0.559440559441,0.714285714286,0,1,0
+724,1337.0,India,lost,24 runs,,won,2nd,New Zealand,Napier,19 Jan 2014,117.0,202,11.0,15,0.579207920792,0.733333333333,1,0,0
+725,1338.0,India,lost,15 runs,,won,2nd,New Zealand,Hamilton,22 Jan 2014,117.0,203,11.0,16,0.576354679803,0.6875,1,0,0
+726,1339.0,India,lost,7 wickets,11.0,won,1st,New Zealand,Hamilton,28 Jan 2014,117.0,204,11.0,17,0.573529411765,0.647058823529,1,0,1
+727,1340.0,India,lost,87 runs,,won,2nd,New Zealand,Wellington,31 Jan 2014,117.0,205,11.0,18,0.570731707317,0.611111111111,1,0,0
+728,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+729,1188.0,India,lost,5 wickets,9.0,won,1st,Bangladesh,Port of Spain,17 Mar 2007,25.0,53,0.0,0,0.471698113208,,1,0,1
+730,1190.0,India,won,5 wickets,6.0,lost,2nd,Bangladesh,Dhaka,10 May 2007,25.0,55,0.0,1,0.454545454545,0.0,0,1,0
+731,1191.0,India,won,46 runs,,won,1st,Bangladesh,Dhaka,12 May 2007,26.0,56,1.0,2,0.464285714286,0.5,1,1,1
+732,1215.0,India,won,7 wickets,89.0,lost,2nd,Bangladesh,Dhaka,12 Jun 2008,40.0,80,2.0,3,0.5,0.666666666667,0,1,0
+733,1218.0,India,won,7 wickets,40.0,lost,2nd,Bangladesh,Karachi,28 Jun 2008,42.0,83,3.0,4,0.506024096386,0.75,0,1,0
+734,1255.0,India,won,6 wickets,15.0,lost,2nd,Bangladesh,Dhaka,7 Jan 2010,64.0,120,4.0,5,0.533333333333,0.8,0,1,0
+735,1257.0,India,won,6 wickets,42.0,won,2nd,Bangladesh,Dhaka,11 Jan 2010,66.0,122,5.0,6,0.540983606557,0.833333333333,1,1,0
+736,1264.0,India,won,6 wickets,116.0,lost,2nd,Bangladesh,Dambulla,16 Jun 2010,70.0,129,6.0,7,0.542635658915,0.857142857143,0,1,0
+737,1284.0,India,won,87 runs,,lost,1st,Bangladesh,Dhaka,19 Feb 2011,83.0,149,7.0,8,0.557046979866,0.875,0,1,1
+738,1308.0,India,lost,5 wickets,4.0,lost,1st,Bangladesh,Dhaka,16 Mar 2012,99.0,173,8.0,9,0.57225433526,0.888888888889,0,0,1
+739,1341.0,India,won,6 wickets,6.0,won,2nd,Bangladesh,Fatullah,26 Feb 2014,117.0,206,8.0,10,0.567961165049,0.8,1,1,0
+740,1344.0,India,won,7 wickets,7.0,lost,2nd,Bangladesh,Dhaka,15 Jun 2014,118.0,209,9.0,11,0.564593301435,0.818181818182,0,1,0
+741,1345.0,India,won,47 runs,,lost,1st,Bangladesh,Dhaka,17 Jun 2014,119.0,210,10.0,12,0.566666666667,0.833333333333,0,1,1
+742,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+743,358.0,Sri Lanka,lost,116 runs,,won,2nd,Australia,Melbourne (Docklands),13 Jan 2006,9.0,19,0.0,0,0.473684210526,,1,0,0
+744,360.0,Sri Lanka,won,51 runs,,won,1st,Australia,Sydney,22 Jan 2006,10.0,21,0.0,1,0.47619047619,0.0,1,1,1
+745,362.0,Sri Lanka,lost,5 wickets,9.0,won,1st,Australia,Adelaide,26 Jan 2006,11.0,23,1.0,2,0.478260869565,0.5,1,0,1
+746,363.0,Sri Lanka,lost,6 wickets,54.0,won,1st,Australia,Perth,29 Jan 2006,11.0,24,1.0,3,0.458333333333,0.333333333333,1,0,1
+747,366.0,Sri Lanka,won,22 runs,,won,1st,Australia,Adelaide,10 Feb 2006,12.0,27,1.0,4,0.444444444444,0.25,1,1,1
+748,367.0,Sri Lanka,lost,167 runs,,lost,2nd,Australia,Sydney,12 Feb 2006,13.0,28,2.0,5,0.464285714286,0.4,0,0,0
+749,368.0,Sri Lanka,lost,9 wickets,27.0,won,1st,Australia,Brisbane,14 Feb 2006,13.0,29,2.0,6,0.448275862069,0.333333333333,1,0,1
+750,391.0,Sri Lanka,lost,7 wickets,44.0,won,1st,Australia,St George's,16 Apr 2007,25.0,52,2.0,7,0.480769230769,0.285714285714,1,0,1
+751,393.0,Sri Lanka,lost,53 runs,,lost,2nd,Australia,Bridgetown,28 Apr 2007,26.0,54,2.0,8,0.481481481481,0.25,0,0,0
+752,400.0,Sri Lanka,lost,128 runs,,lost,2nd,Australia,Sydney,8 Feb 2008,30.0,61,2.0,9,0.491803278689,0.222222222222,0,0,0
+753,402.0,Sri Lanka,lost,63 runs,,lost,2nd,Australia,Perth,15 Feb 2008,31.0,63,2.0,10,0.492063492063,0.2,0,0,0
+754,404.0,Sri Lanka,lost,24 runs,,won,2nd,Australia,Melbourne,22 Feb 2008,31.0,65,2.0,11,0.476923076923,0.181818181818,1,0,0
+755,406.0,Sri Lanka,won,13 runs,,won,1st,Australia,Melbourne,29 Feb 2008,31.0,67,2.0,12,0.462686567164,0.166666666667,1,1,1
+756,458.0,Sri Lanka,won,1 wickets,34.0,lost,2nd,Australia,Melbourne,3 Nov 2010,60.0,119,3.0,13,0.504201680672,0.230769230769,0,1,0
+757,459.0,Sri Lanka,won,29 runs,,won,1st,Australia,Sydney,5 Nov 2010,61.0,120,4.0,14,0.508333333333,0.285714285714,1,1,1
+758,460.0,Sri Lanka,lost,8 wickets,170.0,won,1st,Australia,Brisbane,7 Nov 2010,62.0,121,5.0,15,0.512396694215,0.333333333333,1,0,1
+759,467.0,Sri Lanka,lost,7 wickets,71.0,won,1st,Australia,Pallekele,10 Aug 2011,66.0,128,5.0,16,0.515625,0.3125,1,0,1
+760,468.0,Sri Lanka,lost,8 wickets,70.0,won,1st,Australia,Hambantota,14 Aug 2011,66.0,129,5.0,17,0.511627906977,0.294117647059,1,0,1
+761,469.0,Sri Lanka,won,78 runs,,lost,1st,Australia,Hambantota,16 Aug 2011,66.0,130,5.0,18,0.507692307692,0.277777777778,0,1,1
+762,470.0,Sri Lanka,lost,5 wickets,132.0,won,1st,Australia,Colombo (RPS),20 Aug 2011,67.0,131,6.0,19,0.511450381679,0.315789473684,1,0,1
+763,471.0,Sri Lanka,won,4 wickets,18.0,won,2nd,Australia,Colombo (RPS),22 Aug 2011,67.0,132,6.0,20,0.507575757576,0.3,1,1,0
+764,483.0,Sri Lanka,lost,5 runs,,won,2nd,Australia,Perth,10 Feb 2012,71.0,144,7.0,21,0.493055555556,0.333333333333,1,0,0
+765,484.0,Sri Lanka,won,8 wickets,101.0,lost,2nd,Australia,Sydney,17 Feb 2012,71.0,145,7.0,22,0.489655172414,0.318181818182,0,1,0
+766,486.0,Sri Lanka,won,3 wickets,4.0,lost,2nd,Australia,Hobart,24 Feb 2012,73.0,147,8.0,23,0.496598639456,0.347826086957,0,1,0
+767,488.0,Sri Lanka,won,9 runs,,won,1st,Australia,Melbourne,2 Mar 2012,74.0,149,9.0,24,0.496644295302,0.375,1,1,1
+768,489.0,Sri Lanka,lost,15 runs,,lost,2nd,Australia,Brisbane,4 Mar 2012,75.0,150,10.0,25,0.5,0.4,0,0,0
+769,490.0,Sri Lanka,won,8 wickets,34.0,lost,2nd,Australia,Adelaide,6 Mar 2012,75.0,151,10.0,26,0.496688741722,0.384615384615,0,1,0
+770,491.0,Sri Lanka,lost,16 runs,,won,2nd,Australia,Adelaide,8 Mar 2012,76.0,152,11.0,27,0.5,0.407407407407,1,0,0
+771,507.0,Sri Lanka,lost,107 runs,,lost,2nd,Australia,Melbourne,11 Jan 2013,83.0,168,11.0,28,0.494047619048,0.392857142857,0,0,0
+772,508.0,Sri Lanka,won,8 wickets,59.0,won,2nd,Australia,Adelaide,13 Jan 2013,83.0,169,11.0,29,0.491124260355,0.379310344828,1,1,0
+773,509.0,Sri Lanka,won,4 wickets,180.0,lost,2nd,Australia,Brisbane,18 Jan 2013,84.0,170,12.0,30,0.494117647059,0.4,0,1,0
+774,510.0,Sri Lanka,lost,32 runs,,won,2nd,Australia,Hobart,23 Jan 2013,85.0,171,13.0,31,0.497076023392,0.41935483871,1,0,0
+775,514.0,Sri Lanka,won,20 runs,,lost,1st,Australia,The Oval,17 Jun 2013,86.0,175,13.0,32,0.491428571429,0.40625,0,1,1
+776,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+777,359.0,Sri Lanka,won,94 runs,,lost,1st,South Africa,Brisbane,17 Jan 2006,9.0,20,0.0,0,0.45,,0,1,1
+778,361.0,Sri Lanka,lost,9 runs,,lost,2nd,South Africa,Adelaide,24 Jan 2006,11.0,22,1.0,1,0.5,1.0,0,0,0
+779,364.0,Sri Lanka,lost,5 wickets,29.0,won,1st,South Africa,Perth,31 Jan 2006,11.0,25,1.0,2,0.44,0.5,1,0,1
+780,365.0,Sri Lanka,won,76 runs,,won,1st,South Africa,Hobart,7 Feb 2006,11.0,26,1.0,3,0.423076923077,0.333333333333,1,1,1
+781,378.0,Sri Lanka,lost,78 runs,,won,2nd,South Africa,Ahmedabad,24 Oct 2006,18.0,39,2.0,4,0.461538461538,0.5,1,0,0
+782,388.0,Sri Lanka,lost,1 wickets,10.0,won,1st,South Africa,Providence,28 Mar 2007,23.0,49,2.0,5,0.469387755102,0.4,1,0,1
+783,437.0,Sri Lanka,won,55 runs,,lost,1st,South Africa,Centurion,22 Sep 2009,47.0,98,2.0,6,0.479591836735,0.333333333333,0,1,1
+784,477.0,Sri Lanka,lost,258 runs,,lost,2nd,South Africa,Paarl,11 Jan 2012,69.0,138,3.0,7,0.5,0.428571428571,0,0,0
+785,478.0,Sri Lanka,lost,5 wickets,8.0,lost,1st,South Africa,East London,14 Jan 2012,69.0,139,3.0,8,0.496402877698,0.375,0,0,1
+786,479.0,Sri Lanka,lost,4 runs,,won,1st,South Africa,Bloemfontein,17 Jan 2012,69.0,140,3.0,9,0.492857142857,0.333333333333,1,0,1
+787,480.0,Sri Lanka,won,5 wickets,8.0,lost,2nd,South Africa,Kimberley,20 Jan 2012,69.0,141,3.0,10,0.489361702128,0.3,0,1,0
+788,481.0,Sri Lanka,won,2 wickets,1.0,won,2nd,South Africa,Johannesburg,22 Jan 2012,70.0,142,4.0,11,0.492957746479,0.363636363636,1,1,0
+789,521.0,Sri Lanka,won,180 runs,,lost,1st,South Africa,Colombo (RPS),20 Jul 2013,89.0,182,5.0,12,0.489010989011,0.416666666667,0,1,1
+790,522.0,Sri Lanka,won,17 runs,,won,1st,South Africa,Colombo (RPS),23 Jul 2013,90.0,183,6.0,13,0.491803278689,0.461538461538,1,1,1
+791,523.0,Sri Lanka,lost,56 runs,,lost,2nd,South Africa,Pallekele,26 Jul 2013,91.0,184,7.0,14,0.494565217391,0.5,0,0,0
+792,524.0,Sri Lanka,won,8 wickets,36.0,lost,2nd,South Africa,Pallekele,28 Jul 2013,91.0,185,7.0,15,0.491891891892,0.466666666667,0,1,0
+793,525.0,Sri Lanka,won,128 runs,,won,1st,South Africa,Colombo (RPS),31 Jul 2013,92.0,186,8.0,16,0.494623655914,0.5,1,1,1
+794,540.0,Sri Lanka,lost,75 runs,,lost,2nd,South Africa,Colombo (RPS),6 Jul 2014,103.0,201,9.0,17,0.512437810945,0.529411764706,0,0,0
+795,541.0,Sri Lanka,won,87 runs,,won,1st,South Africa,Pallekele,9 Jul 2014,103.0,202,9.0,18,0.509900990099,0.5,1,1,1
+796,542.0,Sri Lanka,lost,82 runs,,lost,2nd,South Africa,Hambantota,12 Jul 2014,104.0,203,10.0,19,0.512315270936,0.526315789474,0,0,0
+797,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+798,340.0,Sri Lanka,won,50 runs,,won,1st,West Indies,Dambulla,2 Aug 2005,1.0,1,0.0,0,1.0,,1,1,1
+799,342.0,Sri Lanka,lost,33 runs,,lost,2nd,West Indies,Colombo (RPS),6 Aug 2005,3.0,3,1.0,1,1.0,1.0,0,0,0
+800,375.0,Sri Lanka,won,9 wickets,220.0,lost,2nd,West Indies,Mumbai (BS),14 Oct 2006,16.0,36,1.0,2,0.444444444444,0.5,0,1,0
+801,389.0,Sri Lanka,won,113 runs,,lost,1st,West Indies,Providence,1 Apr 2007,23.0,50,2.0,3,0.46,0.666666666667,0,1,1
+802,407.0,Sri Lanka,lost,1 wickets,0.0,lost,1st,West Indies,Port of Spain,10 Apr 2008,32.0,68,3.0,4,0.470588235294,0.75,0,0,1
+803,408.0,Sri Lanka,lost,7 wickets,27.0,lost,1st,West Indies,Port of Spain,12 Apr 2008,32.0,69,3.0,5,0.463768115942,0.6,0,0,1
+804,461.0,Sri Lanka,won,8 wickets,27.0,won,2nd,West Indies,Colombo (SSC),3 Feb 2011,62.0,122,3.0,6,0.508196721311,0.5,1,1,0
+805,462.0,Sri Lanka,won,26 runs,,lost,1st,West Indies,Colombo (SSC),6 Feb 2011,63.0,123,4.0,7,0.512195121951,0.571428571429,0,1,1
+806,516.0,Sri Lanka,lost,6 wickets,73.0,lost,1st,West Indies,Kingston,28 Jun 2013,87.0,177,5.0,8,0.491525423729,0.625,0,0,1
+807,518.0,Sri Lanka,won,39 runs,,lost,1st,West Indies,Port of Spain,7 Jul 2013,88.0,179,5.0,9,0.491620111732,0.555555555556,0,1,1
+808,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+809,339.0,Sri Lanka,won,3 wickets,10.0,lost,2nd,India,Dambulla,30 Jul 2005,0.0,0,0.0,0,,,0,1,0
+810,341.0,Sri Lanka,won,4 wickets,12.0,lost,2nd,India,Dambulla,3 Aug 2005,2.0,2,1.0,1,1.0,1.0,0,1,0
+811,343.0,Sri Lanka,won,18 runs,,won,1st,India,Colombo (RPS),9 Aug 2005,3.0,4,2.0,2,0.75,1.0,1,1,1
+812,347.0,Sri Lanka,lost,152 runs,,lost,2nd,India,Nagpur,25 Oct 2005,7.0,8,3.0,3,0.875,1.0,0,0,0
+813,348.0,Sri Lanka,lost,8 wickets,178.0,lost,1st,India,Mohali,28 Oct 2005,7.0,9,3.0,4,0.777777777778,0.75,0,0,1
+814,349.0,Sri Lanka,lost,6 wickets,23.0,won,1st,India,Jaipur,31 Oct 2005,7.0,10,3.0,5,0.7,0.6,1,0,1
+815,350.0,Sri Lanka,lost,4 wickets,26.0,lost,1st,India,Pune,3 Nov 2005,7.0,11,3.0,6,0.636363636364,0.5,0,0,1
+816,351.0,Sri Lanka,won,5 wickets,14.0,won,2nd,India,Ahmedabad,6 Nov 2005,7.0,12,3.0,7,0.583333333333,0.428571428571,1,1,0
+817,352.0,Sri Lanka,lost,7 wickets,91.0,lost,1st,India,Rajkot,9 Nov 2005,8.0,13,4.0,8,0.615384615385,0.5,0,0,1
+818,353.0,Sri Lanka,lost,5 wickets,63.0,won,1st,India,Vadodara,12 Nov 2005,8.0,14,4.0,9,0.571428571429,0.444444444444,1,0,1
+819,383.0,Sri Lanka,won,5 runs,,lost,1st,India,Rajkot,11 Feb 2007,20.0,44,4.0,10,0.454545454545,0.4,0,1,1
+820,384.0,Sri Lanka,lost,5 wickets,21.0,won,1st,India,Margao,14 Feb 2007,21.0,45,5.0,11,0.466666666667,0.454545454545,1,0,1
+821,385.0,Sri Lanka,lost,7 wickets,36.0,lost,1st,India,Visakhapatnam,17 Feb 2007,21.0,46,5.0,12,0.45652173913,0.416666666667,0,0,1
+822,387.0,Sri Lanka,won,69 runs,,lost,1st,India,Port of Spain,23 Mar 2007,22.0,48,5.0,13,0.458333333333,0.384615384615,0,1,1
+823,401.0,Sri Lanka,won,8 wickets,12.0,won,2nd,India,Canberra,12 Feb 2008,30.0,62,6.0,14,0.483870967742,0.428571428571,1,1,0
+824,403.0,Sri Lanka,lost,2 wickets,5.0,won,1st,India,Adelaide,19 Feb 2008,31.0,64,7.0,15,0.484375,0.466666666667,1,0,1
+825,405.0,Sri Lanka,lost,7 wickets,106.0,lost,1st,India,Hobart,26 Feb 2008,31.0,66,7.0,16,0.469696969697,0.4375,0,0,1
+826,412.0,Sri Lanka,lost,6 wickets,19.0,won,1st,India,Karachi,3 Jul 2008,35.0,73,7.0,17,0.479452054795,0.411764705882,1,0,1
+827,413.0,Sri Lanka,won,100 runs,,lost,1st,India,Karachi,6 Jul 2008,35.0,74,7.0,18,0.472972972973,0.388888888889,0,1,1
+828,414.0,Sri Lanka,won,8 wickets,91.0,lost,2nd,India,Dambulla,18 Aug 2008,36.0,75,8.0,19,0.48,0.421052631579,0,1,0
+829,415.0,Sri Lanka,lost,3 wickets,62.0,lost,1st,India,Dambulla,20 Aug 2008,37.0,76,9.0,20,0.486842105263,0.45,0,0,1
+830,416.0,Sri Lanka,lost,33 runs,,lost,2nd,India,Colombo (RPS),24 Aug 2008,37.0,77,9.0,21,0.480519480519,0.428571428571,0,0,0
+831,417.0,Sri Lanka,lost,46 runs,,lost,2nd,India,Colombo (RPS),27 Aug 2008,37.0,78,9.0,22,0.474358974359,0.409090909091,0,0,0
+832,418.0,Sri Lanka,won,112 runs,,won,1st,India,Colombo (RPS),29 Aug 2008,37.0,79,9.0,23,0.46835443038,0.391304347826,1,1,1
+833,424.0,Sri Lanka,lost,6 wickets,11.0,lost,1st,India,Dambulla,28 Jan 2009,41.0,85,10.0,24,0.482352941176,0.416666666667,0,0,1
+834,425.0,Sri Lanka,lost,15 runs,,lost,2nd,India,Colombo (RPS),31 Jan 2009,41.0,86,10.0,25,0.476744186047,0.4,0,0,0
+835,426.0,Sri Lanka,lost,147 runs,,lost,2nd,India,Colombo (RPS),3 Feb 2009,41.0,87,10.0,26,0.471264367816,0.384615384615,0,0,0
+836,427.0,Sri Lanka,lost,67 runs,,lost,2nd,India,Colombo (RPS),5 Feb 2009,41.0,88,10.0,27,0.465909090909,0.37037037037,0,0,0
+837,428.0,Sri Lanka,won,68 runs,,won,1st,India,Colombo (RPS),8 Feb 2009,41.0,89,10.0,28,0.460674157303,0.357142857143,1,1,1
+838,435.0,Sri Lanka,won,139 runs,,won,1st,India,Colombo (RPS),12 Sep 2009,46.0,96,11.0,29,0.479166666667,0.379310344828,1,1,1
+839,436.0,Sri Lanka,lost,46 runs,,lost,2nd,India,Colombo (RPS),14 Sep 2009,47.0,97,12.0,30,0.484536082474,0.4,0,0,0
+840,439.0,Sri Lanka,lost,3 runs,,won,2nd,India,Rajkot,15 Dec 2009,48.0,100,12.0,31,0.48,0.387096774194,1,0,0
+841,440.0,Sri Lanka,won,3 wickets,5.0,lost,2nd,India,Nagpur,18 Dec 2009,48.0,101,12.0,32,0.475247524752,0.375,0,1,0
+842,441.0,Sri Lanka,lost,7 wickets,45.0,won,1st,India,Cuttack,21 Dec 2009,49.0,102,13.0,33,0.480392156863,0.393939393939,1,0,1
+843,442.0,Sri Lanka,lost,7 wickets,11.0,won,1st,India,Kolkata,24 Dec 2009,49.0,103,13.0,34,0.47572815534,0.382352941176,1,0,1
+844,444.0,Sri Lanka,won,5 wickets,12.0,won,2nd,India,Dhaka,5 Jan 2010,50.0,105,13.0,35,0.47619047619,0.371428571429,1,1,0
+845,446.0,Sri Lanka,lost,8 wickets,104.0,won,1st,India,Dhaka,10 Jan 2010,52.0,107,14.0,36,0.485981308411,0.388888888889,1,0,1
+846,447.0,Sri Lanka,won,4 wickets,9.0,won,2nd,India,Dhaka,13 Jan 2010,52.0,108,14.0,37,0.481481481481,0.378378378378,1,1,0
+847,448.0,Sri Lanka,lost,7 wickets,39.0,lost,1st,India,Bulawayo,30 May 2010,53.0,109,15.0,38,0.48623853211,0.394736842105,0,0,1
+848,449.0,Sri Lanka,won,6 wickets,10.0,won,2nd,India,Harare,5 Jun 2010,53.0,110,15.0,39,0.481818181818,0.384615384615,1,1,0
+849,452.0,Sri Lanka,won,7 wickets,75.0,won,2nd,India,Dambulla,22 Jun 2010,56.0,113,16.0,40,0.495575221239,0.4,1,1,0
+850,453.0,Sri Lanka,lost,81 runs,,lost,2nd,India,Dambulla,24 Jun 2010,57.0,114,17.0,41,0.5,0.414634146341,0,0,0
+851,455.0,Sri Lanka,lost,6 wickets,93.0,won,1st,India,Dambulla,16 Aug 2010,58.0,116,17.0,42,0.5,0.404761904762,1,0,1
+852,456.0,Sri Lanka,won,8 wickets,209.0,lost,2nd,India,Dambulla,22 Aug 2010,58.0,117,17.0,43,0.495726495726,0.395348837209,0,1,0
+853,457.0,Sri Lanka,won,74 runs,,won,1st,India,Dambulla,28 Aug 2010,59.0,118,18.0,44,0.5,0.409090909091,1,1,1
+854,466.0,Sri Lanka,lost,6 wickets,10.0,won,1st,India,Mumbai,2 Apr 2011,66.0,127,19.0,45,0.51968503937,0.422222222222,1,0,1
+855,482.0,Sri Lanka,lost,4 wickets,20.0,won,1st,India,Perth,8 Feb 2012,71.0,143,19.0,46,0.496503496503,0.413043478261,1,0,1
+856,485.0,Sri Lanka,won,51 runs,,won,1st,India,Brisbane,21 Feb 2012,72.0,146,19.0,47,0.493150684932,0.404255319149,1,1,1
+857,487.0,Sri Lanka,lost,7 wickets,80.0,lost,1st,India,Hobart,28 Feb 2012,74.0,148,20.0,48,0.5,0.416666666667,0,0,1
+858,492.0,Sri Lanka,lost,50 runs,,won,2nd,India,Dhaka,13 Mar 2012,76.0,153,20.0,49,0.496732026144,0.408163265306,1,0,0
+859,499.0,Sri Lanka,lost,21 runs,,lost,2nd,India,Hambantota,21 Jul 2012,79.0,160,20.0,50,0.49375,0.4,0,0,0
+860,500.0,Sri Lanka,won,9 wickets,181.0,lost,2nd,India,Hambantota,24 Jul 2012,79.0,161,20.0,51,0.490683229814,0.392156862745,0,1,0
+861,501.0,Sri Lanka,lost,5 wickets,2.0,won,1st,India,Colombo (RPS),28 Jul 2012,80.0,162,21.0,52,0.493827160494,0.403846153846,1,0,1
+862,502.0,Sri Lanka,lost,6 wickets,46.0,won,1st,India,Colombo (RPS),31 Jul 2012,80.0,163,21.0,53,0.490797546012,0.396226415094,1,0,1
+863,503.0,Sri Lanka,lost,20 runs,,lost,2nd,India,Pallekele,4 Aug 2012,80.0,164,21.0,54,0.487804878049,0.388888888889,0,0,0
+864,515.0,Sri Lanka,lost,8 wickets,90.0,lost,1st,India,Cardiff,20 Jun 2013,87.0,176,21.0,55,0.494318181818,0.381818181818,0,0,1
+865,517.0,Sri Lanka,won,161 runs,,lost,1st,India,Kingston,2 Jul 2013,87.0,178,21.0,56,0.488764044944,0.375,0,1,1
+866,519.0,Sri Lanka,lost,81 runs,,won,2nd,India,Port of Spain,9 Jul 2013,89.0,180,22.0,57,0.494444444444,0.385964912281,1,0,0
+867,520.0,Sri Lanka,lost,1 wickets,2.0,lost,1st,India,Port of Spain,11 Jul 2013,89.0,181,22.0,58,0.491712707182,0.379310344828,0,0,1
+868,537.0,Sri Lanka,won,2 wickets,4.0,won,2nd,India,Fatullah,28 Feb 2014,100.0,198,22.0,59,0.505050505051,0.372881355932,1,1,0
+869,546.0,Sri Lanka,lost,169 runs,,won,2nd,India,Cuttack,2 Nov 2014,106.0,207,23.0,60,0.512077294686,0.383333333333,1,0,0
+870,547.0,Sri Lanka,lost,6 wickets,33.0,won,1st,India,Ahmedabad,6 Nov 2014,106.0,208,23.0,61,0.509615384615,0.377049180328,1,0,1
+871,548.0,Sri Lanka,lost,6 wickets,35.0,won,1st,India,Hyderabad (Deccan),9 Nov 2014,106.0,209,23.0,62,0.507177033493,0.370967741935,1,0,1
+872,549.0,Sri Lanka,lost,153 runs,,lost,2nd,India,Kolkata,13 Nov 2014,106.0,210,23.0,63,0.504761904762,0.365079365079,0,0,0
+873,550.0,Sri Lanka,lost,3 wickets,8.0,won,1st,India,Ranchi,16 Nov 2014,106.0,211,23.0,64,0.502369668246,0.359375,1,0,1
+874,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+875,372.0,Sri Lanka,lost,4 wickets,32.0,lost,1st,Pakistan,Colombo (RPS),19 Mar 2006,15.0,33,0.0,0,0.454545454545,,0,0,1
+876,373.0,Sri Lanka,lost,4 wickets,28.0,lost,1st,Pakistan,Colombo (SSC),22 Mar 2006,15.0,34,0.0,1,0.441176470588,0.0,0,0,1
+877,376.0,Sri Lanka,lost,4 wickets,11.0,won,1st,Pakistan,Jaipur,17 Oct 2006,17.0,37,0.0,2,0.459459459459,0.0,1,0,1
+878,394.0,Sri Lanka,lost,5 wickets,48.0,won,1st,Pakistan,Abu Dhabi,18 May 2007,26.0,55,0.0,3,0.472727272727,0.0,1,0,1
+879,395.0,Sri Lanka,lost,98 runs,,lost,2nd,Pakistan,Abu Dhabi,20 May 2007,26.0,56,0.0,4,0.464285714286,0.0,0,0,0
+880,396.0,Sri Lanka,won,115 runs,,won,1st,Pakistan,Abu Dhabi,22 May 2007,26.0,57,0.0,5,0.456140350877,0.0,1,1,1
+881,410.0,Sri Lanka,won,64 runs,,lost,1st,Pakistan,Karachi,29 Jun 2008,33.0,71,1.0,6,0.464788732394,0.166666666667,0,1,1
+882,421.0,Sri Lanka,lost,8 wickets,25.0,won,1st,Pakistan,Karachi,20 Jan 2009,39.0,82,2.0,7,0.475609756098,0.285714285714,1,0,1
+883,422.0,Sri Lanka,won,129 runs,,lost,1st,Pakistan,Karachi,21 Jan 2009,39.0,83,2.0,8,0.469879518072,0.25,0,1,1
+884,423.0,Sri Lanka,won,234 runs,,won,1st,Pakistan,Lahore,24 Jan 2009,40.0,84,3.0,9,0.47619047619,0.333333333333,1,1,1
+885,429.0,Sri Lanka,won,36 runs,,lost,1st,Pakistan,Dambulla,30 Jul 2009,42.0,90,4.0,10,0.466666666667,0.4,0,1,1
+886,430.0,Sri Lanka,won,6 wickets,38.0,won,2nd,Pakistan,Dambulla,1 Aug 2009,43.0,91,5.0,11,0.472527472527,0.454545454545,1,1,0
+887,431.0,Sri Lanka,won,6 wickets,21.0,won,2nd,Pakistan,Dambulla,3 Aug 2009,44.0,92,6.0,12,0.478260869565,0.5,1,1,0
+888,432.0,Sri Lanka,lost,146 runs,,lost,2nd,Pakistan,Colombo (RPS),7 Aug 2009,45.0,93,7.0,13,0.483870967742,0.538461538462,0,0,0
+889,433.0,Sri Lanka,lost,132 runs,,lost,2nd,Pakistan,Colombo (RPS),9 Aug 2009,45.0,94,7.0,14,0.478723404255,0.5,0,0,0
+890,450.0,Sri Lanka,won,16 runs,,won,1st,Pakistan,Dambulla,15 Jun 2010,54.0,111,7.0,15,0.486486486486,0.466666666667,1,1,1
+891,463.0,Sri Lanka,lost,11 runs,,lost,2nd,Pakistan,Colombo (RPS),26 Feb 2011,64.0,124,8.0,16,0.516129032258,0.5,0,0,0
+892,472.0,Sri Lanka,lost,8 wickets,169.0,won,1st,Pakistan,Dubai (DSC),11 Nov 2011,68.0,133,8.0,17,0.511278195489,0.470588235294,1,0,1
+893,473.0,Sri Lanka,won,25 runs,,won,1st,Pakistan,Dubai (DSC),14 Nov 2011,68.0,134,8.0,18,0.507462686567,0.444444444444,1,1,1
+894,474.0,Sri Lanka,lost,21 runs,,lost,2nd,Pakistan,Dubai (DSC),18 Nov 2011,69.0,135,9.0,19,0.511111111111,0.473684210526,0,0,0
+895,475.0,Sri Lanka,lost,26 runs,,lost,2nd,Pakistan,Sharjah,20 Nov 2011,69.0,136,9.0,20,0.507352941176,0.45,0,0,0
+896,476.0,Sri Lanka,lost,3 wickets,16.0,won,1st,Pakistan,Abu Dhabi,23 Nov 2011,69.0,137,9.0,21,0.503649635036,0.428571428571,1,0,1
+897,493.0,Sri Lanka,lost,6 wickets,61.0,won,1st,Pakistan,Dhaka,15 Mar 2012,76.0,154,9.0,22,0.493506493506,0.409090909091,1,0,1
+898,495.0,Sri Lanka,lost,6 wickets,47.0,won,1st,Pakistan,Pallekele,7 Jun 2012,76.0,156,9.0,23,0.487179487179,0.391304347826,1,0,1
+899,496.0,Sri Lanka,won,76 runs,,won,1st,Pakistan,Pallekele,9 Jun 2012,76.0,157,9.0,24,0.484076433121,0.375,1,1,1
+900,497.0,Sri Lanka,won,44 runs,,won,1st,Pakistan,Colombo (RPS),16 Jun 2012,77.0,158,10.0,25,0.487341772152,0.4,1,1,1
+901,498.0,Sri Lanka,won,2 wickets,2.0,lost,2nd,Pakistan,Colombo (RPS),18 Jun 2012,78.0,159,11.0,26,0.490566037736,0.423076923077,0,1,0
+902,528.0,Sri Lanka,lost,11 runs,,lost,2nd,Pakistan,Sharjah,18 Dec 2013,94.0,189,12.0,27,0.497354497354,0.444444444444,0,0,0
+903,529.0,Sri Lanka,won,2 wickets,2.0,won,2nd,Pakistan,Dubai (DSC),20 Dec 2013,94.0,190,12.0,28,0.494736842105,0.428571428571,1,1,0
+904,530.0,Sri Lanka,lost,113 runs,,won,2nd,Pakistan,Sharjah,22 Dec 2013,95.0,191,13.0,29,0.497382198953,0.448275862069,1,0,0
+905,531.0,Sri Lanka,lost,8 wickets,53.0,won,1st,Pakistan,Abu Dhabi,25 Dec 2013,95.0,192,13.0,30,0.494791666667,0.433333333333,1,0,1
+906,532.0,Sri Lanka,won,2 wickets,2.0,lost,2nd,Pakistan,Abu Dhabi,27 Dec 2013,95.0,193,13.0,31,0.492227979275,0.41935483871,0,1,0
+907,536.0,Sri Lanka,won,12 runs,,won,1st,Pakistan,Fatullah,25 Feb 2014,99.0,197,14.0,32,0.502538071066,0.4375,1,1,1
+908,539.0,Sri Lanka,won,5 wickets,22.0,lost,2nd,Pakistan,Dhaka,8 Mar 2014,102.0,200,15.0,33,0.51,0.454545454545,0,1,0
+909,543.0,Sri Lanka,lost,4 wickets,1.0,lost,1st,Pakistan,Hambantota,23 Aug 2014,104.0,204,16.0,34,0.509803921569,0.470588235294,0,0,1
+910,544.0,Sri Lanka,won,77 runs,,won,1st,Pakistan,Hambantota,26 Aug 2014,104.0,205,16.0,35,0.507317073171,0.457142857143,1,1,1
+911,545.0,Sri Lanka,won,7 wickets,178.0,lost,2nd,Pakistan,Dambulla,30 Aug 2014,105.0,206,17.0,36,0.509708737864,0.472222222222,0,1,0
+912,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+913,354.0,Sri Lanka,lost,7 wickets,76.0,lost,1st,New Zealand,Queenstown,31 Dec 2005,8.0,15,0.0,0,0.533333333333,,0,0,1
+914,355.0,Sri Lanka,lost,5 wickets,12.0,lost,1st,New Zealand,Christchurch,3 Jan 2006,8.0,16,0.0,1,0.5,0.0,0,0,1
+915,356.0,Sri Lanka,lost,21 runs,,lost,2nd,New Zealand,Wellington,6 Jan 2006,8.0,17,0.0,2,0.470588235294,0.0,0,0,0
+916,357.0,Sri Lanka,won,20 runs,,won,1st,New Zealand,Napier,8 Jan 2006,8.0,18,0.0,3,0.444444444444,0.0,1,1,1
+917,377.0,Sri Lanka,won,7 wickets,84.0,lost,2nd,New Zealand,Mumbai (BS),20 Oct 2006,17.0,38,1.0,4,0.447368421053,0.25,0,1,0
+918,379.0,Sri Lanka,won,7 wickets,60.0,lost,2nd,New Zealand,Napier,28 Dec 2006,18.0,40,2.0,5,0.45,0.4,0,1,0
+919,380.0,Sri Lanka,lost,1 wickets,0.0,lost,1st,New Zealand,Queenstown,31 Dec 2006,19.0,41,3.0,6,0.463414634146,0.5,0,0,1
+920,381.0,Sri Lanka,lost,4 wickets,129.0,lost,1st,New Zealand,Christchurch,2 Jan 2007,19.0,42,3.0,7,0.452380952381,0.428571428571,0,0,1
+921,382.0,Sri Lanka,won,189 runs,,won,1st,New Zealand,Auckland,6 Jan 2007,19.0,43,3.0,8,0.441860465116,0.375,1,1,1
+922,390.0,Sri Lanka,won,6 wickets,29.0,lost,2nd,New Zealand,St George's,12 Apr 2007,24.0,51,4.0,9,0.470588235294,0.444444444444,0,1,0
+923,392.0,Sri Lanka,won,81 runs,,won,1st,New Zealand,Kingston,24 Apr 2007,25.0,53,5.0,10,0.471698113208,0.5,1,1,1
+924,434.0,Sri Lanka,won,97 runs,,won,1st,New Zealand,Colombo (RPS),8 Sep 2009,45.0,95,6.0,11,0.473684210526,0.545454545455,1,1,1
+925,438.0,Sri Lanka,lost,38 runs,,won,2nd,New Zealand,Johannesburg,27 Sep 2009,48.0,99,7.0,12,0.484848484848,0.583333333333,1,0,0
+926,454.0,Sri Lanka,won,3 wickets,55.0,lost,2nd,New Zealand,Dambulla,13 Aug 2010,57.0,115,7.0,13,0.495652173913,0.538461538462,0,1,0
+927,464.0,Sri Lanka,won,112 runs,,won,1st,New Zealand,Mumbai,18 Mar 2011,64.0,125,8.0,14,0.512,0.571428571429,1,1,1
+928,465.0,Sri Lanka,won,5 wickets,13.0,lost,2nd,New Zealand,Colombo (RPS),29 Mar 2011,65.0,126,9.0,15,0.515873015873,0.6,0,1,0
+929,504.0,Sri Lanka,won,14 runs,,lost,2nd,New Zealand,Pallekele,4 Nov 2012,80.0,165,10.0,16,0.484848484848,0.625,0,1,0
+930,505.0,Sri Lanka,won,7 wickets,11.0,won,2nd,New Zealand,Pallekele,6 Nov 2012,81.0,166,11.0,17,0.487951807229,0.647058823529,1,1,0
+931,506.0,Sri Lanka,won,7 wickets,34.0,won,2nd,New Zealand,Hambantota,10 Nov 2012,82.0,167,12.0,18,0.491017964072,0.666666666667,1,1,0
+932,513.0,Sri Lanka,lost,1 wickets,81.0,won,1st,New Zealand,Cardiff,9 Jun 2013,86.0,174,13.0,19,0.494252873563,0.684210526316,1,0,1
+933,526.0,Sri Lanka,lost,4 wickets,0.0,won,1st,New Zealand,Hambantota,12 Nov 2013,93.0,187,13.0,20,0.497326203209,0.65,1,0,1
+934,527.0,Sri Lanka,won,36 runs,,lost,1st,New Zealand,Dambulla,16 Nov 2013,93.0,188,13.0,21,0.494680851064,0.619047619048,0,1,1
+935,551.0,Sri Lanka,lost,3 wickets,42.0,won,1st,New Zealand,Christchurch,11 Jan 2015,106.0,212,14.0,22,0.5,0.636363636364,1,0,1
+936,552.0,Sri Lanka,won,6 wickets,14.0,lost,2nd,New Zealand,Hamilton,15 Jan 2015,106.0,213,14.0,23,0.49765258216,0.608695652174,0,1,0
+937,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+938,344.0,Sri Lanka,won,88 runs,,lost,1st,Bangladesh,Colombo (SSC),31 Aug 2005,4.0,5,0.0,0,0.8,,0,1,1
+939,345.0,Sri Lanka,won,75 runs,,lost,1st,Bangladesh,Colombo (RPS),2 Sep 2005,5.0,6,1.0,1,0.833333333333,1.0,0,1,1
+940,346.0,Sri Lanka,won,6 wickets,148.0,won,2nd,Bangladesh,Colombo (RPS),4 Sep 2005,6.0,7,2.0,2,0.857142857143,1.0,1,1,0
+941,369.0,Sri Lanka,won,5 wickets,155.0,lost,2nd,Bangladesh,Bogra,20 Feb 2006,13.0,30,3.0,3,0.433333333333,1.0,0,1,0
+942,370.0,Sri Lanka,lost,4 wickets,12.0,lost,1st,Bangladesh,Bogra,22 Feb 2006,14.0,31,4.0,4,0.451612903226,1.0,0,0,1
+943,371.0,Sri Lanka,won,78 runs,,lost,1st,Bangladesh,Chittagong,25 Feb 2006,14.0,32,4.0,5,0.4375,0.8,0,1,1
+944,374.0,Sri Lanka,won,37 runs,,lost,1st,Bangladesh,Mohali,7 Oct 2006,15.0,35,5.0,6,0.428571428571,0.833333333333,0,1,1
+945,386.0,Sri Lanka,won,198 runs,,lost,1st,Bangladesh,Port of Spain,21 Mar 2007,21.0,47,6.0,7,0.446808510638,0.857142857143,0,1,1
+946,397.0,Sri Lanka,won,70 runs,,lost,1st,Bangladesh,Colombo (PSS),20 Jul 2007,27.0,58,7.0,8,0.465517241379,0.875,0,1,1
+947,398.0,Sri Lanka,won,5 wickets,113.0,won,2nd,Bangladesh,Colombo (RPS),23 Jul 2007,28.0,59,8.0,9,0.474576271186,0.888888888889,1,1,0
+948,399.0,Sri Lanka,won,39 runs,,lost,1st,Bangladesh,Colombo (RPS),25 Jul 2007,29.0,60,9.0,10,0.483333333333,0.9,0,1,1
+949,409.0,Sri Lanka,won,131 runs,,lost,1st,Bangladesh,Lahore,25 Jun 2008,32.0,70,10.0,11,0.457142857143,0.909090909091,0,1,1
+950,411.0,Sri Lanka,won,158 runs,,won,1st,Bangladesh,Karachi,30 Jun 2008,34.0,72,11.0,12,0.472222222222,0.916666666667,1,1,1
+951,419.0,Sri Lanka,lost,5 wickets,43.0,lost,1st,Bangladesh,Dhaka,14 Jan 2009,38.0,80,12.0,13,0.475,0.923076923077,0,0,1
+952,420.0,Sri Lanka,won,2 wickets,11.0,won,2nd,Bangladesh,Dhaka,16 Jan 2009,38.0,81,12.0,14,0.469135802469,0.857142857143,1,1,0
+953,443.0,Sri Lanka,won,7 wickets,31.0,won,2nd,Bangladesh,Dhaka,4 Jan 2010,49.0,104,13.0,15,0.471153846154,0.866666666667,1,1,0
+954,445.0,Sri Lanka,won,9 wickets,43.0,won,2nd,Bangladesh,Dhaka,8 Jan 2010,51.0,106,14.0,16,0.481132075472,0.875,1,1,0
+955,451.0,Sri Lanka,won,126 runs,,won,1st,Bangladesh,Dambulla,18 Jun 2010,55.0,112,15.0,17,0.491071428571,0.882352941176,1,1,1
+956,494.0,Sri Lanka,lost,5 wickets,17.0,lost,1st,Bangladesh,Dhaka,20 Mar 2012,76.0,155,16.0,18,0.490322580645,0.888888888889,0,0,1
+957,511.0,Sri Lanka,won,8 wickets,32.0,won,2nd,Bangladesh,Hambantota,23 Mar 2013,85.0,172,16.0,19,0.494186046512,0.842105263158,1,1,0
+958,512.0,Sri Lanka,lost,3 wickets,6.0,won,1st,Bangladesh,Pallekele,28 Mar 2013,86.0,173,17.0,20,0.49710982659,0.85,1,0,1
+959,533.0,Sri Lanka,won,13 runs,,lost,1st,Bangladesh,Dhaka,17 Feb 2014,96.0,194,17.0,21,0.494845360825,0.809523809524,0,1,1
+960,534.0,Sri Lanka,won,61 runs,,won,1st,Bangladesh,Dhaka,20 Feb 2014,97.0,195,18.0,22,0.497435897436,0.818181818182,1,1,1
+961,535.0,Sri Lanka,won,6 wickets,15.0,won,2nd,Bangladesh,Dhaka,22 Feb 2014,98.0,196,19.0,23,0.5,0.826086956522,1,1,0
+962,538.0,Sri Lanka,won,3 wickets,6.0,lost,2nd,Bangladesh,Dhaka,6 Mar 2014,101.0,199,20.0,24,0.507537688442,0.833333333333,0,1,0
+963,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+964,553.0,Pakistan,lost,4 wickets,12.0,won,1st,Australia,Hobart,16 Jan 2005,0.0,0,0.0,0,,,1,0,1
+965,555.0,Pakistan,lost,9 wickets,82.0,lost,1st,Australia,Sydney,23 Jan 2005,1.0,2,0.0,1,0.5,0.0,0,0,1
+966,557.0,Pakistan,won,3 wickets,16.0,lost,2nd,Australia,Perth,30 Jan 2005,1.0,4,0.0,2,0.25,0.0,0,1,0
+967,559.0,Pakistan,lost,18 runs,,lost,2nd,Australia,Melbourne,4 Feb 2005,3.0,6,1.0,3,0.5,0.333333333333,0,0,0
+968,560.0,Pakistan,lost,31 runs,,lost,2nd,Australia,Sydney,6 Feb 2005,3.0,7,1.0,4,0.428571428571,0.25,0,0,0
+969,622.0,Pakistan,won,4 wickets,35.0,lost,2nd,Australia,Dubai (DSC),22 Apr 2009,38.0,69,1.0,5,0.550724637681,0.2,0,1,0
+970,623.0,Pakistan,lost,6 wickets,29.0,won,1st,Australia,Dubai (DSC),24 Apr 2009,39.0,70,2.0,6,0.557142857143,0.333333333333,1,0,1
+971,624.0,Pakistan,lost,27 runs,,lost,2nd,Australia,Abu Dhabi,27 Apr 2009,39.0,71,2.0,7,0.549295774648,0.285714285714,0,0,0
+972,625.0,Pakistan,lost,8 wickets,34.0,won,1st,Australia,Abu Dhabi,1 May 2009,39.0,72,2.0,8,0.541666666667,0.25,1,0,1
+973,626.0,Pakistan,won,7 wickets,18.0,lost,2nd,Australia,Abu Dhabi,3 May 2009,39.0,73,2.0,9,0.534246575342,0.222222222222,0,1,0
+974,634.0,Pakistan,lost,2 wickets,0.0,lost,1st,Australia,Centurion,30 Sep 2009,44.0,81,3.0,10,0.543209876543,0.3,0,0,1
+975,639.0,Pakistan,lost,5 wickets,9.0,won,1st,Australia,Brisbane,22 Jan 2010,45.0,86,3.0,11,0.523255813953,0.272727272727,1,0,1
+976,640.0,Pakistan,lost,140 runs,,won,2nd,Australia,Sydney,24 Jan 2010,45.0,87,3.0,12,0.51724137931,0.25,1,0,0
+977,641.0,Pakistan,lost,40 runs,,lost,2nd,Australia,Adelaide,26 Jan 2010,45.0,88,3.0,13,0.511363636364,0.230769230769,0,0,0
+978,642.0,Pakistan,lost,135 runs,,lost,2nd,Australia,Perth,29 Jan 2010,45.0,89,3.0,14,0.505617977528,0.214285714286,0,0,0
+979,643.0,Pakistan,lost,2 wickets,4.0,won,1st,Australia,Perth,31 Jan 2010,45.0,90,3.0,15,0.5,0.2,1,0,1
+980,659.0,Pakistan,won,4 wickets,54.0,lost,2nd,Australia,Colombo (RPS),19 Mar 2011,52.0,106,3.0,16,0.490566037736,0.1875,0,1,0
+981,683.0,Pakistan,lost,4 wickets,10.0,won,1st,Australia,Sharjah,28 Aug 2012,68.0,130,4.0,17,0.523076923077,0.235294117647,1,0,1
+982,684.0,Pakistan,won,7 wickets,38.0,lost,2nd,Australia,Abu Dhabi,31 Aug 2012,68.0,131,4.0,18,0.519083969466,0.222222222222,0,1,0
+983,685.0,Pakistan,lost,3 wickets,18.0,lost,1st,Australia,Sharjah,3 Sep 2012,69.0,132,5.0,19,0.522727272727,0.263157894737,0,0,1
+984,721.0,Pakistan,lost,93 runs,,lost,2nd,Australia,Sharjah,7 Oct 2014,85.0,168,5.0,20,0.505952380952,0.25,0,0,0
+985,722.0,Pakistan,lost,5 wickets,40.0,won,1st,Australia,Dubai (DSC),10 Oct 2014,85.0,169,5.0,21,0.502958579882,0.238095238095,1,0,1
+986,723.0,Pakistan,lost,1 runs,,lost,2nd,Australia,Abu Dhabi,12 Oct 2014,85.0,170,5.0,22,0.5,0.227272727273,0,0,0
+987,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+988,581.0,Pakistan,lost,124 runs,,lost,2nd,South Africa,Mohali,27 Oct 2006,15.0,28,0.0,0,0.535714285714,,0,0,0
+989,586.0,Pakistan,lost,164 runs,,won,2nd,South Africa,Centurion,4 Feb 2007,18.0,33,0.0,1,0.545454545455,0.0,1,0,0
+990,587.0,Pakistan,won,141 runs,,won,1st,South Africa,Durban,7 Feb 2007,18.0,34,0.0,2,0.529411764706,0.0,1,1,1
+991,588.0,Pakistan,lost,10 wickets,216.0,lost,1st,South Africa,Cape Town,11 Feb 2007,19.0,35,1.0,3,0.542857142857,0.333333333333,0,0,1
+992,589.0,Pakistan,lost,9 wickets,130.0,won,1st,South Africa,Johannesburg,14 Feb 2007,19.0,36,1.0,4,0.527777777778,0.25,1,0,1
+993,594.0,Pakistan,lost,45 runs,,lost,2nd,South Africa,Lahore,18 Oct 2007,21.0,41,1.0,5,0.512195121951,0.2,0,0,0
+994,595.0,Pakistan,won,25 runs,,won,1st,South Africa,Lahore,20 Oct 2007,21.0,42,1.0,6,0.5,0.166666666667,1,1,1
+995,596.0,Pakistan,won,6 wickets,11.0,lost,2nd,South Africa,Faisalabad,23 Oct 2007,22.0,43,2.0,7,0.511627906977,0.285714285714,0,1,0
+996,597.0,Pakistan,lost,7 wickets,74.0,won,1st,South Africa,Multan,26 Oct 2007,23.0,44,3.0,8,0.522727272727,0.375,1,0,1
+997,598.0,Pakistan,lost,14 runs,,lost,2nd,South Africa,Lahore,29 Oct 2007,23.0,45,3.0,9,0.511111111111,0.333333333333,0,0,0
+998,647.0,Pakistan,lost,8 wickets,63.0,won,1st,South Africa,Abu Dhabi,29 Oct 2010,46.0,94,3.0,10,0.489361702128,0.3,1,0,1
+999,648.0,Pakistan,won,1 wickets,1.0,lost,2nd,South Africa,Abu Dhabi,31 Oct 2010,46.0,95,3.0,11,0.484210526316,0.272727272727,0,1,0
+1000,649.0,Pakistan,lost,2 runs,,won,2nd,South Africa,Dubai (DSC),2 Nov 2010,47.0,96,4.0,12,0.489583333333,0.333333333333,1,0,0
+1001,650.0,Pakistan,won,1 wickets,1.0,lost,2nd,South Africa,Dubai (DSC),5 Nov 2010,47.0,97,4.0,13,0.484536082474,0.307692307692,0,1,0
+1002,651.0,Pakistan,lost,57 runs,,lost,2nd,South Africa,Dubai (DSC),8 Nov 2010,48.0,98,5.0,14,0.489795918367,0.357142857143,0,0,0
+1003,689.0,Pakistan,lost,125 runs,,won,2nd,South Africa,Bloemfontein,10 Mar 2013,71.0,136,5.0,15,0.522058823529,0.333333333333,1,0,0
+1004,690.0,Pakistan,won,6 wickets,28.0,lost,2nd,South Africa,Centurion,15 Mar 2013,71.0,137,5.0,16,0.518248175182,0.3125,0,1,0
+1005,691.0,Pakistan,lost,34 runs,,won,2nd,South Africa,Johannesburg,17 Mar 2013,72.0,138,6.0,17,0.521739130435,0.352941176471,1,0,0
+1006,692.0,Pakistan,won,3 wickets,8.0,lost,2nd,South Africa,Durban,21 Mar 2013,72.0,139,6.0,18,0.517985611511,0.333333333333,0,1,0
+1007,693.0,Pakistan,lost,6 wickets,36.0,won,1st,South Africa,Benoni,24 Mar 2013,73.0,140,7.0,19,0.521428571429,0.368421052632,1,0,1
+1008,695.0,Pakistan,lost,67 runs,,lost,2nd,South Africa,Birmingham,10 Jun 2013,73.0,142,7.0,20,0.514084507042,0.35,0,0,0
+1009,701.0,Pakistan,lost,1 runs,,lost,2nd,South Africa,Sharjah,30 Oct 2013,76.0,148,7.0,21,0.513513513514,0.333333333333,0,0,0
+1010,702.0,Pakistan,won,66 runs,,won,1st,South Africa,Dubai (DSC),1 Nov 2013,76.0,149,7.0,22,0.510067114094,0.318181818182,1,1,1
+1011,703.0,Pakistan,lost,68 runs,,lost,2nd,South Africa,Abu Dhabi,6 Nov 2013,77.0,150,8.0,23,0.513333333333,0.347826086957,0,0,0
+1012,704.0,Pakistan,lost,28 runs,,lost,2nd,South Africa,Abu Dhabi,8 Nov 2013,77.0,151,8.0,24,0.509933774834,0.333333333333,0,0,0
+1013,705.0,Pakistan,lost,117 runs,,lost,2nd,South Africa,Sharjah,11 Nov 2013,77.0,152,8.0,25,0.506578947368,0.32,0,0,0
+1014,706.0,Pakistan,won,23 runs,,won,1st,South Africa,Cape Town,24 Nov 2013,77.0,153,8.0,26,0.503267973856,0.307692307692,1,1,1
+1015,707.0,Pakistan,won,1 runs,,lost,1st,South Africa,Port Elizabeth,27 Nov 2013,78.0,154,9.0,27,0.506493506494,0.333333333333,0,1,1
+1016,708.0,Pakistan,lost,4 wickets,68.0,lost,1st,South Africa,Centurion,30 Nov 2013,79.0,155,10.0,28,0.509677419355,0.357142857143,0,0,1
+1017,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+1018,554.0,Pakistan,won,6 wickets,18.0,won,2nd,West Indies,Brisbane,19 Jan 2005,0.0,1,0.0,0,0.0,,1,1,0
+1019,556.0,Pakistan,lost,58 runs,,won,2nd,West Indies,Adelaide,28 Jan 2005,1.0,3,1.0,1,0.333333333333,1.0,1,0,0
+1020,558.0,Pakistan,won,30 runs,,lost,1st,West Indies,Perth,1 Feb 2005,2.0,5,1.0,2,0.4,0.5,0,1,1
+1021,567.0,Pakistan,won,59 runs,,lost,1st,West Indies,Kingstown,18 May 2005,7.0,14,2.0,3,0.5,0.666666666667,0,1,1
+1022,568.0,Pakistan,won,40 runs,,won,1st,West Indies,Gros Islet,21 May 2005,8.0,15,3.0,4,0.533333333333,0.75,1,1,1
+1023,569.0,Pakistan,won,22 runs,,lost,1st,West Indies,Gros Islet,22 May 2005,9.0,16,4.0,5,0.5625,0.8,0,1,1
+1024,582.0,Pakistan,won,2 wickets,10.0,won,2nd,West Indies,Faisalabad,7 Dec 2006,15.0,29,5.0,6,0.51724137931,0.833333333333,1,1,0
+1025,583.0,Pakistan,won,7 wickets,8.0,won,2nd,West Indies,Lahore,10 Dec 2006,16.0,30,6.0,7,0.533333333333,0.857142857143,1,1,0
+1026,584.0,Pakistan,lost,7 wickets,91.0,won,1st,West Indies,Multan,13 Dec 2006,17.0,31,7.0,8,0.548387096774,0.875,1,0,1
+1027,585.0,Pakistan,won,7 wickets,19.0,won,2nd,West Indies,Karachi,16 Dec 2006,17.0,32,7.0,9,0.53125,0.777777777778,1,1,0
+1028,590.0,Pakistan,lost,54 runs,,won,2nd,West Indies,Kingston,13 Mar 2007,19.0,37,8.0,10,0.513513513514,0.8,1,0,0
+1029,616.0,Pakistan,won,4 wickets,1.0,lost,2nd,West Indies,Abu Dhabi,12 Nov 2008,34.0,63,8.0,11,0.539682539683,0.727272727273,0,1,0
+1030,617.0,Pakistan,won,24 runs,,won,1st,West Indies,Abu Dhabi,14 Nov 2008,35.0,64,9.0,12,0.546875,0.75,1,1,1
+1031,618.0,Pakistan,won,31 runs,,won,1st,West Indies,Abu Dhabi,16 Nov 2008,36.0,65,10.0,13,0.553846153846,0.769230769231,1,1,1
+1032,632.0,Pakistan,won,5 wickets,117.0,lost,2nd,West Indies,Johannesburg,23 Sep 2009,42.0,79,11.0,14,0.53164556962,0.785714285714,0,1,0
+1033,660.0,Pakistan,won,10 wickets,175.0,lost,2nd,West Indies,Dhaka,23 Mar 2011,53.0,107,12.0,15,0.495327102804,0.8,0,1,0
+1034,662.0,Pakistan,won,8 wickets,51.0,lost,2nd,West Indies,Gros Islet,23 Apr 2011,54.0,109,13.0,16,0.495412844037,0.8125,0,1,0
+1035,663.0,Pakistan,won,7 wickets,12.0,won,2nd,West Indies,Gros Islet,25 Apr 2011,55.0,110,14.0,17,0.5,0.823529411765,1,1,0
+1036,664.0,Pakistan,won,3 wickets,29.0,won,2nd,West Indies,Bridgetown,28 Apr 2011,56.0,111,15.0,18,0.504504504505,0.833333333333,1,1,0
+1037,665.0,Pakistan,lost,1 runs,,lost,1st,West Indies,Bridgetown,2 May 2011,57.0,112,16.0,19,0.508928571429,0.842105263158,0,0,1
+1038,666.0,Pakistan,lost,10 wickets,159.0,won,1st,West Indies,Providence,5 May 2011,57.0,113,16.0,20,0.504424778761,0.8,1,0,1
+1039,694.0,Pakistan,lost,2 wickets,56.0,lost,1st,West Indies,The Oval,7 Jun 2013,73.0,141,16.0,21,0.517730496454,0.761904761905,0,0,1
+1040,697.0,Pakistan,won,126 runs,,lost,1st,West Indies,Providence,14 Jul 2013,73.0,144,16.0,22,0.506944444444,0.727272727273,0,1,1
+1041,698.0,Pakistan,lost,37 runs,,won,2nd,West Indies,Providence,16 Jul 2013,74.0,145,17.0,23,0.510344827586,0.739130434783,1,0,0
+1042,699.0,Pakistan,won,6 wickets,6.0,won,2nd,West Indies,Gros Islet,21 Jul 2013,74.0,146,17.0,24,0.506849315068,0.708333333333,1,1,0
+1043,700.0,Pakistan,won,4 wickets,1.0,won,2nd,West Indies,Gros Islet,24 Jul 2013,75.0,147,18.0,25,0.510204081633,0.72,1,1,0
+1044,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+1045,561.0,Pakistan,lost,87 runs,,lost,2nd,India,Kochi,2 Apr 2005,3.0,8,0.0,0,0.375,,0,0,0
+1046,562.0,Pakistan,lost,58 runs,,lost,2nd,India,Visakhapatnam,5 Apr 2005,3.0,9,0.0,1,0.333333333333,0.0,0,0,0
+1047,563.0,Pakistan,won,106 runs,,won,1st,India,Jamshedpur,9 Apr 2005,3.0,10,0.0,2,0.3,0.0,1,1,1
+1048,564.0,Pakistan,won,3 wickets,0.0,lost,2nd,India,Ahmedabad,12 Apr 2005,4.0,11,1.0,3,0.363636363636,0.333333333333,0,1,0
+1049,565.0,Pakistan,won,5 wickets,47.0,lost,2nd,India,Kanpur,15 Apr 2005,5.0,12,2.0,4,0.416666666667,0.5,0,1,0
+1050,566.0,Pakistan,won,159 runs,,won,1st,India,Delhi,17 Apr 2005,6.0,13,3.0,5,0.461538461538,0.6,1,1,1
+1051,570.0,Pakistan,won,7 runs,,won,2nd,India,Peshawar,6 Feb 2006,10.0,17,4.0,6,0.588235294118,0.666666666667,1,1,0
+1052,571.0,Pakistan,lost,7 wickets,41.0,won,1st,India,Rawalpindi,11 Feb 2006,11.0,18,5.0,7,0.611111111111,0.714285714286,1,0,1
+1053,572.0,Pakistan,lost,5 wickets,14.0,lost,1st,India,Lahore,13 Feb 2006,11.0,19,5.0,8,0.578947368421,0.625,0,0,1
+1054,573.0,Pakistan,lost,5 wickets,105.0,lost,1st,India,Multan,16 Feb 2006,11.0,20,5.0,9,0.55,0.555555555556,0,0,1
+1055,574.0,Pakistan,lost,8 wickets,19.0,lost,1st,India,Karachi,19 Feb 2006,11.0,21,5.0,10,0.52380952381,0.5,0,0,1
+1056,577.0,Pakistan,won,6 wickets,9.0,lost,2nd,India,Abu Dhabi,18 Apr 2006,13.0,24,5.0,11,0.541666666667,0.454545454545,0,1,0
+1057,578.0,Pakistan,lost,51 runs,,lost,2nd,India,Abu Dhabi,19 Apr 2006,14.0,25,6.0,12,0.56,0.5,0,0,0
+1058,599.0,Pakistan,lost,5 wickets,18.0,won,1st,India,Guwahati,5 Nov 2007,23.0,46,6.0,13,0.5,0.461538461538,1,0,1
+1059,600.0,Pakistan,won,4 wickets,1.0,lost,2nd,India,Mohali,8 Nov 2007,23.0,47,6.0,14,0.489361702128,0.428571428571,0,1,0
+1060,601.0,Pakistan,lost,46 runs,,won,2nd,India,Kanpur,11 Nov 2007,24.0,48,7.0,15,0.5,0.466666666667,1,0,0
+1061,602.0,Pakistan,lost,6 wickets,21.0,won,1st,India,Gwalior,15 Nov 2007,24.0,49,7.0,16,0.489795918367,0.4375,1,0,1
+1062,603.0,Pakistan,won,31 runs,,lost,1st,India,Jaipur,18 Nov 2007,24.0,50,7.0,17,0.48,0.411764705882,0,1,1
+1063,610.0,Pakistan,lost,140 runs,,lost,2nd,India,Dhaka,10 Jun 2008,31.0,57,8.0,18,0.543859649123,0.444444444444,0,0,0
+1064,611.0,Pakistan,won,25 runs,,won,1st,India,Dhaka,14 Jun 2008,31.0,58,8.0,19,0.534482758621,0.421052631579,1,1,1
+1065,612.0,Pakistan,lost,6 wickets,47.0,won,1st,India,Karachi,26 Jun 2008,32.0,59,9.0,20,0.542372881356,0.45,1,0,1
+1066,614.0,Pakistan,won,8 wickets,27.0,lost,2nd,India,Karachi,2 Jul 2008,32.0,61,9.0,21,0.524590163934,0.428571428571,0,1,0
+1067,633.0,Pakistan,won,54 runs,,won,1st,India,Centurion,26 Sep 2009,43.0,80,10.0,22,0.5375,0.454545454545,1,1,1
+1068,645.0,Pakistan,lost,3 wickets,1.0,won,1st,India,Dambulla,19 Jun 2010,45.0,92,11.0,23,0.489130434783,0.478260869565,1,0,1
+1069,661.0,Pakistan,lost,29 runs,,lost,2nd,India,Mohali,30 Mar 2011,54.0,108,11.0,24,0.5,0.458333333333,0,0,0
+1070,677.0,Pakistan,lost,6 wickets,13.0,won,1st,India,Dhaka,18 Mar 2012,66.0,124,11.0,25,0.532258064516,0.44,1,0,1
+1071,686.0,Pakistan,won,6 wickets,11.0,won,2nd,India,Chennai,30 Dec 2012,69.0,133,11.0,26,0.518796992481,0.423076923077,1,1,0
+1072,687.0,Pakistan,won,85 runs,,lost,1st,India,Kolkata,3 Jan 2013,70.0,134,12.0,27,0.522388059701,0.444444444444,0,1,1
+1073,688.0,Pakistan,lost,10 runs,,lost,2nd,India,Delhi,6 Jan 2013,71.0,135,13.0,28,0.525925925926,0.464285714286,0,0,0
+1074,696.0,Pakistan,lost,8 wickets,17.0,lost,1st,India,Birmingham,15 Jun 2013,73.0,143,13.0,29,0.51048951049,0.448275862069,0,0,1
+1075,715.0,Pakistan,won,1 wickets,2.0,won,2nd,India,Dhaka,2 Mar 2014,82.0,162,13.0,30,0.506172839506,0.433333333333,1,1,0
+1076,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+1077,575.0,Pakistan,won,4 wickets,32.0,won,2nd,Sri Lanka,Colombo (RPS),19 Mar 2006,11.0,22,0.0,0,0.5,,1,1,0
+1078,576.0,Pakistan,won,4 wickets,28.0,won,2nd,Sri Lanka,Colombo (SSC),22 Mar 2006,12.0,23,1.0,1,0.521739130435,1.0,1,1,0
+1079,579.0,Pakistan,won,4 wickets,11.0,lost,2nd,Sri Lanka,Jaipur,17 Oct 2006,14.0,26,2.0,2,0.538461538462,1.0,0,1,0
+1080,591.0,Pakistan,won,5 wickets,48.0,lost,2nd,Sri Lanka,Abu Dhabi,18 May 2007,19.0,38,3.0,3,0.5,1.0,0,1,0
+1081,592.0,Pakistan,won,98 runs,,won,1st,Sri Lanka,Abu Dhabi,20 May 2007,20.0,39,4.0,4,0.512820512821,1.0,1,1,1
+1082,593.0,Pakistan,lost,115 runs,,lost,2nd,Sri Lanka,Abu Dhabi,22 May 2007,21.0,40,5.0,5,0.525,1.0,0,0,0
+1083,613.0,Pakistan,lost,64 runs,,won,2nd,Sri Lanka,Karachi,29 Jun 2008,32.0,60,5.0,6,0.533333333333,0.833333333333,1,0,0
+1084,619.0,Pakistan,won,8 wickets,25.0,lost,2nd,Sri Lanka,Karachi,20 Jan 2009,37.0,66,5.0,7,0.560606060606,0.714285714286,0,1,0
+1085,620.0,Pakistan,lost,129 runs,,won,2nd,Sri Lanka,Karachi,21 Jan 2009,38.0,67,6.0,8,0.567164179104,0.75,1,0,0
+1086,621.0,Pakistan,lost,234 runs,,lost,2nd,Sri Lanka,Lahore,24 Jan 2009,38.0,68,6.0,9,0.558823529412,0.666666666667,0,0,0
+1087,627.0,Pakistan,lost,36 runs,,won,2nd,Sri Lanka,Dambulla,30 Jul 2009,40.0,74,6.0,10,0.540540540541,0.6,1,0,0
+1088,628.0,Pakistan,lost,6 wickets,38.0,lost,1st,Sri Lanka,Dambulla,1 Aug 2009,40.0,75,6.0,11,0.533333333333,0.545454545455,0,0,1
+1089,629.0,Pakistan,lost,6 wickets,21.0,lost,1st,Sri Lanka,Dambulla,3 Aug 2009,40.0,76,6.0,12,0.526315789474,0.5,0,0,1
+1090,630.0,Pakistan,won,146 runs,,won,1st,Sri Lanka,Colombo (RPS),7 Aug 2009,40.0,77,6.0,13,0.519480519481,0.461538461538,1,1,1
+1091,631.0,Pakistan,won,132 runs,,won,1st,Sri Lanka,Colombo (RPS),9 Aug 2009,41.0,78,7.0,14,0.525641025641,0.5,1,1,1
+1092,644.0,Pakistan,lost,16 runs,,lost,2nd,Sri Lanka,Dambulla,15 Jun 2010,45.0,91,8.0,15,0.494505494505,0.533333333333,0,0,0
+1093,657.0,Pakistan,won,11 runs,,won,1st,Sri Lanka,Colombo (RPS),26 Feb 2011,51.0,104,8.0,16,0.490384615385,0.5,1,1,1
+1094,667.0,Pakistan,won,8 wickets,169.0,lost,2nd,Sri Lanka,Dubai (DSC),11 Nov 2011,57.0,114,9.0,17,0.5,0.529411764706,0,1,0
+1095,668.0,Pakistan,lost,25 runs,,lost,2nd,Sri Lanka,Dubai (DSC),14 Nov 2011,58.0,115,10.0,18,0.504347826087,0.555555555556,0,0,0
+1096,669.0,Pakistan,won,21 runs,,won,1st,Sri Lanka,Dubai (DSC),18 Nov 2011,58.0,116,10.0,19,0.5,0.526315789474,1,1,1
+1097,670.0,Pakistan,won,26 runs,,won,1st,Sri Lanka,Sharjah,20 Nov 2011,59.0,117,11.0,20,0.504273504274,0.55,1,1,1
+1098,671.0,Pakistan,won,3 wickets,16.0,lost,2nd,Sri Lanka,Abu Dhabi,23 Nov 2011,60.0,118,12.0,21,0.508474576271,0.571428571429,0,1,0
+1099,676.0,Pakistan,won,6 wickets,61.0,lost,2nd,Sri Lanka,Dhaka,15 Mar 2012,65.0,123,13.0,22,0.528455284553,0.590909090909,0,1,0
+1100,679.0,Pakistan,won,6 wickets,47.0,lost,2nd,Sri Lanka,Pallekele,7 Jun 2012,67.0,126,14.0,23,0.531746031746,0.608695652174,0,1,0
+1101,680.0,Pakistan,lost,76 runs,,lost,2nd,Sri Lanka,Pallekele,9 Jun 2012,68.0,127,15.0,24,0.535433070866,0.625,0,0,0
+1102,681.0,Pakistan,lost,44 runs,,lost,2nd,Sri Lanka,Colombo (RPS),16 Jun 2012,68.0,128,15.0,25,0.53125,0.6,0,0,0
+1103,682.0,Pakistan,lost,2 wickets,2.0,won,1st,Sri Lanka,Colombo (RPS),18 Jun 2012,68.0,129,15.0,26,0.527131782946,0.576923076923,1,0,1
+1104,709.0,Pakistan,won,11 runs,,won,1st,Sri Lanka,Sharjah,18 Dec 2013,79.0,156,15.0,27,0.50641025641,0.555555555556,1,1,1
+1105,710.0,Pakistan,lost,2 wickets,2.0,lost,1st,Sri Lanka,Dubai (DSC),20 Dec 2013,80.0,157,16.0,28,0.509554140127,0.571428571429,0,0,1
+1106,711.0,Pakistan,won,113 runs,,lost,1st,Sri Lanka,Sharjah,22 Dec 2013,80.0,158,16.0,29,0.506329113924,0.551724137931,0,1,1
+1107,712.0,Pakistan,won,8 wickets,53.0,lost,2nd,Sri Lanka,Abu Dhabi,25 Dec 2013,81.0,159,17.0,30,0.509433962264,0.566666666667,0,1,0
+1108,713.0,Pakistan,lost,2 wickets,2.0,won,1st,Sri Lanka,Abu Dhabi,27 Dec 2013,82.0,160,18.0,31,0.5125,0.58064516129,1,0,1
+1109,714.0,Pakistan,lost,12 runs,,lost,2nd,Sri Lanka,Fatullah,25 Feb 2014,82.0,161,18.0,32,0.509316770186,0.5625,0,0,0
+1110,717.0,Pakistan,lost,5 wickets,22.0,won,1st,Sri Lanka,Dhaka,8 Mar 2014,84.0,164,18.0,33,0.512195121951,0.545454545455,1,0,1
+1111,718.0,Pakistan,won,4 wickets,1.0,won,2nd,Sri Lanka,Hambantota,23 Aug 2014,84.0,165,18.0,34,0.509090909091,0.529411764706,1,1,0
+1112,719.0,Pakistan,lost,77 runs,,lost,2nd,Sri Lanka,Hambantota,26 Aug 2014,85.0,166,19.0,35,0.512048192771,0.542857142857,0,0,0
+1113,720.0,Pakistan,lost,7 wickets,178.0,won,1st,Sri Lanka,Dambulla,30 Aug 2014,85.0,167,19.0,36,0.508982035928,0.527777777778,1,0,1
+1114,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+1115,580.0,Pakistan,lost,51 runs,,won,2nd,New Zealand,Mohali,25 Oct 2006,15.0,27,0.0,0,0.555555555556,,1,0,0
+1116,635.0,Pakistan,lost,5 wickets,13.0,won,1st,New Zealand,Johannesburg,3 Oct 2009,44.0,82,0.0,1,0.536585365854,0.0,1,0,1
+1117,636.0,Pakistan,won,138 runs,,won,1st,New Zealand,Abu Dhabi,3 Nov 2009,44.0,83,0.0,2,0.530120481928,0.0,1,1,1
+1118,637.0,Pakistan,lost,64 runs,,lost,2nd,New Zealand,Abu Dhabi,6 Nov 2009,45.0,84,1.0,3,0.535714285714,0.333333333333,0,0,0
+1119,638.0,Pakistan,lost,7 runs,,lost,2nd,New Zealand,Abu Dhabi,9 Nov 2009,45.0,85,1.0,4,0.529411764706,0.25,0,0,0
+1120,652.0,Pakistan,lost,9 wickets,196.0,won,1st,New Zealand,Wellington,22 Jan 2011,48.0,99,1.0,5,0.484848484848,0.2,1,0,1
+1121,653.0,Pakistan,won,43 runs,,lost,1st,New Zealand,Christchurch,29 Jan 2011,48.0,100,1.0,6,0.48,0.166666666667,0,1,1
+1122,654.0,Pakistan,won,2 wickets,6.0,lost,2nd,New Zealand,Napier,1 Feb 2011,49.0,101,2.0,7,0.485148514851,0.285714285714,0,1,0
+1123,655.0,Pakistan,won,41 runs,,lost,1st,New Zealand,Hamilton,3 Feb 2011,50.0,102,3.0,8,0.490196078431,0.375,0,1,1
+1124,656.0,Pakistan,lost,57 runs,,won,2nd,New Zealand,Auckland,5 Feb 2011,51.0,103,4.0,9,0.495145631068,0.444444444444,1,0,0
+1125,658.0,Pakistan,lost,110 runs,,lost,2nd,New Zealand,Pallekele,8 Mar 2011,52.0,105,4.0,10,0.495238095238,0.4,0,0,0
+1126,724.0,Pakistan,won,3 wickets,3.0,won,2nd,New Zealand,Dubai (DSC),8 Dec 2014,85.0,171,4.0,11,0.497076023392,0.363636363636,1,1,0
+1127,725.0,Pakistan,lost,4 wickets,24.0,won,1st,New Zealand,Sharjah,12 Dec 2014,86.0,172,5.0,12,0.5,0.416666666667,1,0,1
+1128,726.0,Pakistan,won,147 runs,,won,1st,New Zealand,Sharjah,14 Dec 2014,86.0,173,5.0,13,0.49710982659,0.384615384615,1,1,1
+1129,727.0,Pakistan,lost,7 runs,,lost,2nd,New Zealand,Abu Dhabi,17 Dec 2014,87.0,174,6.0,14,0.5,0.428571428571,0,0,0
+1130,728.0,Pakistan,lost,68 runs,,lost,2nd,New Zealand,Abu Dhabi,19 Dec 2014,87.0,175,6.0,15,0.497142857143,0.4,0,0,0
+1131,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+1132,604.0,Pakistan,won,152 runs,,won,1st,Bangladesh,Lahore,8 Apr 2008,25.0,51,0.0,0,0.490196078431,,1,1,1
+1133,605.0,Pakistan,won,7 wickets,10.0,lost,2nd,Bangladesh,Faisalabad,11 Apr 2008,26.0,52,1.0,1,0.5,1.0,0,1,0
+1134,606.0,Pakistan,won,23 runs,,won,1st,Bangladesh,Lahore,13 Apr 2008,27.0,53,2.0,2,0.509433962264,1.0,1,1,1
+1135,607.0,Pakistan,won,7 wickets,33.0,lost,2nd,Bangladesh,Multan,16 Apr 2008,28.0,54,3.0,3,0.518518518519,1.0,0,1,0
+1136,608.0,Pakistan,won,150 runs,,won,1st,Bangladesh,Karachi,19 Apr 2008,29.0,55,4.0,4,0.527272727273,1.0,1,1,1
+1137,609.0,Pakistan,won,70 runs,,lost,1st,Bangladesh,Dhaka,8 Jun 2008,30.0,56,5.0,5,0.535714285714,1.0,0,1,1
+1138,615.0,Pakistan,won,10 wickets,182.0,lost,2nd,Bangladesh,Karachi,4 Jul 2008,33.0,62,6.0,6,0.532258064516,1.0,0,1,0
+1139,646.0,Pakistan,won,139 runs,,won,1st,Bangladesh,Dambulla,21 Jun 2010,45.0,93,7.0,7,0.483870967742,1.0,1,1,1
+1140,672.0,Pakistan,won,5 wickets,146.0,lost,2nd,Bangladesh,Dhaka,1 Dec 2011,61.0,119,8.0,8,0.512605042017,1.0,0,1,0
+1141,673.0,Pakistan,won,76 runs,,won,1st,Bangladesh,Dhaka,3 Dec 2011,62.0,120,9.0,9,0.516666666667,1.0,1,1,1
+1142,674.0,Pakistan,won,58 runs,,won,1st,Bangladesh,Chittagong,6 Dec 2011,63.0,121,10.0,10,0.520661157025,1.0,1,1,1
+1143,675.0,Pakistan,won,21 runs,,lost,1st,Bangladesh,Dhaka,11 Mar 2012,64.0,122,11.0,11,0.524590163934,1.0,0,1,1
+1144,678.0,Pakistan,won,2 runs,,lost,1st,Bangladesh,Dhaka,22 Mar 2012,66.0,125,12.0,12,0.528,1.0,0,1,1
+1145,716.0,Pakistan,won,3 wickets,1.0,lost,2nd,Bangladesh,Dhaka,4 Mar 2014,83.0,163,13.0,13,0.509202453988,1.0,0,1,0
+1146,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+1147,991.0,New Zealand,lost,10 runs,,lost,2nd,Australia,Wellington,19 Feb 2005,0.0,0,0.0,0,,,0,0,0
+1148,992.0,New Zealand,lost,106 runs,,won,2nd,Australia,Christchurch,22 Feb 2005,0.0,1,0.0,1,0.0,0.0,1,0,0
+1149,993.0,New Zealand,lost,86 runs,,lost,2nd,Australia,Auckland,26 Feb 2005,0.0,2,0.0,2,0.0,0.0,0,0,0
+1150,994.0,New Zealand,lost,7 wickets,94.0,lost,1st,Australia,Wellington,1 Mar 2005,0.0,3,0.0,3,0.0,0.0,0,0,1
+1151,995.0,New Zealand,lost,122 runs,,won,2nd,Australia,Napier,5 Mar 2005,0.0,4,0.0,4,0.0,0.0,1,0,0
+1152,1003.0,New Zealand,lost,147 runs,,won,2nd,Australia,Auckland,3 Dec 2005,2.0,12,0.0,5,0.166666666667,0.0,1,0,0
+1153,1004.0,New Zealand,lost,2 runs,,lost,2nd,Australia,Wellington,7 Dec 2005,2.0,13,0.0,6,0.153846153846,0.0,0,0,0
+1154,1005.0,New Zealand,won,2 wickets,6.0,won,2nd,Australia,Christchurch,10 Dec 2005,2.0,14,0.0,7,0.142857142857,0.0,1,1,0
+1155,1018.0,New Zealand,lost,34 runs,,won,2nd,Australia,Mohali,1 Nov 2006,12.0,27,1.0,8,0.444444444444,0.125,1,0,0
+1156,1023.0,New Zealand,lost,105 runs,,lost,2nd,Australia,Hobart,14 Jan 2007,14.0,32,1.0,9,0.4375,0.111111111111,0,0,0
+1157,1024.0,New Zealand,lost,2 wickets,8.0,won,1st,Australia,Sydney,21 Jan 2007,14.0,33,1.0,10,0.424242424242,0.1,1,0,1
+1158,1025.0,New Zealand,lost,8 runs,,lost,2nd,Australia,Perth,28 Jan 2007,14.0,34,1.0,11,0.411764705882,0.0909090909091,0,0,0
+1159,1026.0,New Zealand,lost,5 wickets,10.0,won,1st,Australia,Melbourne,4 Feb 2007,14.0,35,1.0,12,0.4,0.0833333333333,1,0,1
+1160,1027.0,New Zealand,won,10 wickets,138.0,won,2nd,Australia,Wellington,16 Feb 2007,14.0,36,1.0,13,0.388888888889,0.0769230769231,1,1,0
+1161,1028.0,New Zealand,won,5 wickets,8.0,won,2nd,Australia,Auckland,18 Feb 2007,15.0,37,2.0,14,0.405405405405,0.142857142857,1,1,0
+1162,1029.0,New Zealand,won,1 wickets,3.0,lost,2nd,Australia,Hamilton,20 Feb 2007,16.0,38,3.0,15,0.421052631579,0.2,0,1,0
+1163,1034.0,New Zealand,lost,215 runs,,lost,2nd,Australia,St George's,20 Apr 2007,20.0,43,4.0,16,0.46511627907,0.25,0,0,0
+1164,1039.0,New Zealand,lost,7 wickets,45.0,won,1st,Australia,Adelaide,14 Dec 2007,21.0,48,4.0,17,0.4375,0.235294117647,1,0,1
+1165,1040.0,New Zealand,lost,114 runs,,won,2nd,Australia,Hobart,20 Dec 2007,21.0,49,4.0,18,0.428571428571,0.222222222222,1,0,0
+1166,1050.0,New Zealand,won,2 wickets,0.0,lost,2nd,Australia,Perth,1 Feb 2009,28.0,59,4.0,19,0.474576271186,0.210526315789,0,1,0
+1167,1051.0,New Zealand,won,6 wickets,7.0,won,2nd,Australia,Melbourne,6 Feb 2009,29.0,60,5.0,20,0.483333333333,0.25,1,1,0
+1168,1052.0,New Zealand,lost,32 runs,,won,2nd,Australia,Sydney,8 Feb 2009,30.0,61,6.0,21,0.491803278689,0.285714285714,1,0,0
+1169,1053.0,New Zealand,lost,6 wickets,10.0,won,1st,Australia,Adelaide,10 Feb 2009,30.0,62,6.0,22,0.483870967742,0.272727272727,1,0,1
+1170,1063.0,New Zealand,lost,6 wickets,28.0,won,1st,Australia,Centurion,5 Oct 2009,33.0,72,6.0,23,0.458333333333,0.260869565217,1,0,1
+1171,1070.0,New Zealand,won,2 wickets,4.0,lost,2nd,Australia,Napier,3 Mar 2010,38.0,79,6.0,24,0.481012658228,0.25,0,1,0
+1172,1071.0,New Zealand,lost,12 runs,,lost,2nd,Australia,Auckland,6 Mar 2010,39.0,80,7.0,25,0.4875,0.28,0,0,0
+1173,1072.0,New Zealand,lost,6 wickets,16.0,lost,1st,Australia,Hamilton,9 Mar 2010,39.0,81,7.0,26,0.481481481481,0.269230769231,0,0,1
+1174,1073.0,New Zealand,lost,6 wickets,17.0,lost,1st,Australia,Auckland,11 Mar 2010,39.0,82,7.0,27,0.475609756098,0.259259259259,0,0,1
+1175,1074.0,New Zealand,won,51 runs,,lost,1st,Australia,Wellington,13 Mar 2010,39.0,83,7.0,28,0.469879518072,0.25,0,1,1
+1176,1092.0,New Zealand,lost,7 wickets,96.0,lost,1st,Australia,Nagpur,25 Feb 2011,43.0,101,8.0,29,0.425742574257,0.275862068966,0,0,1
+1177,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+1178,999.0,New Zealand,lost,2 wickets,3.0,won,1st,South Africa,Bloemfontein,23 Oct 2005,2.0,8,0.0,0,0.25,,1,0,1
+1179,1000.0,New Zealand,lost,19 runs,,lost,2nd,South Africa,Cape Town,28 Oct 2005,2.0,9,0.0,1,0.222222222222,0.0,0,0,0
+1180,1001.0,New Zealand,lost,4 wickets,4.0,lost,1st,South Africa,Port Elizabeth,30 Oct 2005,2.0,10,0.0,2,0.2,0.0,0,0,1
+1181,1002.0,New Zealand,lost,5 wickets,11.0,lost,1st,South Africa,Centurion,6 Nov 2005,2.0,11,0.0,3,0.181818181818,0.0,0,0,1
+1182,1015.0,New Zealand,won,87 runs,,lost,1st,South Africa,Mumbai (BS),16 Oct 2006,10.0,24,0.0,4,0.416666666667,0.0,0,1,1
+1183,1033.0,New Zealand,won,5 wickets,10.0,won,2nd,South Africa,St George's,14 Apr 2007,19.0,42,1.0,5,0.452380952381,0.2,1,1,0
+1184,1036.0,New Zealand,lost,2 wickets,0.0,lost,1st,South Africa,Durban,25 Nov 2007,20.0,45,2.0,6,0.444444444444,0.333333333333,0,0,1
+1185,1037.0,New Zealand,won,7 wickets,68.0,lost,2nd,South Africa,Port Elizabeth,30 Nov 2007,20.0,46,2.0,7,0.434782608696,0.285714285714,0,1,0
+1186,1038.0,New Zealand,lost,5 wickets,28.0,won,1st,South Africa,Cape Town,2 Dec 2007,21.0,47,3.0,8,0.446808510638,0.375,1,0,1
+1187,1060.0,New Zealand,lost,5 wickets,53.0,lost,1st,South Africa,Centurion,24 Sep 2009,31.0,69,3.0,9,0.449275362319,0.333333333333,0,0,1
+1188,1095.0,New Zealand,won,49 runs,,won,1st,South Africa,Dhaka,25 Mar 2011,44.0,104,3.0,10,0.423076923077,0.3,1,1,1
+1189,1097.0,New Zealand,lost,6 wickets,28.0,won,1st,South Africa,Wellington,25 Feb 2012,45.0,106,4.0,11,0.424528301887,0.363636363636,1,0,1
+1190,1098.0,New Zealand,lost,6 wickets,70.0,lost,1st,South Africa,Napier,29 Feb 2012,45.0,107,4.0,12,0.420560747664,0.333333333333,0,0,1
+1191,1099.0,New Zealand,lost,5 wickets,40.0,lost,1st,South Africa,Auckland,3 Mar 2012,45.0,108,4.0,13,0.416666666667,0.307692307692,0,0,1
+1192,1108.0,New Zealand,won,1 wickets,26.0,won,2nd,South Africa,Paarl,19 Jan 2013,46.0,117,4.0,14,0.393162393162,0.285714285714,1,1,0
+1193,1109.0,New Zealand,won,27 runs,,lost,1st,South Africa,Kimberley,22 Jan 2013,47.0,118,5.0,15,0.398305084746,0.333333333333,0,1,1
+1194,1110.0,New Zealand,lost,1 wickets,0.0,won,1st,South Africa,Potchefstroom,25 Jan 2013,48.0,119,6.0,16,0.403361344538,0.375,1,0,1
+1195,1125.0,New Zealand,lost,6 wickets,11.0,lost,1st,South Africa,Mount Maunganui,21 Oct 2014,56.0,134,6.0,17,0.417910447761,0.352941176471,0,0,1
+1196,1126.0,New Zealand,lost,72 runs,,won,2nd,South Africa,Mount Maunganui,24 Oct 2014,56.0,135,6.0,18,0.414814814815,0.333333333333,1,0,0
+1197,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+1198,1010.0,New Zealand,won,81 runs,,won,1st,West Indies,Wellington,18 Feb 2006,6.0,19,0.0,0,0.315789473684,,1,1,1
+1199,1011.0,New Zealand,won,3 wickets,48.0,won,2nd,West Indies,Queenstown,22 Feb 2006,7.0,20,1.0,1,0.35,1.0,1,1,0
+1200,1012.0,New Zealand,won,21 runs,,won,1st,West Indies,Christchurch,25 Feb 2006,8.0,21,2.0,2,0.380952380952,1.0,1,1,1
+1201,1013.0,New Zealand,won,91 runs,,lost,1st,West Indies,Napier,1 Mar 2006,9.0,22,3.0,3,0.409090909091,1.0,0,1,1
+1202,1014.0,New Zealand,lost,3 wickets,2.0,won,1st,West Indies,Auckland,4 Mar 2006,10.0,23,4.0,4,0.434782608696,1.0,1,0,1
+1203,1030.0,New Zealand,won,7 wickets,64.0,won,2nd,West Indies,North Sound,29 Mar 2007,17.0,39,4.0,5,0.435897435897,0.8,1,1,0
+1204,1047.0,New Zealand,lost,5 wickets,1.0,lost,1st,West Indies,Christchurch,3 Jan 2009,26.0,56,5.0,6,0.464285714286,0.833333333333,0,0,1
+1205,1048.0,New Zealand,won,7 wickets,177.0,won,2nd,West Indies,Wellington,7 Jan 2009,26.0,57,5.0,7,0.456140350877,0.714285714286,1,1,0
+1206,1049.0,New Zealand,won,9 runs,,won,2nd,West Indies,Napier,13 Jan 2009,27.0,58,6.0,8,0.465517241379,0.75,1,1,0
+1207,1100.0,New Zealand,lost,9 wickets,52.0,lost,1st,West Indies,Kingston,5 Jul 2012,45.0,109,7.0,9,0.412844036697,0.777777777778,0,0,1
+1208,1101.0,New Zealand,lost,55 runs,,won,2nd,West Indies,Kingston,7 Jul 2012,45.0,110,7.0,10,0.409090909091,0.7,1,0,0
+1209,1102.0,New Zealand,won,88 runs,,lost,1st,West Indies,Basseterre,11 Jul 2012,45.0,111,7.0,11,0.405405405405,0.636363636364,0,1,1
+1210,1103.0,New Zealand,lost,24 runs,,lost,2nd,West Indies,Basseterre,14 Jul 2012,46.0,112,8.0,12,0.410714285714,0.666666666667,0,0,0
+1211,1104.0,New Zealand,lost,20 runs,,lost,2nd,West Indies,Basseterre,16 Jul 2012,46.0,113,8.0,13,0.407079646018,0.615384615385,0,0,0
+1212,1117.0,New Zealand,lost,2 wickets,135.0,lost,1st,West Indies,Auckland,26 Dec 2013,50.0,126,8.0,14,0.396825396825,0.571428571429,0,0,1
+1213,1118.0,New Zealand,won,159 runs,,lost,1st,West Indies,Queenstown,1 Jan 2014,50.0,127,8.0,15,0.393700787402,0.533333333333,0,1,1
+1214,1119.0,New Zealand,won,58 runs,,won,1st,West Indies,Nelson,4 Jan 2014,51.0,128,9.0,16,0.3984375,0.5625,1,1,1
+1215,1120.0,New Zealand,lost,203 runs,,won,2nd,West Indies,Hamilton,8 Jan 2014,52.0,129,10.0,17,0.403100775194,0.588235294118,1,0,0
+1216,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+1217,996.0,New Zealand,won,51 runs,,won,1st,India,Bulawayo,26 Aug 2005,0.0,5,0.0,0,0.0,,1,1,1
+1218,997.0,New Zealand,lost,6 wickets,15.0,won,1st,India,Harare,2 Sep 2005,1.0,6,1.0,1,0.166666666667,1.0,1,0,1
+1219,998.0,New Zealand,won,6 wickets,11.0,lost,2nd,India,Harare,6 Sep 2005,1.0,7,1.0,2,0.142857142857,0.5,0,1,0
+1220,1054.0,New Zealand,lost,53 runs,,lost,2nd,India,Napier,3 Mar 2009,30.0,63,2.0,3,0.47619047619,0.666666666667,0,0,0
+1221,1055.0,New Zealand,lost,58 runs,,won,2nd,India,Christchurch,8 Mar 2009,30.0,64,2.0,4,0.46875,0.5,1,0,0
+1222,1056.0,New Zealand,lost,84 runs,,won,1st,India,Hamilton,11 Mar 2009,30.0,65,2.0,5,0.461538461538,0.4,1,0,1
+1223,1057.0,New Zealand,won,8 wickets,118.0,lost,2nd,India,Auckland,14 Mar 2009,30.0,66,2.0,6,0.454545454545,0.333333333333,0,1,0
+1224,1059.0,New Zealand,lost,6 wickets,57.0,won,1st,India,Colombo (RPS),11 Sep 2009,31.0,68,3.0,7,0.455882352941,0.428571428571,1,0,1
+1225,1075.0,New Zealand,won,200 runs,,won,1st,India,Dambulla,10 Aug 2010,40.0,84,3.0,8,0.47619047619,0.375,1,1,1
+1226,1077.0,New Zealand,lost,105 runs,,lost,2nd,India,Dambulla,25 Aug 2010,41.0,86,4.0,9,0.476744186047,0.444444444444,0,0,0
+1227,1082.0,New Zealand,lost,40 runs,,won,2nd,India,Guwahati,28 Nov 2010,41.0,91,4.0,10,0.450549450549,0.4,1,0,0
+1228,1083.0,New Zealand,lost,8 wickets,42.0,lost,1st,India,Jaipur,1 Dec 2010,41.0,92,4.0,11,0.445652173913,0.363636363636,0,0,1
+1229,1084.0,New Zealand,lost,9 wickets,63.0,lost,1st,India,Vadodara,4 Dec 2010,41.0,93,4.0,12,0.440860215054,0.333333333333,0,0,1
+1230,1085.0,New Zealand,lost,5 wickets,7.0,lost,1st,India,Bangalore,7 Dec 2010,41.0,94,4.0,13,0.436170212766,0.307692307692,0,0,1
+1231,1086.0,New Zealand,lost,8 wickets,173.0,won,1st,India,Chennai,10 Dec 2010,41.0,95,4.0,14,0.431578947368,0.285714285714,1,0,1
+1232,1121.0,New Zealand,won,24 runs,,lost,1st,India,Napier,19 Jan 2014,52.0,130,4.0,15,0.4,0.266666666667,0,1,1
+1233,1122.0,New Zealand,won,15 runs,,lost,1st,India,Hamilton,22 Jan 2014,53.0,131,5.0,16,0.404580152672,0.3125,0,1,1
+1234,1123.0,New Zealand,won,7 wickets,11.0,lost,2nd,India,Hamilton,28 Jan 2014,54.0,132,6.0,17,0.409090909091,0.352941176471,0,1,0
+1235,1124.0,New Zealand,won,87 runs,,lost,1st,India,Wellington,31 Jan 2014,55.0,133,7.0,18,0.413533834586,0.388888888889,0,1,1
+1236,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+1237,1006.0,New Zealand,won,7 wickets,76.0,won,2nd,Sri Lanka,Queenstown,31 Dec 2005,3.0,15,0.0,0,0.2,,1,1,0
+1238,1007.0,New Zealand,won,5 wickets,12.0,won,2nd,Sri Lanka,Christchurch,3 Jan 2006,4.0,16,1.0,1,0.25,1.0,1,1,0
+1239,1008.0,New Zealand,won,21 runs,,won,1st,Sri Lanka,Wellington,6 Jan 2006,5.0,17,2.0,2,0.294117647059,1.0,1,1,1
+1240,1009.0,New Zealand,lost,20 runs,,lost,2nd,Sri Lanka,Napier,8 Jan 2006,6.0,18,3.0,3,0.333333333333,1.0,0,0,0
+1241,1016.0,New Zealand,lost,7 wickets,84.0,won,1st,Sri Lanka,Mumbai (BS),20 Oct 2006,11.0,25,3.0,4,0.44,0.75,1,0,1
+1242,1019.0,New Zealand,lost,7 wickets,60.0,won,1st,Sri Lanka,Napier,28 Dec 2006,12.0,28,3.0,5,0.428571428571,0.6,1,0,1
+1243,1020.0,New Zealand,won,1 wickets,0.0,won,2nd,Sri Lanka,Queenstown,31 Dec 2006,12.0,29,3.0,6,0.413793103448,0.5,1,1,0
+1244,1021.0,New Zealand,won,4 wickets,129.0,won,2nd,Sri Lanka,Christchurch,2 Jan 2007,13.0,30,4.0,7,0.433333333333,0.571428571429,1,1,0
+1245,1022.0,New Zealand,lost,189 runs,,lost,2nd,Sri Lanka,Auckland,6 Jan 2007,14.0,31,5.0,8,0.451612903226,0.625,0,0,0
+1246,1032.0,New Zealand,lost,6 wickets,29.0,won,1st,Sri Lanka,St George's,12 Apr 2007,19.0,41,5.0,9,0.463414634146,0.555555555556,1,0,1
+1247,1035.0,New Zealand,lost,81 runs,,lost,2nd,Sri Lanka,Kingston,24 Apr 2007,20.0,44,5.0,10,0.454545454545,0.5,0,0,0
+1248,1058.0,New Zealand,lost,97 runs,,lost,2nd,Sri Lanka,Colombo (RPS),8 Sep 2009,31.0,67,5.0,11,0.462686567164,0.454545454545,0,0,0
+1249,1061.0,New Zealand,won,38 runs,,lost,1st,Sri Lanka,Johannesburg,27 Sep 2009,31.0,70,5.0,12,0.442857142857,0.416666666667,0,1,1
+1250,1076.0,New Zealand,lost,3 wickets,55.0,won,1st,Sri Lanka,Dambulla,13 Aug 2010,41.0,85,6.0,13,0.482352941176,0.461538461538,1,0,1
+1251,1094.0,New Zealand,lost,112 runs,,lost,2nd,Sri Lanka,Mumbai,18 Mar 2011,44.0,103,6.0,14,0.427184466019,0.428571428571,0,0,0
+1252,1096.0,New Zealand,lost,5 wickets,13.0,won,1st,Sri Lanka,Colombo (RPS),29 Mar 2011,45.0,105,6.0,15,0.428571428571,0.4,1,0,1
+1253,1105.0,New Zealand,lost,14 runs,,won,1st,Sri Lanka,Pallekele,4 Nov 2012,46.0,114,6.0,16,0.40350877193,0.375,1,0,1
+1254,1106.0,New Zealand,lost,7 wickets,11.0,lost,1st,Sri Lanka,Pallekele,6 Nov 2012,46.0,115,6.0,17,0.4,0.352941176471,0,0,1
+1255,1107.0,New Zealand,lost,7 wickets,34.0,lost,1st,Sri Lanka,Hambantota,10 Nov 2012,46.0,116,6.0,18,0.396551724138,0.333333333333,0,0,1
+1256,1111.0,New Zealand,won,1 wickets,81.0,lost,2nd,Sri Lanka,Cardiff,9 Jun 2013,48.0,120,6.0,19,0.4,0.315789473684,0,1,0
+1257,1115.0,New Zealand,won,4 wickets,0.0,lost,2nd,Sri Lanka,Hambantota,12 Nov 2013,49.0,124,7.0,20,0.395161290323,0.35,0,1,0
+1258,1116.0,New Zealand,lost,36 runs,,won,2nd,Sri Lanka,Dambulla,16 Nov 2013,50.0,125,8.0,21,0.4,0.380952380952,1,0,0
+1259,1132.0,New Zealand,won,3 wickets,42.0,lost,2nd,Sri Lanka,Christchurch,11 Jan 2015,59.0,141,8.0,22,0.418439716312,0.363636363636,0,1,0
+1260,1133.0,New Zealand,lost,6 wickets,14.0,won,1st,Sri Lanka,Hamilton,15 Jan 2015,60.0,142,9.0,23,0.422535211268,0.391304347826,1,0,1
+1261,1134.0,New Zealand,won,4 wickets,11.0,lost,2nd,Sri Lanka,,,60.0,143,9.0,24,0.41958041958,0.375,0,1,0
+1262,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+1263,1017.0,New Zealand,won,51 runs,,lost,1st,Pakistan,Mohali,25 Oct 2006,11.0,26,0.0,0,0.423076923077,,0,1,1
+1264,1062.0,New Zealand,won,5 wickets,13.0,lost,2nd,Pakistan,Johannesburg,3 Oct 2009,32.0,71,1.0,1,0.450704225352,1.0,0,1,0
+1265,1064.0,New Zealand,lost,138 runs,,lost,2nd,Pakistan,Abu Dhabi,3 Nov 2009,33.0,73,2.0,2,0.452054794521,1.0,0,0,0
+1266,1065.0,New Zealand,won,64 runs,,won,1st,Pakistan,Abu Dhabi,6 Nov 2009,33.0,74,2.0,3,0.445945945946,0.666666666667,1,1,1
+1267,1066.0,New Zealand,won,7 runs,,won,1st,Pakistan,Abu Dhabi,9 Nov 2009,34.0,75,3.0,4,0.453333333333,0.75,1,1,1
+1268,1087.0,New Zealand,won,9 wickets,196.0,lost,2nd,Pakistan,Wellington,22 Jan 2011,41.0,96,4.0,5,0.427083333333,0.8,0,1,0
+1269,1088.0,New Zealand,lost,43 runs,,won,2nd,Pakistan,Christchurch,29 Jan 2011,42.0,97,5.0,6,0.432989690722,0.833333333333,1,0,0
+1270,1089.0,New Zealand,lost,2 wickets,6.0,won,1st,Pakistan,Napier,1 Feb 2011,42.0,98,5.0,7,0.428571428571,0.714285714286,1,0,1
+1271,1090.0,New Zealand,lost,41 runs,,won,2nd,Pakistan,Hamilton,3 Feb 2011,42.0,99,5.0,8,0.424242424242,0.625,1,0,0
+1272,1091.0,New Zealand,won,57 runs,,lost,1st,Pakistan,Auckland,5 Feb 2011,42.0,100,5.0,9,0.42,0.555555555556,0,1,1
+1273,1093.0,New Zealand,won,110 runs,,won,1st,Pakistan,Pallekele,8 Mar 2011,43.0,102,6.0,10,0.421568627451,0.6,1,1,1
+1274,1127.0,New Zealand,lost,3 wickets,3.0,lost,1st,Pakistan,Dubai (DSC),8 Dec 2014,56.0,136,7.0,11,0.411764705882,0.636363636364,0,0,1
+1275,1128.0,New Zealand,won,4 wickets,24.0,lost,2nd,Pakistan,Sharjah,12 Dec 2014,56.0,137,7.0,12,0.408759124088,0.583333333333,0,1,0
+1276,1129.0,New Zealand,lost,147 runs,,lost,2nd,Pakistan,Sharjah,14 Dec 2014,57.0,138,8.0,13,0.413043478261,0.615384615385,0,0,0
+1277,1130.0,New Zealand,won,7 runs,,won,1st,Pakistan,Abu Dhabi,17 Dec 2014,57.0,139,8.0,14,0.410071942446,0.571428571429,1,1,1
+1278,1131.0,New Zealand,won,68 runs,,won,1st,Pakistan,Abu Dhabi,19 Dec 2014,58.0,140,9.0,15,0.414285714286,0.6,1,1,1
+1279,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+1280,1031.0,New Zealand,won,9 wickets,124.0,won,2nd,Bangladesh,North Sound,2 Apr 2007,18.0,40,0.0,0,0.45,,1,1,0
+1281,1041.0,New Zealand,won,6 wickets,44.0,won,2nd,Bangladesh,Auckland,26 Dec 2007,21.0,50,1.0,1,0.42,1.0,1,1,0
+1282,1042.0,New Zealand,won,102 runs,,won,1st,Bangladesh,Napier,28 Dec 2007,22.0,51,2.0,2,0.43137254902,1.0,1,1,1
+1283,1043.0,New Zealand,won,10 wickets,264.0,won,2nd,Bangladesh,Queenstown,31 Dec 2007,23.0,52,3.0,3,0.442307692308,1.0,1,1,0
+1284,1044.0,New Zealand,lost,7 wickets,27.0,lost,1st,Bangladesh,Dhaka,9 Oct 2008,24.0,53,4.0,4,0.452830188679,1.0,0,0,1
+1285,1045.0,New Zealand,won,75 runs,,lost,1st,Bangladesh,Dhaka,11 Oct 2008,24.0,54,4.0,5,0.444444444444,0.8,0,1,1
+1286,1046.0,New Zealand,won,79 runs,,won,1st,Bangladesh,Chittagong,14 Oct 2008,25.0,55,5.0,6,0.454545454545,0.833333333333,1,1,1
+1287,1067.0,New Zealand,won,146 runs,,won,1st,Bangladesh,Napier,5 Feb 2010,35.0,76,6.0,7,0.460526315789,0.857142857143,1,1,1
+1288,1068.0,New Zealand,won,5 wickets,135.0,won,2nd,Bangladesh,Dunedin,8 Feb 2010,36.0,77,7.0,8,0.467532467532,0.875,1,1,0
+1289,1069.0,New Zealand,won,3 wickets,31.0,won,2nd,Bangladesh,Christchurch,11 Feb 2010,37.0,78,8.0,9,0.474358974359,0.888888888889,1,1,0
+1290,1078.0,New Zealand,lost,9 runs,,lost,2nd,Bangladesh,Dhaka,5 Oct 2010,41.0,87,9.0,10,0.471264367816,0.9,0,0,0
+1291,1079.0,New Zealand,lost,7 wickets,60.0,lost,1st,Bangladesh,Dhaka,11 Oct 2010,41.0,88,9.0,11,0.465909090909,0.818181818182,0,0,1
+1292,1080.0,New Zealand,lost,9 runs,,won,2nd,Bangladesh,Dhaka,14 Oct 2010,41.0,89,9.0,12,0.460674157303,0.75,1,0,0
+1293,1081.0,New Zealand,lost,3 runs,,lost,2nd,Bangladesh,Dhaka,17 Oct 2010,41.0,90,9.0,13,0.455555555556,0.692307692308,0,0,0
+1294,1112.0,New Zealand,lost,43 runs,,won,2nd,Bangladesh,Dhaka,29 Oct 2013,49.0,121,9.0,14,0.404958677686,0.642857142857,1,0,0
+1295,1113.0,New Zealand,lost,40 runs,,lost,2nd,Bangladesh,Dhaka,31 Oct 2013,49.0,122,9.0,15,0.401639344262,0.6,0,0,0
+1296,1114.0,New Zealand,lost,4 wickets,4.0,lost,1st,Bangladesh,Fatullah,3 Nov 2013,49.0,123,9.0,16,0.39837398374,0.5625,0,0,1
+1297,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+1298,729.0,Bangladesh,won,5 wickets,4.0,lost,2nd,Australia,Cardiff,18 Jun 2005,0.0,0,0.0,0,,,0,1,0
+1299,730.0,Bangladesh,lost,10 wickets,186.0,lost,1st,Australia,Manchester,25 Jun 2005,1.0,1,1.0,1,1.0,1.0,0,0,1
+1300,731.0,Bangladesh,lost,6 wickets,11.0,lost,1st,Australia,Canterbury,30 Jun 2005,1.0,2,1.0,2,0.5,0.5,0,0,1
+1301,738.0,Bangladesh,lost,4 wickets,36.0,won,1st,Australia,Chittagong,23 Apr 2006,2.0,9,1.0,3,0.222222222222,0.333333333333,1,0,1
+1302,739.0,Bangladesh,lost,67 runs,,lost,2nd,Australia,Fatullah,26 Apr 2006,2.0,10,1.0,4,0.2,0.25,0,0,0
+1303,740.0,Bangladesh,lost,9 wickets,164.0,won,1st,Australia,Fatullah,28 Apr 2006,2.0,11,1.0,5,0.181818181818,0.2,1,0,1
+1304,745.0,Bangladesh,lost,10 wickets,49.0,lost,1st,Australia,North Sound,31 Mar 2007,3.0,16,1.0,6,0.1875,0.166666666667,0,0,1
+1305,771.0,Bangladesh,lost,180 runs,,won,2nd,Australia,Darwin,30 Aug 2008,4.0,42,1.0,7,0.0952380952381,0.142857142857,1,0,0
+1306,772.0,Bangladesh,lost,8 wickets,164.0,won,1st,Australia,Darwin,3 Sep 2008,4.0,43,1.0,8,0.093023255814,0.125,1,0,1
+1307,773.0,Bangladesh,lost,73 runs,,lost,2nd,Australia,Darwin,6 Sep 2008,4.0,44,1.0,9,0.0909090909091,0.111111111111,0,0,0
+1308,801.0,Bangladesh,lost,60 runs,,won,2nd,Australia,Dhaka,9 Apr 2011,13.0,72,1.0,10,0.180555555556,0.1,1,0,0
+1309,802.0,Bangladesh,lost,9 wickets,144.0,won,1st,Australia,Dhaka,11 Apr 2011,13.0,73,1.0,11,0.178082191781,0.0909090909091,1,0,1
+1310,803.0,Bangladesh,lost,66 runs,,lost,2nd,Australia,Dhaka,13 Apr 2011,13.0,74,1.0,12,0.175675675676,0.0833333333333,0,0,0
+1311,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+1312,747.0,Bangladesh,won,67 runs,,lost,1st,South Africa,Providence,7 Apr 2007,3.0,18,0.0,0,0.166666666667,,0,1,1
+1313,757.0,Bangladesh,lost,9 wickets,79.0,won,1st,South Africa,Chittagong,9 Mar 2008,4.0,28,1.0,1,0.142857142857,1.0,1,0,1
+1314,758.0,Bangladesh,lost,7 wickets,11.0,won,1st,South Africa,Dhaka,12 Mar 2008,4.0,29,1.0,2,0.137931034483,0.5,1,0,1
+1315,759.0,Bangladesh,lost,7 wickets,94.0,won,1st,South Africa,Dhaka,14 Mar 2008,4.0,30,1.0,3,0.133333333333,0.333333333333,1,0,1
+1316,777.0,Bangladesh,lost,61 runs,,lost,2nd,South Africa,Potchefstroom,7 Nov 2008,5.0,48,1.0,4,0.104166666667,0.25,0,0,0
+1317,778.0,Bangladesh,lost,128 runs,,won,2nd,South Africa,Benoni,9 Nov 2008,5.0,49,1.0,5,0.102040816327,0.2,1,0,0
+1318,800.0,Bangladesh,lost,206 runs,,lost,2nd,South Africa,Dhaka,19 Mar 2011,13.0,71,1.0,6,0.183098591549,0.166666666667,0,0,0
+1319,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+1320,742.0,Bangladesh,lost,10 wickets,80.0,won,1st,West Indies,Jaipur,11 Oct 2006,2.0,13,0.0,0,0.153846153846,,1,0,1
+1321,748.0,Bangladesh,lost,99 runs,,won,2nd,West Indies,Bridgetown,19 Apr 2007,4.0,19,0.0,1,0.210526315789,0.0,1,0,0
+1322,781.0,Bangladesh,won,52 runs,,lost,1st,West Indies,Roseau,26 Jul 2009,6.0,52,0.0,2,0.115384615385,0.0,0,1,1
+1323,782.0,Bangladesh,won,3 wickets,6.0,lost,2nd,West Indies,Roseau,28 Jul 2009,7.0,53,1.0,3,0.132075471698,0.333333333333,0,1,0
+1324,783.0,Bangladesh,won,3 wickets,7.0,lost,2nd,West Indies,Basseterre,31 Jul 2009,8.0,54,2.0,4,0.148148148148,0.5,0,1,0
+1325,799.0,Bangladesh,lost,9 wickets,226.0,won,1st,West Indies,Dhaka,4 Mar 2011,13.0,70,3.0,5,0.185714285714,0.6,1,0,1
+1326,804.0,Bangladesh,lost,40 runs,,won,2nd,West Indies,Dhaka,13 Oct 2011,13.0,75,3.0,6,0.173333333333,0.5,1,0,0
+1327,805.0,Bangladesh,lost,8 wickets,44.0,won,1st,West Indies,Dhaka,15 Oct 2011,13.0,76,3.0,7,0.171052631579,0.428571428571,1,0,1
+1328,806.0,Bangladesh,won,8 wickets,180.0,won,2nd,West Indies,Chittagong,18 Oct 2011,13.0,77,3.0,8,0.168831168831,0.375,1,1,0
+1329,814.0,Bangladesh,won,7 wickets,58.0,lost,2nd,West Indies,Khulna,30 Nov 2012,16.0,85,4.0,9,0.188235294118,0.444444444444,0,1,0
+1330,815.0,Bangladesh,won,160 runs,,lost,1st,West Indies,Khulna,2 Dec 2012,17.0,86,5.0,10,0.197674418605,0.5,0,1,1
+1331,816.0,Bangladesh,lost,4 wickets,18.0,lost,1st,West Indies,Dhaka,5 Dec 2012,18.0,87,6.0,11,0.206896551724,0.545454545455,0,0,1
+1332,817.0,Bangladesh,lost,75 runs,,won,2nd,West Indies,Dhaka,7 Dec 2012,18.0,88,6.0,12,0.204545454545,0.5,1,0,0
+1333,818.0,Bangladesh,won,2 wickets,36.0,won,2nd,West Indies,Dhaka,8 Dec 2012,18.0,89,6.0,13,0.202247191011,0.461538461538,1,1,0
+1334,832.0,Bangladesh,lost,3 wickets,62.0,lost,1st,West Indies,St George's,20 Aug 2014,23.0,103,7.0,14,0.223300970874,0.5,0,0,1
+1335,833.0,Bangladesh,lost,177 runs,,won,2nd,West Indies,St George's,22 Aug 2014,23.0,104,7.0,15,0.221153846154,0.466666666667,1,0,0
+1336,834.0,Bangladesh,lost,91 runs,,lost,2nd,West Indies,Basseterre,25 Aug 2014,23.0,105,7.0,16,0.219047619048,0.4375,0,0,0
+1337,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+1338,743.0,Bangladesh,won,5 wickets,9.0,lost,2nd,India,Port of Spain,17 Mar 2007,2.0,14,0.0,0,0.142857142857,,0,1,0
+1339,749.0,Bangladesh,lost,5 wickets,6.0,won,1st,India,Dhaka,10 May 2007,4.0,20,1.0,1,0.2,1.0,1,0,1
+1340,750.0,Bangladesh,lost,46 runs,,lost,2nd,India,Dhaka,12 May 2007,4.0,21,1.0,2,0.190476190476,0.5,0,0,0
+1341,766.0,Bangladesh,lost,7 wickets,89.0,won,1st,India,Dhaka,12 Jun 2008,4.0,37,1.0,3,0.108108108108,0.333333333333,1,0,1
+1342,768.0,Bangladesh,lost,7 wickets,40.0,won,1st,India,Karachi,28 Jun 2008,4.0,39,1.0,4,0.102564102564,0.25,1,0,1
+1343,785.0,Bangladesh,lost,6 wickets,15.0,won,1st,India,Dhaka,7 Jan 2010,9.0,56,1.0,5,0.160714285714,0.2,1,0,1
+1344,787.0,Bangladesh,lost,6 wickets,42.0,lost,1st,India,Dhaka,11 Jan 2010,9.0,58,1.0,6,0.155172413793,0.166666666667,0,0,1
+1345,791.0,Bangladesh,lost,6 wickets,116.0,won,1st,India,Dambulla,16 Jun 2010,9.0,62,1.0,7,0.145161290323,0.142857142857,1,0,1
+1346,798.0,Bangladesh,lost,87 runs,,won,2nd,India,Dhaka,19 Feb 2011,13.0,69,1.0,8,0.188405797101,0.125,1,0,0
+1347,811.0,Bangladesh,won,5 wickets,4.0,won,2nd,India,Dhaka,16 Mar 2012,14.0,82,1.0,9,0.170731707317,0.111111111111,1,1,0
+1348,827.0,Bangladesh,lost,6 wickets,6.0,lost,1st,India,Fatullah,26 Feb 2014,23.0,98,2.0,10,0.234693877551,0.2,0,0,1
+1349,830.0,Bangladesh,lost,7 wickets,7.0,won,1st,India,Dhaka,15 Jun 2014,23.0,101,2.0,11,0.227722772277,0.181818181818,1,0,1
+1350,831.0,Bangladesh,lost,47 runs,,won,2nd,India,Dhaka,17 Jun 2014,23.0,102,2.0,12,0.225490196078,0.166666666667,1,0,0
+1351,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+1352,732.0,Bangladesh,lost,88 runs,,won,2nd,Sri Lanka,Colombo (SSC),31 Aug 2005,1.0,3,0.0,0,0.333333333333,,1,0,0
+1353,733.0,Bangladesh,lost,75 runs,,won,2nd,Sri Lanka,Colombo (RPS),2 Sep 2005,1.0,4,0.0,1,0.25,0.0,1,0,0
+1354,734.0,Bangladesh,lost,6 wickets,148.0,lost,1st,Sri Lanka,Colombo (RPS),4 Sep 2005,1.0,5,0.0,2,0.2,0.0,0,0,1
+1355,735.0,Bangladesh,lost,5 wickets,155.0,won,1st,Sri Lanka,Bogra,20 Feb 2006,1.0,6,0.0,3,0.166666666667,0.0,1,0,1
+1356,736.0,Bangladesh,won,4 wickets,12.0,won,2nd,Sri Lanka,Bogra,22 Feb 2006,1.0,7,0.0,4,0.142857142857,0.0,1,1,0
+1357,737.0,Bangladesh,lost,78 runs,,won,2nd,Sri Lanka,Chittagong,25 Feb 2006,2.0,8,1.0,5,0.25,0.2,1,0,0
+1358,741.0,Bangladesh,lost,37 runs,,won,2nd,Sri Lanka,Mohali,7 Oct 2006,2.0,12,1.0,6,0.166666666667,0.166666666667,1,0,0
+1359,744.0,Bangladesh,lost,198 runs,,won,2nd,Sri Lanka,Port of Spain,21 Mar 2007,3.0,15,1.0,7,0.2,0.142857142857,1,0,0
+1360,751.0,Bangladesh,lost,70 runs,,won,2nd,Sri Lanka,Colombo (PSS),20 Jul 2007,4.0,22,1.0,8,0.181818181818,0.125,1,0,0
+1361,752.0,Bangladesh,lost,5 wickets,113.0,lost,1st,Sri Lanka,Colombo (RPS),23 Jul 2007,4.0,23,1.0,9,0.173913043478,0.111111111111,0,0,1
+1362,753.0,Bangladesh,lost,39 runs,,won,2nd,Sri Lanka,Colombo (RPS),25 Jul 2007,4.0,24,1.0,10,0.166666666667,0.1,1,0,0
+1363,767.0,Bangladesh,lost,131 runs,,won,2nd,Sri Lanka,Lahore,25 Jun 2008,4.0,38,1.0,11,0.105263157895,0.0909090909091,1,0,0
+1364,769.0,Bangladesh,lost,158 runs,,lost,2nd,Sri Lanka,Karachi,30 Jun 2008,4.0,40,1.0,12,0.1,0.0833333333333,0,0,0
+1365,779.0,Bangladesh,won,5 wickets,43.0,won,2nd,Sri Lanka,Dhaka,14 Jan 2009,5.0,50,1.0,13,0.1,0.0769230769231,1,1,0
+1366,780.0,Bangladesh,lost,2 wickets,11.0,lost,1st,Sri Lanka,Dhaka,16 Jan 2009,6.0,51,2.0,14,0.117647058824,0.142857142857,0,0,1
+1367,784.0,Bangladesh,lost,7 wickets,31.0,lost,1st,Sri Lanka,Dhaka,4 Jan 2010,9.0,55,2.0,15,0.163636363636,0.133333333333,0,0,1
+1368,786.0,Bangladesh,lost,9 wickets,43.0,lost,1st,Sri Lanka,Dhaka,8 Jan 2010,9.0,57,2.0,16,0.157894736842,0.125,0,0,1
+1369,792.0,Bangladesh,lost,126 runs,,lost,2nd,Sri Lanka,Dambulla,18 Jun 2010,9.0,63,2.0,17,0.142857142857,0.117647058824,0,0,0
+1370,812.0,Bangladesh,won,5 wickets,17.0,won,2nd,Sri Lanka,Dhaka,20 Mar 2012,15.0,83,2.0,18,0.180722891566,0.111111111111,1,1,0
+1371,819.0,Bangladesh,lost,8 wickets,32.0,lost,1st,Sri Lanka,Hambantota,23 Mar 2013,19.0,90,3.0,19,0.211111111111,0.157894736842,0,0,1
+1372,820.0,Bangladesh,won,3 wickets,6.0,lost,2nd,Sri Lanka,Pallekele,28 Mar 2013,19.0,91,3.0,20,0.208791208791,0.15,0,1,0
+1373,824.0,Bangladesh,lost,13 runs,,won,2nd,Sri Lanka,Dhaka,17 Feb 2014,23.0,95,4.0,21,0.242105263158,0.190476190476,1,0,0
+1374,825.0,Bangladesh,lost,61 runs,,lost,2nd,Sri Lanka,Dhaka,20 Feb 2014,23.0,96,4.0,22,0.239583333333,0.181818181818,0,0,0
+1375,826.0,Bangladesh,lost,6 wickets,15.0,lost,1st,Sri Lanka,Dhaka,22 Feb 2014,23.0,97,4.0,23,0.237113402062,0.173913043478,0,0,1
+1376,829.0,Bangladesh,lost,3 wickets,6.0,won,1st,Sri Lanka,Dhaka,6 Mar 2014,23.0,100,4.0,24,0.23,0.166666666667,1,0,1
+1377,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+1378,760.0,Bangladesh,lost,152 runs,,lost,2nd,Pakistan,Lahore,8 Apr 2008,4.0,31,0.0,0,0.129032258065,,0,0,0
+1379,761.0,Bangladesh,lost,7 wickets,10.0,won,1st,Pakistan,Faisalabad,11 Apr 2008,4.0,32,0.0,1,0.125,0.0,1,0,1
+1380,762.0,Bangladesh,lost,23 runs,,lost,2nd,Pakistan,Lahore,13 Apr 2008,4.0,33,0.0,2,0.121212121212,0.0,0,0,0
+1381,763.0,Bangladesh,lost,7 wickets,33.0,won,1st,Pakistan,Multan,16 Apr 2008,4.0,34,0.0,3,0.117647058824,0.0,1,0,1
+1382,764.0,Bangladesh,lost,150 runs,,lost,2nd,Pakistan,Karachi,19 Apr 2008,4.0,35,0.0,4,0.114285714286,0.0,0,0,0
+1383,765.0,Bangladesh,lost,70 runs,,won,2nd,Pakistan,Dhaka,8 Jun 2008,4.0,36,0.0,5,0.111111111111,0.0,1,0,0
+1384,770.0,Bangladesh,lost,10 wickets,182.0,won,1st,Pakistan,Karachi,4 Jul 2008,4.0,41,0.0,6,0.0975609756098,0.0,1,0,1
+1385,793.0,Bangladesh,lost,139 runs,,lost,2nd,Pakistan,Dambulla,21 Jun 2010,9.0,64,0.0,7,0.140625,0.0,0,0,0
+1386,807.0,Bangladesh,lost,5 wickets,146.0,won,1st,Pakistan,Dhaka,1 Dec 2011,14.0,78,0.0,8,0.179487179487,0.0,1,0,1
+1387,808.0,Bangladesh,lost,76 runs,,lost,2nd,Pakistan,Dhaka,3 Dec 2011,14.0,79,0.0,9,0.177215189873,0.0,0,0,0
+1388,809.0,Bangladesh,lost,58 runs,,lost,2nd,Pakistan,Chittagong,6 Dec 2011,14.0,80,0.0,10,0.175,0.0,0,0,0
+1389,810.0,Bangladesh,lost,21 runs,,won,2nd,Pakistan,Dhaka,11 Mar 2012,14.0,81,0.0,11,0.172839506173,0.0,1,0,0
+1390,813.0,Bangladesh,lost,2 runs,,won,2nd,Pakistan,Dhaka,22 Mar 2012,16.0,84,0.0,12,0.190476190476,0.0,1,0,0
+1391,828.0,Bangladesh,lost,3 wickets,1.0,won,1st,Pakistan,Dhaka,4 Mar 2014,23.0,99,0.0,13,0.232323232323,0.0,1,0,1
+1392,,Team,Result,Margin,BR,Toss,Bat,Opposition,Ground,StartDate,cum_wins,counter,cum_h2h_wins,counter_h2h,Pct_win,Pct_head_to_head_win,0,0,0
+1393,746.0,Bangladesh,lost,9 wickets,124.0,lost,1st,New Zealand,North Sound,2 Apr 2007,3.0,17,0.0,0,0.176470588235,,0,0,1
+1394,754.0,Bangladesh,lost,6 wickets,44.0,lost,1st,New Zealand,Auckland,26 Dec 2007,4.0,25,0.0,1,0.16,0.0,0,0,1
+1395,755.0,Bangladesh,lost,102 runs,,lost,2nd,New Zealand,Napier,28 Dec 2007,4.0,26,0.0,2,0.153846153846,0.0,0,0,0
+1396,756.0,Bangladesh,lost,10 wickets,264.0,lost,1st,New Zealand,Queenstown,31 Dec 2007,4.0,27,0.0,3,0.148148148148,0.0,0,0,1
+1397,774.0,Bangladesh,won,7 wickets,27.0,won,2nd,New Zealand,Dhaka,9 Oct 2008,4.0,45,0.0,4,0.0888888888889,0.0,1,1,0
+1398,775.0,Bangladesh,lost,75 runs,,won,2nd,New Zealand,Dhaka,11 Oct 2008,5.0,46,1.0,5,0.108695652174,0.2,1,0,0
+1399,776.0,Bangladesh,lost,79 runs,,lost,2nd,New Zealand,Chittagong,14 Oct 2008,5.0,47,1.0,6,0.106382978723,0.166666666667,0,0,0
+1400,788.0,Bangladesh,lost,146 runs,,lost,2nd,New Zealand,Napier,5 Feb 2010,9.0,59,1.0,7,0.152542372881,0.142857142857,0,0,0
+1401,789.0,Bangladesh,lost,5 wickets,135.0,lost,1st,New Zealand,Dunedin,8 Feb 2010,9.0,60,1.0,8,0.15,0.125,0,0,1
+1402,790.0,Bangladesh,lost,3 wickets,31.0,lost,1st,New Zealand,Christchurch,11 Feb 2010,9.0,61,1.0,9,0.147540983607,0.111111111111,0,0,1
+1403,794.0,Bangladesh,won,9 runs,,won,1st,New Zealand,Dhaka,5 Oct 2010,9.0,65,1.0,10,0.138461538462,0.1,1,1,1
+1404,795.0,Bangladesh,won,7 wickets,60.0,won,2nd,New Zealand,Dhaka,11 Oct 2010,10.0,66,2.0,11,0.151515151515,0.181818181818,1,1,0
+1405,796.0,Bangladesh,won,9 runs,,lost,1st,New Zealand,Dhaka,14 Oct 2010,11.0,67,3.0,12,0.164179104478,0.25,0,1,1
+1406,797.0,Bangladesh,won,3 runs,,won,1st,New Zealand,Dhaka,17 Oct 2010,12.0,68,4.0,13,0.176470588235,0.307692307692,1,1,1
+1407,821.0,Bangladesh,won,43 runs,,lost,1st,New Zealand,Dhaka,29 Oct 2013,20.0,92,5.0,14,0.217391304348,0.357142857143,0,1,1
+1408,822.0,Bangladesh,won,40 runs,,won,1st,New Zealand,Dhaka,31 Oct 2013,21.0,93,6.0,15,0.225806451613,0.4,1,1,1
+1409,823.0,Bangladesh,won,4 wickets,4.0,won,2nd,New Zealand,Fatullah,3 Nov 2013,22.0,94,7.0,16,0.234042553191,0.4375,1,1,0
